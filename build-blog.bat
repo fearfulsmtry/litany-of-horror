@@ -2,17 +2,14 @@
 echo 🔨 Building Litany of Horror Blog...
 echo.
 
-REM Add Ruby to PATH
-set PATH=%PATH%;C:\Ruby34-x64\bin
-
 REM Temporarily hide Gemfile to avoid bundler
 if exist Gemfile (
     rename Gemfile _Gemfile.tmp 2>nul
 )
 
-REM Build the Jekyll site
+REM Build the Jekyll site using Git Bash
 echo Building Jekyll site...
-jekyll build
+"C:\Program Files\Git\bin\bash.exe" -c "jekyll build"
 
 REM Restore Gemfile
 if exist _Gemfile.tmp (

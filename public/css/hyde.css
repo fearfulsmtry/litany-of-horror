@@ -29,16 +29,16 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Libre Baskerville", "Times New Roman", serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 
@@ -54,7 +54,7 @@ html {
 .sidebar-about h1 {
   color: #ffffff;
   margin-top: 0;
-  font-family: "Almendra SC", serif;
+  font-family: "UnifrakturCook", serif;
   font-size: 3.25rem;
   letter-spacing: 0.03em;
 }
@@ -145,7 +145,7 @@ a.sidebar-nav-item:focus {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Libre Baskerville", "Times New Roman", serif;
   font-size: .875rem; /* 15px */
   color: #f3f3f3;
   background-color: #181818;
