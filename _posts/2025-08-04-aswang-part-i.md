@@ -95,10 +95,6 @@ She didn’t know why, but tears came.
 
 ---
 
-**Aswang – Part I (continued): The Midwife Returns**
-
----
-
 The next morning came hot and slow.
 
 Roosters called before the sun had fully risen, and the village stirred to life as if it had always been awake. Miguel took a walk to stretch his back and check on the hire van—he returned dusty, annoyed at the potholes, muttering something about the suspension. Tatay Lito swept the yard with the quiet rhythm of someone who had done so for decades. Anna stayed inside, her limbs heavy, her dreams from the night before still clinging like mist.
@@ -188,10 +184,6 @@ That night, Anna opened the packet of herbs Belen had left on the kitchen table.
 She locked the windows. She double-checked the back door. And when she finally lay down to sleep beside Miguel, she placed the tiny relic beneath her pillow.
 
 In the dark, something rustled on the roof.
-
----
-
-**Aswang – Part I (continued): What the Elders Whisper**
 
 ---
 
@@ -285,10 +277,6 @@ Like it had been cut off.
 
 ---
 
-**Aswang – Part I (continued): Things That Watch**
-
----
-
 The dream was strange, but not unfamiliar.
 
 Anna stood in the middle of a rice field under a deep indigo sky, windless and wrong. The stalks around her were dry, brittle, clicking like teeth in the absence of breeze. Her hands were pressed against her stomach, heavy with the child, but something inside her moved—not the usual flutter. A turning. A deliberate shifting.
@@ -378,10 +366,6 @@ But now it limped.
 
 ---
 
-**Aswang – Part I (continued): The Visit with No Herbs**
-
----
-
 It was two days before the funeral.
 
 The sun hung low in the west, casting gold across the dusty road when Aling Belen returned—this time without warning, without basket, and without smile.
@@ -463,10 +447,6 @@ Anna didn’t respond.
 She didn’t mention how Belen’s skin didn’t seem to wrinkle when she moved. Or how the shadows behind her didn’t quite match the angle of the sun. Or how, just before she left, the rosary in her pocket had grown warm. Not hot. Not burning.
 
 Just warm. Like it was warning her.
-
----
-
-**Aswang – Part I (continued): The Funeral**
 
 ---
 
