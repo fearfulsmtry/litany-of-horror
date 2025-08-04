@@ -258,19 +258,81 @@ a.sidebar-nav-item:focus {
   visibility: visible;
 }
 
-/* Slide effect for mobile */
-#sidebar-checkbox:checked ~ .sidebar,
-#sidebar-checkbox:checked ~ .wrap,
-#sidebar-checkbox:checked ~ .content {
-  -webkit-transform: translateX(14rem);
-      -ms-transform: translateX(14rem);
-          transform: translateX(14rem);
+/* Slide effect for desktop only */
+@media (min-width: 48rem) {
+  #sidebar-checkbox:checked ~ .sidebar,
+  #sidebar-checkbox:checked ~ .wrap,
+  #sidebar-checkbox:checked ~ .content {
+    -webkit-transform: translateX(14rem);
+        -ms-transform: translateX(14rem);
+            transform: translateX(14rem);
+  }
 }
 
 /* Hide toggle on desktop */
 @media (min-width: 48rem) {
   .sidebar-toggle {
     display: none;
+  }
+}
+
+/* Mobile-first: sidebar at top */
+@media (max-width: 47.9rem) {
+  .sidebar {
+    position: static;
+    left: auto;
+    width: 100%;
+    visibility: visible;
+    overflow-y: visible;
+    background-color: #181818;
+    border-bottom: 1px solid #333;
+  }
+  
+  .sidebar-about {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .sidebar-about h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .sidebar-nav {
+    text-align: center;
+    padding-bottom: 1rem;
+  }
+  
+  .sidebar-nav-item {
+    display: inline-block;
+    margin: 0 0.5rem;
+  }
+  
+  .sidebar-item {
+    display: none; /* Hide copyright on mobile */
+  }
+  
+  .sidebar-toggle {
+    display: none; /* Hide hamburger menu */
+  }
+  
+  .sidebar-checkbox {
+    display: none; /* Hide checkbox */
+  }
+  
+  /* Reset content positioning */
+  .content {
+    margin-left: 0;
+    max-width: none;
+  }
+  
+  /* Remove slide effect on mobile */
+  #sidebar-checkbox:checked ~ .sidebar,
+  #sidebar-checkbox:checked ~ .wrap,
+  #sidebar-checkbox:checked ~ .content {
+    -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
   }
 }
 

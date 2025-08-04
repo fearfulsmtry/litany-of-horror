@@ -112,6 +112,35 @@ strong {
   color: #ffffff;
 }
 
+/* Series Navigation */
+.series-nav {
+  background-color: #2a2a2a;
+  border-left: 4px solid #666;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.series-nav h4 {
+  margin: 0 0 0.5rem 0;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.series-nav p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.series-nav a {
+  color: #ccc;
+  text-decoration: underline;
+}
+
+.series-nav a:hover {
+  color: #fff;
+}
+
 /* Lists */
 ul, ol, dl {
   margin-top: 0;

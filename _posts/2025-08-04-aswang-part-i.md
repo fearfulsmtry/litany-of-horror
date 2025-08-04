@@ -4,7 +4,13 @@ title: Aswang - Part I
 date: 2025-08-04
 categories: [horror, supernatural]
 tags: [folk-horror, aswang]
+series: aswang
 ---
+
+<div class="series-nav">
+  <h4>📖 Aswang</h4>
+  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <em>Part II: Coming Soon</em></p>
+</div>
 
 **Aswang – Part I: Echoes in the Earth**
 
@@ -541,4 +547,11 @@ The windows were shut.
 But the candle at the altar was lit—though no one had touched it.
 
 And the relic beneath her pillow was warm again.
+
+---
+
+<div class="series-nav">
+  <h4>📖 Continue the Aswang Series</h4>
+  <p><a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <em>Part II: Coming Soon</em></p>
+</div>
 
