@@ -22,10 +22,10 @@ Anna returns to her grandmother's village in the Philippines, pregnant and seeki
 
 Anna arrives at her grandmother's village for the funeral. The novena prayers begin, and old stories resurface about things that walk without feet and hunger for what grows in the womb.
 
-### Part II: The Midwife's Gift
-*Coming Soon*
+### [Part II: Roots of the Rot]({{ site.baseurl }}/2025/08/05/aswang-part-ii/)
+*Published August 5, 2025*
 
-The mysterious Aling Belen offers her services, but her touch carries the weight of old hungers and forgotten bargains.
+The past and present converge as Anna discovers her grandmother's hidden secrets. A stillborn child, a mysterious apprentice, and the realization that some inheritances are written in blood. Anna's faith—and her child—face their first true test.
 
 ### Part III: What Breathes in the Dark
 *Coming Soon*

@@ -8,8 +8,8 @@ series: aswang
 ---
 
 <div class="series-nav">
-  <h4>📖 Aswang</h4>
-  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <em>Part II: Coming Soon</em></p>
+  <h4>📖 Aswang Series</h4>
+  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot</a> | <em>Part III: Coming Soon</em></p>
 </div>
 
 **Aswang – Part I: Echoes in the Earth**
@@ -169,7 +169,7 @@ He nodded. “Many years ago. Then came back. Not a wrinkle on her.”
 
 Miguel scoffed softly. “What, you think she’s a vampire?”
 
-“No,” said Lito. “I think she hides something worse.”
+“No,” said Lito. “I think she hides something else.”
 
 Anna frowned. “She just seemed… intense.”
 
@@ -362,7 +362,7 @@ She slept that night with the reliquary clutched in one hand, tucked beneath her
 
 Only the cat. Still on the fence. Still staring.
 
-But now it limped.
+It's eyes strangely familiar.
 
 ---
 
@@ -532,6 +532,6 @@ And the relic beneath her pillow was warm again.
 
 <div class="series-nav">
   <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <em>Part II: Coming Soon</em></p>
+  <p><a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot →</a></p>
 </div>
 
