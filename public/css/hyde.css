@@ -125,6 +125,38 @@ a.sidebar-nav-item:focus {
   color: #ffffff;
 }
 
+/* Series section in sidebar */
+.sidebar-series {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255,255,255,.15);
+}
+
+.sidebar-series-title {
+  display: block;
+  padding: .25rem 1rem .5rem 1rem;
+  font-size: .85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #888;
+}
+
+.sidebar-series-item {
+  padding-left: 1.25rem;
+  border-left: 2px solid rgba(255,255,255,.1);
+  margin-left: 1rem;
+}
+
+.sidebar-series-item:hover,
+.sidebar-series-item:focus {
+  border-left-color: rgba(255,255,255,.3);
+}
+
+.sidebar-series-item.active {
+  border-left-color: #fff;
+}
+
 @media (min-width: 48em) {
   .sidebar-nav-item {
     padding-left:  1.5rem;
@@ -306,6 +338,27 @@ a.sidebar-nav-item:focus {
   .sidebar-nav-item {
     display: inline-block;
     margin: 0 0.5rem;
+  }
+  
+  .sidebar-series {
+    text-align: center;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(255,255,255,.15);
+  }
+  
+  .sidebar-series-title {
+    display: block;
+    margin-bottom: 0.5rem;
+    padding: 0;
+  }
+  
+  .sidebar-series-item {
+    display: inline-block;
+    margin: 0 0.5rem;
+    padding-left: 0.75rem;
+    border-left: none;
+    margin-left: 0;
   }
   
   .sidebar-item {

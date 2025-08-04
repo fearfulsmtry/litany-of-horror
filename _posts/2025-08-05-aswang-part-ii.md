@@ -9,7 +9,7 @@ series: aswang
 
 <div class="series-nav">
   <h4>📖 Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I: Echoes in the Earth</a> | <strong>Part II: Roots of the Rot</strong> (Current) | <em>Part III: Coming Soon</em></p>
+  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I: Echoes in the Earth</a> | <strong>Part II: Roots of the Rot</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: The Descent</a></p>
 </div>
 
 **Aswang – Part II: Roots of the Rot**  
@@ -18,18 +18,7 @@ series: aswang
 
 The rain came suddenly the next day.
 
-Sheets of it, like God had overturned a basin across the mountains. The road turShe closed her eyes and whispered:
-
-> "I remember, Mama."
-
-**[End of Part II]**
-
----
-
-<div class="series-nav">
-  <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">← Part I: Echoes in the Earth</a> | <a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <em>Part III: Coming Soon</em></p>
-</div>o mud. Chickens huddled beneath upturned basins. The village radios fell silent, as if the static knew better than to speak.
+Sheets of it, like God had overturned a basin across the mountains. The road turned to mud. Chickens huddled beneath upturned basins. The village radios fell silent, as if the static knew better than to speak.
 
 Anna sat curled on the rattan bench by the window, cradling a cup of lukewarm salabat. The baby shifted beneath her ribs—restless. Miguel had gone with Lito to fetch some canned goods before the footbridge flooded. She was alone in the house.
 
@@ -586,3 +575,9 @@ She closed her eyes and whispered:
 
 **[End of Part II]**
 
+---
+
+<div class="series-nav">
+  <h4>📖 Continue the Aswang Series</h4>
+  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">← Part I: Echoes in the Earth</a> | <a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: The Descent →</a></p>
+</div>

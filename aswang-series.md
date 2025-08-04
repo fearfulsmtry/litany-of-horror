@@ -27,10 +27,10 @@ Anna arrives at her grandmother's village for the funeral. The novena prayers be
 
 The past and present converge as Anna discovers her grandmother's hidden secrets. A stillborn child, a mysterious apprentice, and the realization that some inheritances are written in blood. Anna's faith—and her child—face their first true test.
 
-### Part III: What Breathes in the Dark
-*Coming Soon*
+### [Part III: The Descent]({{ site.baseurl }}/2025/08/05/aswang-part-iii/)
+*Published August 5, 2025*
 
-The final confrontation between faith and hunger, between the prayers of the living and the appetites of the ancient.
+Miguel's rational world crumbles as the supernatural closes in. When reason fails and terror takes root, he must choose between skepticism and faith. The final confrontation approaches as ancient hunger stirs beneath the floorboards.
 
 ---
 

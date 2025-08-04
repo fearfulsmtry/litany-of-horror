@@ -9,7 +9,7 @@ series: aswang
 
 <div class="series-nav">
   <h4>📖 Aswang Series</h4>
-  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot</a> | <em>Part III: Coming Soon</em></p>
+  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: The Descent</a></p>
 </div>
 
 **Aswang – Part I: Echoes in the Earth**
