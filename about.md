@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-### *Stories from the edge of faith and folklore.*
+### *Stories from the edge of faith.*
 
 ---
 

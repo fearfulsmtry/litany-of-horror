@@ -1,11 +1,11 @@
 title: Litany of Horror
-description: Stories from the edge of faith and folklore.
+description: Stories from the edge of faith.
 url: ""
 baseurl: ""
 
 # Social media usernames (without @ symbol)
 author:
-  name: Your Name
+  name: Kris Canasa
   email: your-email@example.com
 
 # Build settings
