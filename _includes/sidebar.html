@@ -6,7 +6,7 @@
 <div class="sidebar" id="sidebar">
   <div class="sidebar-about">
     <h1>
-      <a href="{{ '/' | relative_url }}">
+      <a href="{{ '/' | relative_url }}" title="Litany of Horror v{{ site.version }}">
         Litany of Horror
       </a>
     </h1>
@@ -29,7 +29,6 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
   <div class="sidebar-item">
