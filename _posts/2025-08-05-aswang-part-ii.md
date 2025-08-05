@@ -13,7 +13,7 @@ series: aswang
 </div>
 
 **Aswang – Part II: Roots of the Rot** 
- 
+
 _"Their root will be as rottenness, and their blossom will go up like dust."_
 _(Isaiah 5:24)_
 
@@ -87,7 +87,7 @@ He hesitated.
 
 He looked up at her then. His eyes were dry, but darker than before.
 
-“That something evil didn’t just come here. That it never left.”
+“That something evil visited Mama.”
 
 ---
 
