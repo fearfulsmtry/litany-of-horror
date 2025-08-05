@@ -343,5 +343,5 @@ She never aged again.
 
 <div class="series-nav">
   <h4>📖 Complete the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">← Part III: Where Reason Alone Fails</a> | <a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V: Faith Draws the Blade →</a></p>
+  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">← Part III: Where Reason Alone Fails</a> | <a href="{{ site.baseurl }}/aswang-series.html">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V: Faith Draws the Blade →</a></p>
 </div>
