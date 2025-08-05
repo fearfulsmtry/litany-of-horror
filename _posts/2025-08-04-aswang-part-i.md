@@ -49,7 +49,7 @@ They gathered in the sala, chairs pulled into a semicircle, some kneeling, other
 
 She remembered these prayers vaguely—her mother’s voice, hands folded beside her at bedtime. It had been years. Teresa would light candles every Saturday and whisper a Hail Mary at red lights. It was all background then. Now, it felt like an inheritance she’d misplaced.
 
-When the mysteries were done, an older woman—Tiya Nena—began passing out rice cakes and tsokolate in little enamel cups. Conversation resumed in the flicker of candles and murmurs of fans creaking overhead. Someone brought up the heat, someone else the state of the roads. Then came the stories.
+When the mysteries were done, an older woman—Tita Nena—began passing out rice cakes and tsokolate in little enamel cups. Conversation resumed in the flicker of candles and murmurs of fans creaking overhead. Someone brought up the heat, someone else the state of the roads. Then came the stories.
 
 It began innocuously—talk of strange dreams, a neighbor’s cat mewling at night, chickens missing from their pens.
 

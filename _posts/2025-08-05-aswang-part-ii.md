@@ -97,11 +97,9 @@ It wasn’t old. The ink hadn’t faded. The handwriting was unmistakably Biana�
 
 Inside: a single line.
 
-> _“If it comes for your child, you will need to act as I once did.”_
+> _“Protect the children, the mothers. Keep them away, she is not what she seems.”_
 
-Beneath it was a folded square of red thread. And something heavy.
-
-A small reliquary disk, cold and metallic in her hand.
+She instinctively reached for the relic, she had been keeping it with her, felt it kept her safe.
 
 She stood there, in the silent room, clutching it to her chest.
 
@@ -117,7 +115,7 @@ The rain broke the next day. Clouds still hung low, but the sun pierced through 
 
 Word reached the house by midmorning: **Aling Riza**—a mother of three, eight months along with her fourth—had gone into labor unexpectedly.
 
-Anna heard it from Tiya Nena, who dropped by with dried fish and news. “It was too soon,” she said, shaking her head. “She wasn’t due till next month. The baby was moving yesterday. They say it just… stopped.”
+Anna heard it from Tita Nena, who dropped by with dried fish and news. “It was too soon,” she said, shaking her head. “She wasn’t due till next month. The baby was moving yesterday. They say it just… stopped.”
 
 “Where is she now?” Anna asked.
 
@@ -173,6 +171,8 @@ And Aling Riza had not woken.
 
 Anna stood among them, arms wrapped over her belly.
 
+The wails of Riza’s husband and children carried across the fields—raw, jagged, unbearable.
+
 Mira emerged from the house with the bundle wrapped in white cloth. She didn’t look at anyone. She walked toward the chapel gates, placed the bundle by the altar, and whispered something no one could hear.
 
 Tatay Lito stepped forward, jaw tight.
@@ -209,7 +209,7 @@ Just empty.
 
 ---
 
-The funeral for Aling Riza was small.
+The funeral for Riza was small.
 
 Too small.
 
