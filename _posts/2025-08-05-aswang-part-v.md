@@ -13,6 +13,7 @@ series: aswang
 </div>
 
 **Aswang – Part V: Faith Draws the Blade**  
+
 _"There is a time to kill, and a time to heal"_
 _(Ecclesiasties 3:3)_
 

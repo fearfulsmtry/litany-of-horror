@@ -13,6 +13,7 @@ series: aswang
 </div>
 
 **Aswang – Part I: Echoes in the Earth**
+
 _"The blood of Abel cries out from the ground."_
 _(Genesis 4:10)_
 

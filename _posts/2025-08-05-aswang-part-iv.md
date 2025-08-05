@@ -13,6 +13,7 @@ series: aswang
 </div>
 
 **Aswang – Part IV: The First Call**  
+
 _“The serpent was more cunning than any beast of the field…”_
 _(Genesis 3:1)_
 

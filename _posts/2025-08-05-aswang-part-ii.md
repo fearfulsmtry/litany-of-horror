@@ -12,7 +12,8 @@ series: aswang
   <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I</a> | <strong>Part II: Roots of the Rot</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">Part VI</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vii/">Part VII</a> | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue</a></p>
 </div>
 
-**Aswang – Part II: Roots of the Rot**  
+**Aswang – Part II: Roots of the Rot** 
+ 
 _"Their root will be as rottenness, and their blossom will go up like dust."_
 _(Isaiah 5:24)_
 

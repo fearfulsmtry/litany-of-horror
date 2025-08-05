@@ -52,8 +52,8 @@ The ancient ritual unfolds as Anna is led into the heart of the aswang's power. 
 
 The final battle between light and darkness. As the ritual reaches its climax, Anna must choose between her own life and the life growing within her. In the end, some victories can only be won through sacrifice.
 
-### [Epilogue: The Flame That Remained]({{ site.baseurl }}/2025/08/05/aswang-epilogue/)
-*Published August 5, 2025*
+### [Epilogue: The Flame That Remained]({{ site.baseurl }}/2025/08/06/aswang-epilogue/)
+*Published August 6, 2025*
 
 In the aftermath, the village heals and life returns to normal. Anna and Miguel return to Australia where their son is born and baptized. But some flames never die, and some hungers never fade completely.
 
