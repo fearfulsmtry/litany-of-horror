@@ -69,7 +69,7 @@ Miguel reached across the table, his hand over hers.
 
 “He won’t.”
 
-Lito spoke softly, but with finality.
+Anna spoke softly, but with finality.
 
 > “Then we must kill her.”
 
@@ -85,23 +85,163 @@ Like the stillness before a hammer falls.
 
 ---
 
-Miguel stood and checked the salt line for the sixth time that day.
+Anna dreamed that night.
 
-Anna remained at the table, staring into the candle’s flicker.
+Not of Mira. Not of Belen.
 
-She could feel something pressing at the edge of her thoughts—not a voice, not a presence.
+Not of the field with whispering stalks or the shape behind the door.
 
-Just a waiting.
-
-A hunger not her own.
-
-She swallowed.
-
-And prayed without words.
+She dreamed of her grandmother.
 
 ---
 
-**Aswang – Part VII (continued): The False Escape**
+The candle was nearly out.
+
+It flickered on the old altar in the bedroom, casting long shadows over the rosary beads and the relic she’d hidden too long.
+
+**Fabiana** stood with her hands folded over her stomach. Her hair was tied in a neat bun. Her dress was simple. Clean. The way her own mother taught her to dress when facing the dying.
+
+She wasn’t sure who would die tonight.
+
+Only that one of them must.
+
+---
+
+The knock came softly. Not rushed.  
+As if the visitor already knew the door would open.
+
+Fabiana turned the knob and stepped aside.
+
+**Belen** entered.
+
+No veil. No herbs.  
+Just a faint smile that did not reach her eyes.
+
+“You summoned me like a priest,” she said.
+
+Fabiana didn’t return the smile. “I summoned you like a midwife. When something dark is crowning, you don’t wait for it to arrive. You prepare.”
+
+---
+
+Belen looked around the room. Her gaze lingered on the crucifix. Then the relic. Then back to Fabiana.
+
+“You were once my teacher,” she said. “Now you speak to me like I’m unclean.”
+
+“I taught you to help mothers bring life into the world,” Fabiana said. “Not to mimic it with death.”
+
+Her voice didn’t rise. But it deepened. Rooted in prayer.
+
+“You walk the village like nothing has changed,” she continued. “But the dogs whimper at night. The trees don’t rustle anymore. And the children—if they’re born at all—no longer dream.”
+
+---
+
+Belen’s expression cooled.
+
+“You speak of things you don’t understand, Ma’am.”
+
+“I understand enough,” Fabiana said.
+
+She reached for the brass relic wrapped in linen. Uncovered it.
+
+Held it out between them—not with hatred, but with sorrow.
+
+> “The woman in the mountains gave you something. But it didn’t come from God.”
+
+---
+
+Belen took one step closer.
+
+The relic **burned**—faint wisps of smoke rising from Fabiana’s palm.
+
+She didn’t let go.
+
+> “You were mine to raise,” Fabiana whispered.  
+> “But not mine to keep.  
+> You chose something else.”
+
+---
+
+Belen’s smile broke. Not into rage—but grief twisted backward into cruelty.
+
+“You cast me out.”
+
+“I gave you herbs. A roof. I gave you prayer.”
+
+“You gave me silence when I needed love,” Belen hissed.
+
+“Love corrects,” Fabiana said. “And you wouldn’t be corrected.”
+
+---
+
+A long pause.
+
+Then Belen’s hand moved fast.
+
+Faster than human.
+
+Her fingers **closed around Fabiana’s throat**, and **lifted** her effortlessly off the ground.
+
+Fabiana did not struggle.
+
+She did not scream.
+
+She looked Belen in the eyes—those eyes she once blessed at baptism—and whispered her last words:
+
+> “I forgive you.  
+> In the name of the One who sees you still.”
+
+---
+
+Then—
+
+A sickening crack.
+
+Her neck snapped sideways.
+
+The relic fell from her hand, bounced once on the floor, and rolled beneath the bed.
+
+---
+
+Belen stood over her for a moment, chest heaving.
+
+Fabiana’s body lay crumpled on the wooden floorboards, hands still gently folded as if in prayer.
+
+The candle guttered.
+
+Then went out.
+
+And somewhere in the fields,  
+**something began to hum.**
+
+---
+
+Anna woke with a gasp.
+
+The room was dark.
+
+Still.
+
+Miguel lay sleeping beside her, one arm across his chest.
+
+The relic was warm beneath her pillow.
+
+And at the altar, a single candle—unlit when she’d gone to bed—now burned steady.
+
+No smoke. No match.
+
+Just flame.
+
+Anna sat up, hand on her belly.
+
+The child stirred beneath her ribs, as if sensing something solemn had passed through the house.
+
+She whispered:
+
+> “I remember, Lola.”
+
+Then she rose.
+
+And began to prepare.
 
 ---
 
