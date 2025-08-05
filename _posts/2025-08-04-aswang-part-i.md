@@ -9,10 +9,12 @@ series: aswang
 
 <div class="series-nav">
   <h4>📖 Aswang Series</h4>
-  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: The Descent</a></p>
+  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: Where Reason Alone Fails</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV: The First Call</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V: Faith Draws the Blade</a></p>
 </div>
 
 **Aswang – Part I: Echoes in the Earth**
+_"The blood of Abel cries out from the ground."_
+_(Genesis 4:10)_
 
 ---
 
@@ -527,6 +529,8 @@ The windows were shut.
 But the candle at the altar was lit—though no one had touched it.
 
 And the relic beneath her pillow was warm again.
+
+**[End of Part I]**
 
 ---
 

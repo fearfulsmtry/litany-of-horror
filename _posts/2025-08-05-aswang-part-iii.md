@@ -9,11 +9,12 @@ series: aswang
 
 <div class="series-nav">
   <h4>📖 Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I: Echoes in the Earth</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot</a> | <strong>Part III: The Descent</strong> (Current)</p>
+  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I: Echoes in the Earth</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot</a> | <strong>Part III: Where Reason Alone Fails</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV: The First Call</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V: Faith Draws the Blade</a></p>
 </div>
 
-**Aswang – Part III: The Descent**  
-_From the eyes of the Reasonable Man, when reason fails._  
+**Aswang – Part III: Where Reason Alone Fails**  
+_"Lord, I believe. Help my unbelief."_ 
+_(Mark 9:24)_
 
 ---
 
@@ -303,5 +304,5 @@ He pressed the salt pouch into his chest and stayed by the window until dawn.
 
 <div class="series-nav">
   <h4>📖 Complete the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">← Part II: Roots of the Rot</a></p>
+  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">← Part II: Roots of the Rot</a> | <a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV: The First Call →</a></p>
 </div>

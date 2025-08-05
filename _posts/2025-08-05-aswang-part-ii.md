@@ -9,10 +9,12 @@ series: aswang
 
 <div class="series-nav">
   <h4>📖 Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I: Echoes in the Earth</a> | <strong>Part II: Roots of the Rot</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: The Descent</a></p>
+  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I: Echoes in the Earth</a> | <strong>Part II: Roots of the Rot</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: Where Reason Alone Fails</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV: The First Call</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V: Faith Draws the Blade</a></p>
 </div>
 
 **Aswang – Part II: Roots of the Rot**  
+_"Their root will be as rottenness, and their blossom will go up like dust."_
+_(Isaiah 5:24)_
 
 ---
 
@@ -579,5 +581,5 @@ She closed her eyes and whispered:
 
 <div class="series-nav">
   <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">← Part I: Echoes in the Earth</a> | <a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: The Descent →</a></p>
+  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">← Part I: Echoes in the Earth</a> | <a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: Where Reason Alone Fails →</a></p>
 </div>
