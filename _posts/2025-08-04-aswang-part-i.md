@@ -537,6 +537,6 @@ And the relic beneath her pillow was warm again.
 
 <div class="series-nav">
   <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/aswang-series.html">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot →</a></p>
+  <p><a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot →</a></p>
 </div>
 

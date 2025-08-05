@@ -582,5 +582,5 @@ She closed her eyes and whispered:
 
 <div class="series-nav">
   <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">← Part I: Echoes in the Earth</a> | <a href="{{ site.baseurl }}/aswang-series.html">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: Where Reason Alone Fails →</a></p>
+  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">← Part I: Echoes in the Earth</a> | <a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: Where Reason Alone Fails →</a></p>
 </div>

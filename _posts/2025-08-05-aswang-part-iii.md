@@ -305,5 +305,5 @@ He pressed the salt pouch into his chest and stayed by the window until dawn.
 
 <div class="series-nav">
   <h4>📖 Complete the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">← Part II: Roots of the Rot</a> | <a href="{{ site.baseurl }}/aswang-series.html">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV: The First Call →</a></p>
+  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">← Part II: Roots of the Rot</a> | <a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV: The First Call →</a></p>
 </div>

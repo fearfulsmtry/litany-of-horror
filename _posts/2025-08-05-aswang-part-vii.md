@@ -267,5 +267,5 @@ She pressed it to her own chest.
 
 <div class="series-nav">
   <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">← Part VI: The Pasa</a> | <a href="{{ site.baseurl }}/aswang-series/">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue: The Flame That Remained →</a></p>
+  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">← Part VI: The Pasa</a> | <a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue: The Flame That Remained →</a></p>
 </div>

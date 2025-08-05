@@ -13,6 +13,14 @@ markdown: kramdown
 highlighter: rouge
 future: true
 
+# Clean URLs - allows /page instead of /page.html
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
 # Sidebar configuration
 sidebar_home_link: true
 
