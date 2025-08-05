@@ -9,7 +9,7 @@ title: About
 
 Welcome to **Litany of Horror**—a collection of original, slow-burning tales where **evil is real**, seductive, and ancient—but never omnipotent.
 
-These are stories shaped by **Catholic imagination**, drawn from folklore, theology, and the spiritual inheritance of generations past. They explore the world **as it is**: haunted, holy, broken, and worth redeeming.
+These are stories shaped by horror and grace, drawn from folklore, theology, and the spiritual inheritance of generations past. They explore the world **as it is**: haunted, holy, broken, and worth redeeming.
 
 Here, you’ll find:
 - Prayers whispered in crumbling chapels.

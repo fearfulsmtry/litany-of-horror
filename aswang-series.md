@@ -5,13 +5,13 @@ title: Aswang
 
 # 📖 Aswang
 
-A multi-part folk horror story exploring the ancient terrors that still whisper in the shadows of the Philippines.
+A multi-part folk horror story exploring the ancient terrors that still whisper in the shadows. Set in rural Philippines.
 
 ---
 
 ## Story Synopsis
 
-Anna returns to her grandmother's village in the Philippines, pregnant and seeking closure after her lola's death. But the old prayers and older fears still hold power in this place, and something hungry watches from the darkness—something that remembers the taste of unborn children.
+Anna returns to her grandmother's village in the Philippines, pregnant and seeking closure after her lola's death. But the old prayers and older fears still hold power in this place, and something hungry watches from the darkness.
 
 ---
 
