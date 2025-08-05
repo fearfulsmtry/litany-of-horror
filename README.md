@@ -48,6 +48,12 @@ YYYY-MM-DD-post-title.md
 
 - Edit `_config.yml` to update site settings
 - Modify colors by changing the theme class in `_layouts/default.html`
+
+## Copyright
+
+All original content, including stories, characters, and creative works on this blog are protected by copyright. See [LICENSE](LICENSE) for details.
+
+**© 2025 Kris Canasa. All rights reserved.**
 - Add new pages in the root directory with `layout: page` front matter
 
 ## Theme

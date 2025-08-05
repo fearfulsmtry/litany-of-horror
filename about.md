@@ -3,7 +3,19 @@ layout: page
 title: About
 ---
 
-### *Stories from the edge of faith.*
+##### 🙏  
+This blog is dedicated to those who keep praying, even in the dark.
+
+> _"He will cover you with His pinions, and under His wings you will find refuge..."_  
+> —Psalm 91:4
+
+---
+
+### © Copyright Notice
+
+All stories and content on this site are original works by **Kris Canasa** and are protected by copyright. These works may not be reproduced, distributed, or transmitted without permission. For inquiries about republication or adaptation rights, please contact the author.
+
+*Stories from the edge of faith. © 2025 Kris Canasa.*ories from the edge of faith.*
 
 ---
 
