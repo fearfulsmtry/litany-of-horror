@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aswang - Epilogue
-date: 2025-08-05
+date: 2025-08-06
 categories: [horror, supernatural]
 tags: [folk-horror, aswang]
 series: aswang

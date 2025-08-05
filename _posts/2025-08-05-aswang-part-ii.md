@@ -9,7 +9,7 @@ series: aswang
 
 <div class="series-nav">
   <h4>📖 Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I</a> | <strong>Part II: Roots of the Rot</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">Part VI</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vii/">Part VII</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-epilogue/">Epilogue</a></p>
+  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I</a> | <strong>Part II: Roots of the Rot</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">Part VI</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vii/">Part VII</a> | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue</a></p>
 </div>
 
 **Aswang – Part II: Roots of the Rot**  
