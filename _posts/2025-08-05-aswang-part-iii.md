@@ -115,7 +115,7 @@ Miguel nodded.
 
 He hesitated.
 
-“You’ll have to pray. Not because it works. But because it’s all that holds the line.”
+“You’ll have to pray. Not because you believe - at least not at first. Because it changes you. It's what holds the line.”
 
 ---
 
@@ -291,7 +291,7 @@ That night, after Anna fell asleep, Miguel stood by the window, staring into the
 
 He opened his mouth to speak, and the words came—not polished, not certain. Just **real**.
 
-“God… I don’t know what I’m doing. But if You’re there—watch her. Watch the baby. Watch me.”
+“God… I don’t know what I’m doing. But if You’re there—watch her. Watch the baby. Give me the strength to protect them.”
 
 He paused.
 

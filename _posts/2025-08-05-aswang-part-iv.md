@@ -46,10 +46,11 @@ Anna flipped carefully until she found an entry dated just a few months before h
 > 
 > _I keep the relic hidden now. In case I grow too weak to speak aloud._
 > 
-> _I light a candle for Anna every Sunday. She’s far, but the Lord is farther and still hears me._
+> _I light a candle for my dear apong Anna every Sunday. She’s far, but the Lord is farther and still hears me._
 > 
-> _If I don’t see her again, may the angels bring her comfort. I don’t know if she believes anymore._  
-> _But belief is a gift. Sometimes it skips a generation. But the flame can still catch._
+> _If I don’t see her again, may the angels bring her comfort. I don’t know if she believes anymore._
+> 
+> _Faith is a gift. Sometimes the embers feel cold. But the flame can still catch._
 
 Anna stopped reading.
 
@@ -95,27 +96,21 @@ When their eyes met, she turned and walked into the dark.
 
 ---
 
-They gathered in the sala just after dusk.
+That night, they gathered in the sala.
 
 No one needed to say why.
 
-Miguel finished laying the last of the salt line. Anna lit the candles at the four corners again. And Lito, after locking the door with trembling fingers, took a worn wooden chair and sat with his hands folded over a small bottle of holy water.
-
-He looked older tonight.
-
-But his eyes were clear.
+Miguel laid the last of the salt line. Anna lit the candles. Lito locked the door with trembling fingers and sat in the wooden chair beside the altar, holy water in his lap, eyes shadowed but steady.
 
 “We’ve waited long enough,” he said. “You need to know what we’re facing.”
 
 The candlelight trembled slightly.
 
----
-
 “I didn’t believe my mother at first,” he began. “I thought it was grief talking. Belen had returned, yes—but people return. Strange doesn’t mean cursed.”
 
 He paused. Rubbed the corner of his eye.
 
-“But then the stillbirths started. Quiet ones. No mourning. No questions. Some mothers grew pale. Distant. Some disappeared altogether.”
+“But then the stillbirths started. Quiet ones. No mourning. No questions. Some mothers grew pale. Some disappeared altogether.”
 
 He looked at Anna.
 
@@ -127,71 +122,51 @@ He looked at Anna.
 
 A silence settled.
 
-“I ran. Found her at the foot of the stairs. The angle of her neck… it wasn’t natural.”
-
-Anna shivered.
-
-“I told myself she fell. That made it easier. But when I carried her body back here, her fingers were burned. Like she’d held something red-hot just before death.”
+“I found her at the foot of the stairs. The angle of her neck… it wasn’t natural. I told myself she fell. That made it easier. But when I carried her body home, her fingers were burned. Like she’d held something red-hot just before death.”
 
 He gestured toward the altar.
 
 “The relic.”
 
----
-
 Miguel sat forward. “And Belen?”
 
 “Untouched. Unbothered. She came to the wake. Wept like a daughter.”
 
-Lito’s voice cracked.
+His voice cracked.
 
-“That was when I knew. I just didn’t know the name for it.”
+“That was when I knew. I just didn’t want to name it.”
 
 He looked up now.
 
 “But I do.”
 
----
+> “She’s aswang.”
 
-“They’re called **aswang**. Not the kind in stories—fangs and wings. The real ones don’t always change shape. Some never leave their bodies. Some don’t even feed often. They wait. They hollow out. And then… they take.”
+“They’re not like the stories,” he said. “Some never leave their bodies. Some don’t even feed often. They wait. They hollow out. And then… they take.”
 
-He reached into his pocket and produced a small pouch. Opened it. Inside: dark ashes, salt, and dried petals.
+He reached into his pocket and produced a small pouch. Opened it. Inside: ashes, salt, and dried petals.
 
-“The oldest ones don’t just hunger for blood. They want **inheritance**. They pass on the curse the way a parent might pass on land. Or a name.”
+“The oldest ones don’t just hunger for blood. They want inheritance. They pass on the curse the way a parent might pass on land. Or a name.”
 
-He met Anna’s eyes now.
+He met Anna’s eyes.
 
-“It’s called the **pasa**.”
+“It’s called the pasa.”
 
-She whispered it back. “Pasa.”
+He turned to Miguel.
 
-“It means ‘to pass’ or ‘to hand over.’ A rite. At death, the aswang doesn’t die. It expels something. Some say it’s a creature. Some say a stone. Some say a lump of flesh.”
+“When an aswang dies, she regurgitates… something. Some say it’s a creature. Some say a stone. Some say a lump of flesh. It must be swallowed. Received. Chosen.”
 
-“And Mira,” Miguel said.
+“And Mira,” Anna said.
 
-Lito nodded. “She’s been prepared. Groomed. Belen’s apprentice. But the rite requires something more.”
+Lito nodded. “She’s been prepared. Raised without baptism. Taught to mock prayer. But the ritual needs more.”
 
-He turned to Anna now.
+He looked at her belly.
 
-“Your child.”
-
-Miguel stood abruptly. “No. No, she’s not getting near her.”
-
-“She doesn’t need to,” Lito said softly. “She only needs to **claim** the child. To bind it spiritually. Through fear. Through blood. Or…”
-
-He trailed off.
-
-“…through invitation.”
-
-Anna paled. “She tried. She came in my mother’s voice.”
-
-Lito nodded slowly. “They don’t always break in. Sometimes they’re _let_ in.”
-
----
+> “It needs a child. A gate. A mockery of birth.”
 
 A sound cut through the silence.
 
-A **low tap-tap-tap** on the bamboo slats of the wall.
+A low tap-tap-tap on the bamboo wall.
 
 Rhythmic.
 
@@ -207,35 +182,31 @@ Miguel took up the bottle of holy water.
 
 Anna began the first Hail Mary she had said aloud in years.
 
-> _“Hail Mary, full of grace…”_
+> “Hail Mary, full of grace…”
 
 From the window—
 
 A whisper.
 
-> _“Anak… open the door… it’s Mama…”_
+> “Anak… open the door… it’s Mama…”
 
 The candles flared violently.
 
-The relic _burned hot_.
+The relic burned hot.
 
-And from beneath the front door, **black smoke** began to curl inward, tendrils reaching like fingers.
+And from beneath the front door, black smoke began to curl inward, tendrils reaching like fingers.
 
----
+Lito stepped forward and flung the holy water down.
 
-Miguel stepped forward and flung the holy water down.
-
-> _“In the name of Jesus Christ, be gone.”_
+> “In the name of Jesus Christ, be gone.”
 
 The smoke hissed. Retreated.
 
-And in the darkness, they heard her voice again—calm, maternal, **starving**:
+And in the darkness, they heard her voice again—calm, maternal, starving:
 
-> _“You can’t keep what was never blessed.”_
+> “You can’t keep what was never blessed.”
 
 Then silence.
-
----
 
 The candles steadied.
 
@@ -245,144 +216,12 @@ For now.
 
 But Lito’s face was pale. And his voice was grim.
 
-> “That was not a visit. That was the first call of the rite.”
+> “That was not a visit.
+>  That was the first call of the rite.”
 
 ---
 
-**“I didn’t believe her at first,”** Lito said. His voice was low, but steady—like he was finally letting a stone fall from his hands.  
-“Ma would say things in her last years. She was gentle, always, but there was a change. She prayed more. Slept less. She watched Belen like she was waiting for something.”
-
-He exhaled.
-
-“She was.”
-
-Anna and Miguel sat on the edge of the woven sofa. The baby was quiet inside her, but her palms were damp, her pulse ticking behind her ears.
-
-“What is Belen?” Miguel asked, already knowing the answer, already bracing against it.
-
-Lito looked directly at him.
-
-> “She’s **aswang**.”
-
----
-
-He let the word sit in the room.
-
-Anna felt the old stories flare up from childhood—long tongues, flying torsos, intestines like black vines—but this didn’t feel like that. It felt… smaller. Closer. Like Belen had been slowly stepping across a line none of them could see.
-
-“She didn’t always show it,” Lito said. “They never do. But she stopped aging long ago. And babies born in her care—some didn’t cry. Some didn’t survive. There was a year when every child she touched came sick.”
-
-He turned to Anna.
-
-“Your lola started keeping a list. Quietly. The names. The mothers. Who lived. Who didn’t.”
-
-Anna swallowed. “And Mira?”
-
-Lito nodded. “Taken in as an orphan. Raised with no baptism. No sacraments. Nothing holy in that home.”
-
-He paused. Looked toward the door, then back.
-
-“I think Belen’s dying. Whatever sustains her—it’s running thin. And she needs to pass it on.”
-
-Miguel tensed. “Pass what on?”
-
-Lito closed his eyes briefly.
-
-> “The **pasa**. A spiritual inheritance. Demonic, parasitic. When an aswang dies, she regurgitates… something. Some say it’s a creature. Some say a stone. Some say a lump of blood, still warm.”
-
-> “It must be _swallowed_. Received. Chosen.”
-
-> “If it’s accepted, the power continues. The hunger continues.”
-
-Anna felt a deep cold settle behind her ribs.
-
-“She’s grooming Mira to take it,” Lito said. “But the ritual won’t work unless it’s rooted in a birth. A… mockery of baptism. A perverse rite of blood and flesh.”
-
-“And that’s why she wants—” Miguel stopped, voice caught in his throat.
-
-Anna placed a hand on her belly.
-
-Lito nodded.
-
-> “She wants your child to be part of the inheritance. Not devoured—_claimed_. Twisted into the ritual. Consecrated to darkness.”
-
-Silence.
-
-Then Lito added, almost in a whisper:
-
-> “Your mother was taken too. Not by death. By silence. By thinking these things were just stories.  
-> Your lola died _fighting_. She didn’t fall.  
-> She confronted Belen—alone. And she paid for it.”
-
----
-
-The candle at the center of the altar flickered wildly.
-
-Miguel stood.
-
-“What do we do?”
-
-Lito looked at him.
-
-And for the first time, smiled—not with joy, but with recognition.
-
-> “Now,” he said, standing slowly, “we **pray**. And we prepare.”
-
----
-
-Outside, something scraped along the tin roof.
-
-Then silence.
-
-Then:
-
-A soft, high **whisper**, just outside the window.
-
-A woman’s voice. Familiar.
-
-**“Anak... let me in. It’s Mama. I brought your old blanket. You’re cold, aren’t you?”**
-
-Anna’s lips parted.
-
-It was **Teresa’s voice**.
-
-Her mother’s voice.
-
-Her hands trembled.
-
-Lito grabbed her wrist—firmly.
-
-“It’s not her,” he said. “It _uses_ memory. It speaks in longing.”
-
-Miguel was already at the window, holding the holy water.
-
-He looked out.
-
-Saw nothing.
-
-But then, for the briefest moment, **a long hand pressed against the glass**.
-
-Not clawed. Not monstrous.
-
-Just pale.
-
-Too pale.
-
-Then it melted back into the dark.
-
----
-
-Miguel turned to Lito.  
-“Will it stop?”
-
-Lito shook his head.
-
-> “No.  
-> It’s only begun.”
-
----
-
-#### **Belen - Bungtod, 1967**
+#### **Belen - Bungtod, 1969**
 
 ---
 
