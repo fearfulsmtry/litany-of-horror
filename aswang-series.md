@@ -42,6 +42,21 @@ The true nature of the aswang is revealed through blood and history. As Anna's l
 
 The final confrontation begins as Anna must choose between safety and salvation. When Mira offers a dangerous alliance, the line between faith and desperation blurs. Sometimes redemption requires walking into the very darkness you seek to destroy.
 
+### [Part VI: The Pasa]({{ site.baseurl }}/2025/08/05/aswang-part-vi/)
+*Published August 5, 2025*
+
+The ancient ritual unfolds as Anna is led into the heart of the aswang's power. In the shadow of twisted trees and forgotten altars, the true price of breaking the curse is revealed. Faith becomes both weapon and shield.
+
+### [Part VII: Flesh and Fire]({{ site.baseurl }}/2025/08/05/aswang-part-vii/)
+*Published August 5, 2025*
+
+The final battle between light and darkness. As the ritual reaches its climax, Anna must choose between her own life and the life growing within her. In the end, some victories can only be won through sacrifice.
+
+### [Epilogue: The Flame That Remained]({{ site.baseurl }}/2025/08/05/aswang-epilogue/)
+*Published August 5, 2025*
+
+In the aftermath, the village heals and life returns to normal. Anna and Miguel return to Australia where their son is born and baptized. But some flames never die, and some hungers never fade completely.
+
 ---
 
 ## About Folk Horror

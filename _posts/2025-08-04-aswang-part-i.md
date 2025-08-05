@@ -9,7 +9,7 @@ series: aswang
 
 <div class="series-nav">
   <h4>📖 Aswang Series</h4>
-  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III: Where Reason Alone Fails</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV: The First Call</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V: Faith Draws the Blade</a></p>
+  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">Part VI</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vii/">Part VII</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-epilogue/">Epilogue</a></p>
 </div>
 
 **Aswang – Part I: Echoes in the Earth**
