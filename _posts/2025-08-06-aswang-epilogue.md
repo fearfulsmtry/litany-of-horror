@@ -128,5 +128,4 @@ And no one remembers why their dreams taste of ash.
 ---
 
 
-**END**  
-_In memory of Fabiana “Lola Biana” Reyes—who prayed first._
+**END** 
