@@ -86,8 +86,16 @@ layout: default
     {% endfor %}
     
     {% if series_posts.size > 0 %}
+      <!-- Get proper series display name -->
+      {% assign series_display_name = page.series | capitalize %}
+      {% if page.series == "the-unnamed" %}
+        {% assign series_display_name = "The Unnamed" %}
+      {% elsif page.series == "aswang" %}
+        {% assign series_display_name = "Aswang" %}
+      {% endif %}
+      
       <div class="series-nav">
-        <h4>📖 {{ page.series | capitalize }} Series</h4>
+        <h4>📖 {{ series_display_name }} Series</h4>
         <p>
           {% for post in series_posts %}
             {% assign title_parts = post.title | split: " - " %}
@@ -129,7 +137,7 @@ layout: default
   <!-- Series Navigation (Bottom) -->
   {% if page.series and series_posts.size > 1 and current_index >= 0 %}
     <div class="series-nav">
-      <h4>📖 Continue the {{ page.series | capitalize }} Series</h4>
+      <h4>📖 Continue the {{ series_display_name }} Series</h4>
       <p>
         {% if current_index > 0 %}
           {% assign prev_post = series_posts[current_index-1] %}
