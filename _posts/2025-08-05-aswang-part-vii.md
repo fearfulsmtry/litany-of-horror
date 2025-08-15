@@ -7,11 +7,6 @@ tags: [folk-horror, aswang]
 series: aswang
 ---
 
-<div class="series-nav">
-  <h4>📖 Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">Part VI</a> | <strong>Part VII: Flesh and Fire</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue</a></p>
-</div>
-
 **Aswang – Part VII: Flesh and Fire**  
 
 _“The light shines in the darkness, and the darkness did not overcome it.”_
@@ -262,10 +257,3 @@ She pressed it to her own chest.
 > “No,” she said, “it’s just beginning.”
 
 **[End of Part VII]**
-
----
-
-<div class="series-nav">
-  <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">← Part VI: The Pasa</a> | <a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue: The Flame That Remained →</a></p>
-</div>

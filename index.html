@@ -3,7 +3,76 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% assign all_aswang_posts = site.posts | where: "series", "aswang" %}
+  
+  <!-- Create a sortable array with order values -->
+  {% assign posts_with_order = "" | split: "" %}
+  {% for post in all_aswang_posts %}
+    {% assign title_parts = post.title | split: " - " %}
+    {% assign part_info = title_parts[1] | default: title_parts[0] %}
+    {% assign order_value = 999 %}
+    
+    {% if part_info contains "Part" %}
+      {% assign part_text = part_info | split: "Part " | last | strip %}
+      
+      <!-- Handle Roman numerals -->
+      {% case part_text %}
+        {% when "I" %}{% assign order_value = 1 %}
+        {% when "II" %}{% assign order_value = 2 %}
+        {% when "III" %}{% assign order_value = 3 %}
+        {% when "IV" %}{% assign order_value = 4 %}
+        {% when "V" %}{% assign order_value = 5 %}
+        {% when "VI" %}{% assign order_value = 6 %}
+        {% when "VII" %}{% assign order_value = 7 %}
+        {% when "VIII" %}{% assign order_value = 8 %}
+        {% when "IX" %}{% assign order_value = 9 %}
+        {% when "X" %}{% assign order_value = 10 %}
+        {% when "XI" %}{% assign order_value = 11 %}
+        {% when "XII" %}{% assign order_value = 12 %}
+        {% when "XIII" %}{% assign order_value = 13 %}
+        {% when "XIV" %}{% assign order_value = 14 %}
+        {% when "XV" %}{% assign order_value = 15 %}
+        {% when "XVI" %}{% assign order_value = 16 %}
+        {% when "XVII" %}{% assign order_value = 17 %}
+        {% when "XVIII" %}{% assign order_value = 18 %}
+        {% when "XIX" %}{% assign order_value = 19 %}
+        {% when "XX" %}{% assign order_value = 20 %}
+        {% else %}
+          <!-- Handle regular numbers -->
+          {% assign num_part = part_text | split: " " | first | plus: 0 %}
+          {% if num_part > 0 %}
+            {% assign order_value = num_part %}
+          {% endif %}
+      {% endcase %}
+    {% elsif part_info contains "Epilogue" %}
+      {% assign order_value = 1000 %}
+    {% elsif part_info contains "Prologue" %}
+      {% assign order_value = 0 %}
+    {% endif %}
+    
+    <!-- Create sortable string: order_value|url -->
+    {% assign sort_key = order_value | prepend: "000" | slice: -4, 4 %}
+    {% assign post_entry = sort_key | append: "|" | append: post.url %}
+    {% assign posts_with_order = posts_with_order | push: post_entry %}
+  {% endfor %}
+  
+  <!-- Sort by order value -->
+  {% assign sorted_entries = posts_with_order | sort %}
+  
+  <!-- Extract sorted posts -->
+  {% assign aswang_posts = "" | split: "" %}
+  {% for entry in sorted_entries %}
+    {% assign entry_parts = entry | split: "|" %}
+    {% assign post_url = entry_parts[1] %}
+    {% for post in all_aswang_posts %}
+      {% if post.url == post_url %}
+        {% assign aswang_posts = aswang_posts | push: post %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  
+  {% for post in aswang_posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | relative_url }}">
@@ -13,7 +82,11 @@ layout: default
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+    
+    {% if post.excerpt != post.content %}
+      <a href="{{ post.url | relative_url }}">Read more →</a>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

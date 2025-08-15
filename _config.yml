@@ -3,6 +3,9 @@ description: Stories from the edge of faith.
 url: "https://fearfulsmtry.github.io"
 baseurl: "/litany-of-horror"
 
+# For local development, comment out the baseurl line above
+# baseurl: ""
+
 # Social media usernames (without @ symbol)
 author:
   name: Kris Canasa

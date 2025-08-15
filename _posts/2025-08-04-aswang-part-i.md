@@ -7,11 +7,6 @@ tags: [folk-horror, aswang]
 series: aswang
 ---
 
-<div class="series-nav">
-  <h4>📖 Aswang Series</h4>
-  <p><strong>Part I: Echoes in the Earth</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">Part VI</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vii/">Part VII</a> | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue</a></p>
-</div>
-
 **Aswang – Part I: Echoes in the Earth**
 
 _"The blood of Abel cries out from the ground."_
@@ -532,11 +527,4 @@ But the candle at the altar was lit—though no one had touched it.
 And the relic beneath her pillow was warm again.
 
 **[End of Part I]**
-
----
-
-<div class="series-nav">
-  <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot →</a></p>
-</div>
 

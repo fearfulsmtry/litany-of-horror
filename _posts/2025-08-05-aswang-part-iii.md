@@ -7,11 +7,6 @@ tags: [folk-horror, aswang]
 series: aswang
 ---
 
-<div class="series-nav">
-  <h4>📖 Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II</a> | <strong>Part III: Where Reason Alone Fails</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">Part VI</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vii/">Part VII</a> | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue</a></p>
-</div>
-
 **Aswang – Part III: Where Reason Alone Fails**  
 
 _"Lord, I believe. Help my unbelief."_ 
@@ -300,10 +295,3 @@ Then added: “I’m not ready. But I’m yours.”
 He pressed the salt pouch into his chest and stayed by the window until dawn.
 
 **[End of Part III]**
-
----
-
-<div class="series-nav">
-  <h4>📖 Complete the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">← Part II: Roots of the Rot</a> | <a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iv/">Part IV: The First Call →</a></p>
-</div>

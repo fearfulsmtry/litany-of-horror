@@ -5,7 +5,172 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  
+  <!-- Series Navigation (Auto-generated) -->
+  {% if page.series %}
+    {% assign all_series_posts = site.posts | where: "series", page.series %}
+    
+    <!-- Create a sortable array with order values -->
+    {% assign posts_with_order = "" | split: "" %}
+    {% for post in all_series_posts %}
+      {% assign title_parts = post.title | split: " - " %}
+      {% assign part_info = title_parts[1] | default: title_parts[0] %}
+      {% assign order_value = 999 %}
+      
+      {% if part_info contains "Part" %}
+        {% assign part_text = part_info | split: "Part " | last | strip %}
+        
+        <!-- Handle Roman numerals -->
+        {% case part_text %}
+          {% when "I" %}{% assign order_value = 1 %}
+          {% when "II" %}{% assign order_value = 2 %}
+          {% when "III" %}{% assign order_value = 3 %}
+          {% when "IV" %}{% assign order_value = 4 %}
+          {% when "V" %}{% assign order_value = 5 %}
+          {% when "VI" %}{% assign order_value = 6 %}
+          {% when "VII" %}{% assign order_value = 7 %}
+          {% when "VIII" %}{% assign order_value = 8 %}
+          {% when "IX" %}{% assign order_value = 9 %}
+          {% when "X" %}{% assign order_value = 10 %}
+          {% when "XI" %}{% assign order_value = 11 %}
+          {% when "XII" %}{% assign order_value = 12 %}
+          {% when "XIII" %}{% assign order_value = 13 %}
+          {% when "XIV" %}{% assign order_value = 14 %}
+          {% when "XV" %}{% assign order_value = 15 %}
+          {% when "XVI" %}{% assign order_value = 16 %}
+          {% when "XVII" %}{% assign order_value = 17 %}
+          {% when "XVIII" %}{% assign order_value = 18 %}
+          {% when "XIX" %}{% assign order_value = 19 %}
+          {% when "XX" %}{% assign order_value = 20 %}
+          {% else %}
+            <!-- Handle regular numbers -->
+            {% assign num_part = part_text | split: " " | first | plus: 0 %}
+            {% if num_part > 0 %}
+              {% assign order_value = num_part %}
+            {% endif %}
+        {% endcase %}
+      {% elsif part_info contains "Epilogue" %}
+        {% assign order_value = 1000 %}
+      {% elsif part_info contains "Prologue" %}
+        {% assign order_value = 0 %}
+      {% endif %}
+      
+      <!-- Create sortable string: order_value|url -->
+      {% assign sort_key = order_value | prepend: "000" | slice: -4, 4 %}
+      {% assign post_entry = sort_key | append: "|" | append: post.url %}
+      {% assign posts_with_order = posts_with_order | push: post_entry %}
+    {% endfor %}
+    
+    <!-- Sort by order value -->
+    {% assign sorted_entries = posts_with_order | sort %}
+    
+    <!-- Extract sorted posts -->
+    {% assign series_posts = "" | split: "" %}
+    {% for entry in sorted_entries %}
+      {% assign entry_parts = entry | split: "|" %}
+      {% assign post_url = entry_parts[1] %}
+      {% for post in all_series_posts %}
+        {% if post.url == post_url %}
+          {% assign series_posts = series_posts | push: post %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    
+    {% assign current_index = -1 %}
+    {% for post in series_posts %}
+      {% if post.url == page.url %}
+        {% assign current_index = forloop.index0 %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    
+    {% if series_posts.size > 0 %}
+      <div class="series-nav">
+        <h4>📖 {{ page.series | capitalize }} Series</h4>
+        <p>
+          {% for post in series_posts %}
+            {% assign title_parts = post.title | split: " - " %}
+            {% assign part_info = title_parts[1] | default: title_parts[0] %}
+            
+            {% if forloop.index0 == current_index %}
+              {% if part_info contains "Part" %}
+                {% assign part_display = part_info | split: "Part " | last | strip %}
+                <strong>Part {{ part_display }}</strong> (Current)
+              {% elsif part_info contains "Epilogue" %}
+                <strong>Epilogue</strong> (Current)
+              {% elsif part_info contains "Prologue" %}
+                <strong>Prologue</strong> (Current)
+              {% else %}
+                <strong>{{ part_info }}</strong> (Current)
+              {% endif %}
+            {% else %}
+              {% if part_info contains "Part" %}
+                {% assign part_display = part_info | split: "Part " | last | strip %}
+                <a href="{{ post.url | relative_url }}">Part {{ part_display }}</a>
+              {% elsif part_info contains "Epilogue" %}
+                <a href="{{ post.url | relative_url }}">Epilogue</a>
+              {% elsif part_info contains "Prologue" %}
+                <a href="{{ post.url | relative_url }}">Prologue</a>
+              {% else %}
+                <a href="{{ post.url | relative_url }}">{{ part_info }}</a>
+              {% endif %}
+            {% endif %}
+            {% unless forloop.last %} | {% endunless %}
+          {% endfor %}
+        </p>
+        <p><a href="{{ '/' | append: page.series | append: '-series' | relative_url }}">📚 View All Parts</a></p>
+      </div>
+    {% endif %}
+  {% endif %}
+
   {{ content }}
+  
+  <!-- Series Navigation (Bottom) -->
+  {% if page.series and series_posts.size > 1 and current_index >= 0 %}
+    <div class="series-nav">
+      <h4>📖 Continue the {{ page.series | capitalize }} Series</h4>
+      <p>
+        {% if current_index > 0 %}
+          {% assign prev_post = series_posts[current_index-1] %}
+          {% assign prev_title_parts = prev_post.title | split: " - " %}
+          {% assign prev_part_info = prev_title_parts[1] | default: prev_title_parts[0] %}
+          
+          {% if prev_part_info contains "Part" %}
+            {% assign prev_part_display = prev_part_info | split: "Part " | last | strip %}
+            <a href="{{ prev_post.url | relative_url }}">← Part {{ prev_part_display }}</a>
+          {% elsif prev_part_info contains "Epilogue" %}
+            <a href="{{ prev_post.url | relative_url }}">← Epilogue</a>
+          {% elsif prev_part_info contains "Prologue" %}
+            <a href="{{ prev_post.url | relative_url }}">← Prologue</a>
+          {% else %}
+            <a href="{{ prev_post.url | relative_url }}">← {{ prev_part_info }}</a>
+          {% endif %}
+          | 
+        {% endif %}
+        
+        <a href="{{ '/' | append: page.series | append: '-series' | relative_url }}">View All Parts</a>
+        
+        {% assign next_index = current_index | plus: 1 %}
+        {% if next_index < series_posts.size %}
+          {% assign next_post = series_posts[next_index] %}
+          {% assign next_title_parts = next_post.title | split: " - " %}
+          {% assign next_part_info = next_title_parts[1] | default: next_title_parts[0] %}
+          | 
+          {% if next_part_info contains "Part" %}
+            {% assign next_part_display = next_part_info | split: "Part " | last | strip %}
+            <a href="{{ next_post.url | relative_url }}">Part {{ next_part_display }} →</a>
+          {% elsif next_part_info contains "Epilogue" %}
+            <a href="{{ next_post.url | relative_url }}">Epilogue →</a>
+          {% elsif next_part_info contains "Prologue" %}
+            <a href="{{ next_post.url | relative_url }}">Prologue →</a>
+          {% else %}
+            <a href="{{ next_post.url | relative_url }}">{{ next_part_info }} →</a>
+          {% endif %}
+        {% endif %}
+      </p>
+    </div>
+  {% endif %}
   
   <div class="copyright-notice">
     <hr>

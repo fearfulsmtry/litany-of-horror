@@ -7,11 +7,6 @@ tags: [folk-horror, aswang]
 series: aswang
 ---
 
-<div class="series-nav">
-  <h4>📖 Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/04/aswang-part-i/">Part I</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">Part III</a> | <strong>Part IV: The First Call</strong> (Current) | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vi/">Part VI</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-vii/">Part VII</a> | <a href="{{ site.baseurl }}/2025/08/06/aswang-epilogue/">Epilogue</a></p>
-</div>
-
 **Aswang – Part IV: The First Call**  
 
 _“The serpent was more cunning than any beast of the field…”_
@@ -338,10 +333,3 @@ She never aged again.
 > _“Both are hungry.”_
 
 **[End of Part IV]**
-
----
-
-<div class="series-nav">
-  <h4>📖 Complete the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/2025/08/05/aswang-part-iii/">← Part III: Where Reason Alone Fails</a> | <a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-v/">Part V: Faith Draws the Blade →</a></p>
-</div>
