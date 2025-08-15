@@ -283,9 +283,9 @@ Then a voice - gentle, respectful.
 
 Tita Anding turned, already smiling.
 
-“Len. Of course, hija. Come in.” Anding stepped aside with the warmth she reserved for the Ilocano Ramos girl.
+“Elena. Of course, hija. Come in.” Anding stepped aside with the warmth she reserved for the Ilocano Ramos girl.
 
-The name stuck in his throat. Gabi’s head snapped up.
+The name stuck in his throat - Elena.
 
 She stepped into the doorway with her hands clasped politely, a bundle of white santan and camia cradled like an offering. Her blouse was modest, ironed smooth, and she wore a long black skirt that brushed her ankles. A black ribbon held her hair back, the same way she used to wear it when they were young—except now, she was no longer a girl.
 
