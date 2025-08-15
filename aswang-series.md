@@ -11,7 +11,7 @@ A multi-part folk horror story exploring the ancient terrors that still whisper 
 
 ## Story Synopsis
 
-Anna returns to her grandmother's village in the Philippines, pregnant and seeking closure after her lola's death. But the old prayers and older fears still hold power in this place, and something hungry watches from the darkness.
+Anna returns to her grandmother’s village in the Philippines, carrying new life and old questions. The chapel still smells of incense, the novena chants still echo at night—and beyond the candlelight, something hungry waits, watching the womb it means to claim.
 
 ---
 
@@ -20,48 +20,52 @@ Anna returns to her grandmother's village in the Philippines, pregnant and seeki
 ### [Part I: Echoes in the Earth]({{ site.baseurl }}/2025/08/04/aswang-part-i/)
 *Published August 4, 2025*
 
-Anna arrives at her grandmother's village for the funeral. The novena prayers begin, and old stories resurface about things that walk without feet and hunger for what grows in the womb.
+Anna returns to her grandmother’s village for the funeral. The novena nights stir old warnings of things that walk without feet and breathe at the womb’s door.
 
 ### [Part II: Roots of the Rot]({{ site.baseurl }}/2025/08/05/aswang-part-ii/)
 *Published August 5, 2025*
 
-The past and present converge as Anna discovers her grandmother's hidden secrets. A stillborn child, a mysterious apprentice, and the realization that some inheritances are written in blood. Anna's faith—and her child—face their first true test.
+A stillborn child, a silent apprentice, and a river that will not let them leave. Anna begins to see the shape of what hunts her family.
 
 ### [Part III: Where Reason Alone Fails]({{ site.baseurl }}/2025/08/05/aswang-part-iii/)
 *Published August 5, 2025*
 
-Miguel's rational world crumbles as the supernatural closes in. When reason fails and terror takes root, he must choose between skepticism and faith. The final confrontation approaches as ancient hunger stirs beneath the floorboards.
+Miguel’s skepticism frays as the house is encircled. Prayer becomes the last line when reason can no longer hold the night back.
 
 ### [Part IV: The First Call]({{ site.baseurl }}/2025/08/05/aswang-part-iv/)
 *Published August 5, 2025*
 
-The true nature of the aswang is revealed through blood and history. As Anna's labor begins, the ancient hunger that has waited in the shadows for generations finally shows its face. Faith and terror collide in the darkness between life and death.
+The aswang’s curse and the rite of the pasa are laid bare. From the shadows, the first true summons comes for Anna’s child.
 
 ### [Part V: Faith Draws the Blade]({{ site.baseurl }}/2025/08/05/aswang-part-v/)
 *Published August 5, 2025*
 
-The final confrontation begins as Anna must choose between safety and salvation. When Mira offers a dangerous alliance, the line between faith and desperation blurs. Sometimes redemption requires walking into the very darkness you seek to destroy.
+Mira offers a way to end it, but only by walking into the grove where the aswang waits. Faith and desperation step onto the same path.
 
 ### [Part VI: The Pasa]({{ site.baseurl }}/2025/08/05/aswang-part-vi/)
 *Published August 5, 2025*
 
-The ancient ritual unfolds as Anna is led into the heart of the aswang's power. In the shadow of twisted trees and forgotten altars, the true price of breaking the curse is revealed. Faith becomes both weapon and shield.
+Bound in the heart of the grove, Anna faces the altar of desecrated birth. The ritual begins, and the hunger at its center reveals itself.
 
 ### [Part VII: Flesh and Fire]({{ site.baseurl }}/2025/08/05/aswang-part-vii/)
 *Published August 5, 2025*
 
-The final battle between light and darkness. As the ritual reaches its climax, Anna must choose between her own life and the life growing within her. In the end, some victories can only be won through sacrifice.
+Salt, relic, and blade are brought to bear in the final clash. Some battles end with the killing blow; others with what must be refused.
 
 ### [Epilogue: The Flame That Remained]({{ site.baseurl }}/2025/08/06/aswang-epilogue/)
 *Published August 6, 2025*
 
-In the aftermath, the village heals and life returns to normal. Anna and Miguel return to Australia where their son is born and baptized. But some flames never die, and some hungers never fade completely.
+The village exhales. A child is born and baptized far from the place of his haunting. Yet in the dark, an old hunger waits for a name.
 
 ---
 
-## About Folk Horror
+## About Aswang
 
-The *aswang* is one of the most feared creatures in Philippine folklore—a shapeshifting being that preys on pregnant women and unborn children. This series explores how ancient terrors persist in modern times, and how faith becomes both shield and battleground against the darkness.
+In Philippine folklore, the _aswang_ is a shapeshifting predator that preys on the unborn and the newly born. It wears the face of a friend, a neighbor, even a midwife, moving through the village by day and feeding in secret by night.
+
+Legends say it can split its body, slip through walls, and drink life from the womb. Some stories warn that it passes its curse to a chosen heir — an unholy inheritance given mouth-to-mouth.
+
+In Aswang, these ancient terrors survive into the present, where old prayers and older fears still hold power, and faith becomes both shield and battleground against the darkness.
 
 ---
 
