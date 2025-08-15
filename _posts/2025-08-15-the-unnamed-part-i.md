@@ -283,7 +283,7 @@ Then a voice - gentle, respectful.
 
 Tita Anding turned, already smiling.
 
-“Len. Of course, hija. Come in.”
+“Len. Of course, hija. Come in.” Anding stepped aside with the warmth she reserved for the Ilocano Ramos girl.
 
 The name stuck in his throat. Gabi’s head snapped up.
 

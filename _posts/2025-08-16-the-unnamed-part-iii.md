@@ -47,7 +47,7 @@ Len’s eyes lingered on the ruined face. “I heard his name once. Your lola sa
 
 The name seemed to draw the light from the room.
 
-Gabi turned the photo over. On the back, in his grandfather’s deliberate, steady hand, were two words: **_Kabsat. (brother)_**  
+Gabi turned the photo over. On the back, in his grandfather’s deliberate, steady hand, was one word: **_Kabsat. (brother)_**  
 The scratches where the man’s face should have been felt deeper now, almost carved into the paper.
 
 Len rubbed her arms. “It’s cold in here.”
