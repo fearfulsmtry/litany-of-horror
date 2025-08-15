@@ -16,7 +16,9 @@ _(Genesis 4:10)_
 
 The air was thick with dust and memory.
 
-When the van turned off the narrow concrete road and onto the gravel path toward the village, Anna pressed her forehead against the window. Trees leaned in—acacia, coconut, the low sweep of madre de cacao branches tracing the roof with their shadows. The house had not changed much, but it had sunk. The paint faded, the steps uneven, the iron grill on the front window bent slightly at the corner.
+When the van turned off the narrow concrete road and onto the gravel path toward the village, Anna pressed her forehead against the window. Acacia and coconut trees leaned in, their shadows sweeping over corrugated tin. A jeepney rattled past in the opposite direction, rooster cages strapped to its roof — the kind of sight you only saw on the backroads of the Philippines.
+
+The house had not changed much, but it had sunk. The paint faded, the steps uneven, the iron grill on the front window bent slightly at the corner.
 
 Biana’s house.
 
@@ -59,7 +61,7 @@ The room shifted. Not with fear, exactly. With recognition.
 
 “You know,” said Manong Pedro, lowering his voice, “when I was young, we shot a cat in the foot. The next day, Aling Purita had a limp. Swore it was rheumatism. But she never came to the chapel again.”
 
-Laughter broke out—half-nervous, half-playful. But some eyes glanced toward the window. The moon was low. The balete tree across the street cast long, twisted shadows.
+Laughter broke out—half-nervous, half-playful. But some eyes glanced toward the window. The moon was low. The balete tree across the street cast long, twisted shadows — the kind the old people said could hold spirits.
 
 “It’s just stories,” Miguel said, voice low but audible. “Folklore. Every culture has its boogeyman.”
 
@@ -527,4 +529,11 @@ But the candle at the altar was lit—though no one had touched it.
 And the relic beneath her pillow was warm again.
 
 **[End of Part I]**
+
+---
+
+<div class="series-nav">
+  <h4>📖 Continue the Aswang Series</h4>
+  <p><a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot →</a></p>
+</div>
 

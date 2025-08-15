@@ -186,9 +186,8 @@ Miguel raised his machete.
 
 > “You will not take my child.  
 > You will not touch my wife again.  
-> You will not curse our home.  
-> In the name of Christ,  
-> your dominion ends here, monster.”
+> You will not curse our home.
+> Not while I still breathe.”
 
 He struck once.
 

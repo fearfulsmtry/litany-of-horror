@@ -14,49 +14,66 @@ _(Mark 9:24)_
 
 ---
 
+The afternoon light filtered soft and amber through the woven curtains.
+
+Anna moved slowly around the bedroom, putting things back where they belonged—half from habit, half from the ache of needing to keep busy. The relic had been placed carefully on the bedside altar, wrapped once more in Biana’s cloth. Four candles ringed it in saucers of salt, their wicks trimmed, unlit for now.
+
+She found it behind the altar, tucked behind an old _Libro de Santa Misa_, its leather cover brittle with age.
+
+Not a letter.
+
+A **journal**.
+
+Handwritten in Biana’s careful, looping script. Pages filled with herbs, novena schedules, reflections on the village births.
+
+But near the end, the ink grew heavier. Lines crossed out. Smudged.
+
+Anna flipped carefully until she found an entry dated just a few months before her death.
+
+> _She came again today. Still no grey in her hair. Still the same soft voice._  
+> _She brings food, herbs. But the children she delivers are quieter than they should be._
+> 
+> _I see Mira watching the mothers. Her eyes are too old for her face._  
+> _I tried to warn Lito. He smiled and said I needed to rest._
+> 
+> _Lord, if I am wrong, forgive me._  
+> _But if I am right… let someone be ready._
+> 
+> _I keep the relic hidden now. In case I grow too weak to speak aloud._
+> 
+> _I light a candle for my dear apong Anna every Sunday. She’s far, but the Lord is farther and still hears me._
+> 
+> _If I don’t see her again, may the angels bring her comfort. I don’t know if she believes anymore._
+> 
+> _Faith is a gift. Sometimes the embers feel cold. But the flame can still catch._
+
+Anna stopped reading.
+
+Her throat closed.
+
+She touched the edge of the page. It smelled faintly of candle wax and bay leaf.
+
+“I’m here, Lola,” she whispered. “I’m here now.”
+
+---
+
 Miguel had tried twice that morning to rebook the flights.
 
 No signal. Then the site wouldn’t load. Then the payment portal failed.
 
-It wasn’t supernatural. It was just _rural_. At least, that’s what he told himself.
+It wasn’t supernatural. It was just rural. At least, that’s what he told himself.
 
-He sat outside on the bamboo bench beside the hibiscus, his laptop closed, sweating through his shirt. The smell of charcoal and wet soil carried on the air. Lito was somewhere in the chapel again. Anna was resting. She hadn’t spoken much that morning.
+He sat outside on the bamboo bench beside the hibiscus, laptop closed, sweating through his shirt. The smell of charcoal and wet soil carried on the air. Lito was somewhere in the chapel again. Anna was resting. She hadn’t spoken much that morning.
+
+He ran his thumb absently along a splinter in the bench, thinking of the night before—Mira’s quiet shape in the road, the clay cup she’d left on the gatepost, her voice like a thread pulled tight: I hope you fight.
+
+He hadn’t told Anna, but he kept replaying the way she said it. Not mocking. Not kind. Just… certain.
 
 He watched a lizard creep along the fence.
 
-Then felt it again—that unmistakable sensation.
+And felt it again—that unmistakable sensation.
 
 Someone was watching him.
-
-He turned.
-
-Mira.
-
-She stood by the water pump across the road, her hands folded, barefoot again. She didn’t wave. Just _looked_.
-
-Miguel forced a polite nod. “Need something?”
-
-She tilted her head, then shook it.
-
-“You come out here a lot,” he said.
-
-“I like the quiet,” she answered.
-
-“You never say much.”
-
-“I say enough,” she replied. Then, after a pause, “You’re different.”
-
-“How?”
-
-“You look people in the eyes.”
-
-Miguel raised an eyebrow. “That’s a compliment, I think?”
-
-Mira didn’t smile. She took a step forward, just enough to reach the edge of the trees.
-
-“Some men fight to protect. Some just watch. I hope you fight.”
-
-Then she turned and vanished into the brush like a deer.
 
 ---
 
@@ -180,35 +197,17 @@ It began just after midnight.
 
 Anna woke first—heart pounding, sweat clinging to her skin. The dream had been strange: she was back in the field, only now the stalks of rice were shaped like limbs. Belen stood in the distance, wearing white, mouth full of ash.
 
-Then came the sound.
+Miguel froze halfway across the sala.
 
-Faint.
+The candles on the altar were lit. They hadn’t been lit that morning.
 
-**A baby crying.**
+The flames were black.
 
-At first, Anna thought it was inside her own head—some memory, some phantom echo of what was coming.
+Smoke curled inward, drawn into the brass reliquary like it was breathing.
 
-Then Miguel sat up beside her.
+Anna stepped into the doorway, eyes wide. “Don’t touch it.”
 
-“You hear that?” he whispered.
-
-She nodded.
-
-They waited.
-
-The cry came again.
-
-Wet. Gurgling. Desperate.
-
-**From beneath the floorboards.**
-
-Miguel stood slowly, every step careful. Anna clutched the reliquary under her pillow, lips moving silently. The baby stirred inside her, not in panic—but like it was listening.
-
-He moved to the corner of the room where the bamboo slats met the edge of the house and crouched. Pressed his ear to the floor.
-
-The crying shifted—**laughter now.**
-
-Childlike. Unformed. Wrong.
+The wicks sputtered once, then went out — leaving only the smell of rotting flowers.
 
 Then silence.
 
@@ -284,13 +283,13 @@ Like they had _declared something_.
 
 That night, after Anna fell asleep, Miguel stood by the window, staring into the trees.
 
-He opened his mouth to speak, and the words came—not polished, not certain. Just **real**.
+He opened his mouth to speak, and the words came — not polished, not certain. Just **real**.
 
-“God… I don’t know what I’m doing. But if You’re there—watch her. Watch the baby. Give me the strength to protect them.”
+“God… I don’t know what I’m doing. But if You’re there — watch her. Watch the baby. Give me the strength to protect them.”
 
 He paused.
 
-Then added: “I’m not ready. But I’m yours.”
+Then added: “I’m not ready. But I’ll do what it takes.”
 
 He pressed the salt pouch into his chest and stayed by the window until dawn.
 

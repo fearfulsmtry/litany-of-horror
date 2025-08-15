@@ -14,58 +14,17 @@ _(Genesis 3:1)_
 
 ---
 
-The afternoon light filtered soft and amber through the woven curtains.
+Dawn came muted, the light thin as if the sun had been kept at bay.
 
-Anna moved slowly around the bedroom, putting things back where they belonged—half from habit, half from the ache of needing to keep busy. The relic had been placed carefully on the bedside altar, wrapped once more in Biana’s cloth. Four candles ringed it in saucers of salt, their wicks trimmed, unlit for now.
+Anna moved through the sala, checking each candle, each line of salt Miguel had laid the night before. All were unbroken.
 
-She found it behind the altar, tucked behind an old _Libro de Santa Misa_, its leather cover brittle with age.
+She’d barely finished when Miguel called to her from the back window — his voice low, alarmed.
 
-Not a letter.
-
-A **journal**.
-
-Handwritten in Biana’s careful, looping script. Pages filled with herbs, novena schedules, reflections on the village births.
-
-But near the end, the ink grew heavier. Lines crossed out. Smudged.
-
-Anna flipped carefully until she found an entry dated just a few months before her death.
-
-> _She came again today. Still no grey in her hair. Still the same soft voice._  
-> _She brings food, herbs. But the children she delivers are quieter than they should be._
-> 
-> _I see Mira watching the mothers. Her eyes are too old for her face._  
-> _I tried to warn Lito. He smiled and said I needed to rest._
-> 
-> _Lord, if I am wrong, forgive me._  
-> _But if I am right… let someone be ready._
-> 
-> _I keep the relic hidden now. In case I grow too weak to speak aloud._
-> 
-> _I light a candle for my dear apong Anna every Sunday. She’s far, but the Lord is farther and still hears me._
-> 
-> _If I don’t see her again, may the angels bring her comfort. I don’t know if she believes anymore._
-> 
-> _Faith is a gift. Sometimes the embers feel cold. But the flame can still catch._
-
-Anna stopped reading.
-
-Her throat closed.
-
-She touched the edge of the page. It smelled faintly of candle wax and bay leaf.
-
-“I’m here, Lola,” she whispered. “I’m here now.”
-
----
-
-Outside, Miguel called to her—his voice low, alarmed.
-
-She stepped outside and followed him toward the back window.
-
-He pointed.
+She followed him outside.
 
 The salt line was broken.
 
-A single **bare footprint**, long and delicate, marred the white arc.
+A single bare footprint, long and delicate, marred the white arc.
 
 Too small for Miguel. Too wrong for a child.
 

@@ -182,25 +182,25 @@ Then she turned and walked back toward the hut, bare feet silent on the path.
 
 That night, Anna couldn’t sleep.
 
-She thought of Riza’s baby. Of the way Mira had looked at Lito. Of how Belen hadn’t wept.
+Miguel’s breathing was slow beside her. The baby shifted once, then stilled.
 
-At some point, she rose and stepped into the moonlight outside the house, barefoot. The night air clung to her like a veil.
+The room was too quiet.
 
-She saw her reflection in the window—and something behind her.
+Then she heard it—
+faint, steady breathing that wasn’t hers, and wasn’t Miguel’s.
 
-A figure standing at the far end of the road.
+It came from the corner near the window.
 
-Slim. Still. Watching.
+She stayed still, fingers tightening around the reliquary under her pillow.
 
-She turned around.
+The breathing drew closer.
 
-No one was there.
+A slow exhale brushed the air in front of her face.
 
-But in the distance, she heard a quiet, measured humming.
+Anna shut her eyes and prayed without words.
 
-Not tuneless.
-
-Just empty.
+When she looked again, the corner was empty—
+but the curtain swayed, though the window was shut.
 
 ---
 
@@ -232,35 +232,45 @@ Then she walked on.
 
 ---
 
-That evening, Miguel stayed outside after dinner, fiddling with the bamboo gate. It squeaked too easily. He wanted to reinforce it, maybe string something across the top.
+That evening, Miguel stayed outside after dinner, fiddling with the bamboo gate. It squeaked too easily; he wanted to reinforce it, maybe string something across the top.
 
 Anna watched him from the window—then noticed she wasn’t alone.
 
-Across the narrow road, by the shadow of the trees, stood Mira.
+Across the narrow road, in the shadow of the trees, stood Mira.
 
-She said nothing. Didn’t wave. Just… watched.
+She said nothing. Didn’t wave. Just… watched. Barefoot again. A small clay cup cradled in her hands.
 
 Miguel hadn’t noticed.
 
-Anna stepped outside, hands on her belly. “Can I help you?”
+Anna stepped outside, one hand over her belly. “Can I help you?”
 
-Mira blinked once.
+Mira blinked once, then shifted her gaze to Miguel.
 
-Then stepped forward, barefoot, holding something in her hands.
+“You come out here a lot,” she said. Her voice was quiet but sharp, like a needle pulled through fabric.
 
-A small clay cup.
+Miguel turned, startled. “I like the quiet.”
 
-“For your husband,” she said. Her voice was quiet but sharp, like a needle pulled through fabric. “To ease the nerves. Belen made it.”
+She tilted her head. “Most people here don’t.”
+
+“Maybe I’m different,” he said.
+
+“You are,” she replied. “You look people in the eyes.”
+
+Anna’s skin prickled.
+
+Mira stepped forward, holding out the cup. “For your husband. To ease the nerves. Belen made it.”
 
 Anna didn’t move to take it.
 
-“I can leave it here,” Mira said, and set it gently on the post.
+“I can leave it here,” Mira said, and set it gently on the post. She turned to go, then paused.
 
-She turned to leave, but paused.
+Her eyes fixed on Miguel’s hands where they gripped the gate. “Strong hands. Kind hands.”
 
-Then added, almost as an afterthought: “He has strong hands. Kind hands.”
+A beat of silence.
 
-She walked off, her feet making no sound on the stone.
+“I hope you fight,” she added, almost like a blessing — or a dare.
+
+Then she walked off, feet making no sound on the stone.
 
 ---
 
