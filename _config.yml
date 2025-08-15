@@ -14,7 +14,7 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-future: true
+# future: true  # Commented out so future posts stay unpublished on GitHub Pages
 
 # Clean URLs - allows /page instead of /page.html
 permalink: pretty
