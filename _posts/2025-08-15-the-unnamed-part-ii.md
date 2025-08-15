@@ -13,7 +13,7 @@ _“They turned their faces away, and the house kept its vigil.”_
 
 ---
 
-The fog had thinned overnight, but the silence from the vigil still clung to the house..
+The fog had thinned again by the following morning, but the hush from the vigil still clung to the house.
 
 Gabi stepped out of the house before anyone else had stirred, drawn by the smell of wet pine and the hush that always followed the final “Amen.” The air still held the scent of wax and wilted flowers. Mist moved between the trees like something alive.
 
