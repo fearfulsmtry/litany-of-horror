@@ -155,7 +155,7 @@ She pointed toward the window.
 
 “You were driving. The man behind you didn’t follow you all the way.”
 
-Anding’s smile didn’t reach her eyes. “She says strange things. Ikaw talagi, Ija.”
+Anding’s smile didn’t reach her eyes. “She says strange things. Ikaw talaga, iha.”
 
 Gabi crouched a little to meet her gaze, the corner of his mouth lifting despite the chill her words left. “You’ve got sharp eyes, balong,” he said, giving her shoulder a light squeeze before straightening.
 
