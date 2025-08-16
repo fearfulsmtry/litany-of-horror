@@ -347,25 +347,6 @@ Now he looked at her.
 
 ---
 
-That night, Anna found an envelope tucked under her bedroom door. No name. No writing. Just a folded piece of paper and a pressed flower—dried and blackened at the edges.
-
-Inside, in an old woman’s script:
-
-> _If you feel something breathing on your belly while you sleep, don’t move._  
-> _Don’t speak. Don’t open your eyes._  
-> _She only takes what she’s noticed._  
-> _Pretend not to notice her._
-
-Anna stared at the note for a long time.
-
-She slept that night with the reliquary clutched in one hand, tucked beneath her pillow. And though her dreams came again—this time of a woman standing at the door with no eyes—she did not wake to find her watching.
-
-Only the cat. Still on the fence. Still staring.
-
-It's eyes strangely familiar.
-
----
-
 It was two days before the funeral.
 
 The sun hung low in the west, casting gold across the dusty road when Aling Belen returned—this time without warning, without basket, and without smile.
