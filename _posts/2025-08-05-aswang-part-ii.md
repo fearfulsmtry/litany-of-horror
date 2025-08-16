@@ -86,26 +86,6 @@ He looked up at her then. His eyes were dry, but darker than before.
 
 ---
 
-That evening, Anna found an envelope tucked beneath the crucifix on the bedroom altar.
-
-It wasn’t old. The ink hadn’t faded. The handwriting was unmistakably Biana’s.
-
-Inside: a single line.
-
-> _“Protect the children, the mothers. Keep them away, she is not what she seems.”_
-
-She instinctively reached for the relic, she had been keeping it with her, felt it kept her safe.
-
-She stood there, in the silent room, clutching it to her chest.
-
-Outside, the rain stopped.
-
-But the dogs did not bark that night.
-
-They _whimpered._
-
----
-
 The rain broke the next day. Clouds still hung low, but the sun pierced through in slivers, burning steam off the road.
 
 Word reached the house by midmorning: **Aling Riza**—a mother of three, eight months along with her fourth—had gone into labor unexpectedly.
@@ -132,9 +112,7 @@ Young. Controlled. Mimicking comfort without knowing what it meant.
 
 Anna stepped closer, peering into the hut through the slats.
 
-Inside, Aling Riza lay on a woven mat, her knees drawn, sweat soaking her brow. Belen knelt beside her, murmuring softly, rhythmically. And behind her—watching closely, face calm—was a girl.
-
-No more than twenty. Pale. Eyes too still. Hair tucked neatly in a braid that looked like it hadn’t moved all morning. She held a basin of steaming herbs. Not once did she blink.
+Inside, Aling Riza lay on a woven mat, her knees drawn, sweat soaking her brow. Belen knelt beside her, murmuring softly, rhythmically. And behind her stood a girl—barefoot, braid neat, eyes too old for her face. She never blinked.
 
 Anna felt her stomach knot.
 
@@ -144,15 +122,11 @@ Lito was beside her. “No,” he said. “She’s not.”
 
 ---
 
-Mira Santos had lived in the village for as long as anyone could remember—but rarely seen. Orphaned young. Raised by Belen. Some said she was mute as a child. Others said she never cried, even as a baby.
+Mira Santos had lived in the village for as long as anyone could remember—an orphan raised by Belen, quiet and apart. The other children avoided her. She never cried, never played.
 
-The other children avoided her.
+As Anna watched, what struck her was not cruelty, but imitation. Mira moved with studied care, like someone who had learned how to comfort without ever feeling it.
 
-They said she once followed a boy home after dark, smiling the whole way, not saying a word. They said she offered flowers to a statue that wasn’t a saint.
-
-Anna had never met her. But as she watched now, something struck her—the way Mira moved. Controlled, like imitation. Like she had studied care, and could perform it.
-
-But it never reached her eyes.
+It never reached her eyes.
 
 ---
 
@@ -171,8 +145,6 @@ The wails of Riza’s husband and children carried across the fields—raw, jagg
 Mira emerged from the house with the bundle wrapped in white cloth. She didn’t look at anyone. She walked toward the chapel gates, placed the bundle by the altar, and whispered something no one could hear.
 
 Tatay Lito stepped forward, jaw tight.
-
-“We bury them together,” he said.
 
 Mira looked at him for a long moment. Something passed in her expression—something like disdain, but laced with sadness. Or hunger.
 
@@ -204,34 +176,6 @@ but the curtain swayed, though the window was shut.
 
 ---
 
-The funeral for Riza was small.
-
-Too small.
-
-Only three relatives came. The others stayed home, murmuring about debt, about travel, about the rain. But Anna heard something else behind the excuses—**fear**. The kind people clothe in logistics.
-
-Tatay Lito stood at the grave’s edge, lips moving in silent prayer. The priest hadn’t come. The coffin had no weight.
-
-And no one asked to see the child.
-
-Later that day, as Anna hung clothes out back, a neighbor passed by and paused awkwardly at the fence.
-
-“Strange,” she said, glancing at the ground. “Riza said the baby was kicking just two days before.”
-
-Anna nodded slowly.
-
-The woman hesitated. “And… you felt yours move today, yes?”
-
-“Yes.”
-
-A pause.
-
-The neighbor whispered, “Then thank God. Light a candle. And don’t eat anything left at your doorstep.”
-
-Then she walked on.
-
----
-
 That evening, Miguel stayed outside after dinner, fiddling with the bamboo gate. It squeaked too easily; he wanted to reinforce it, maybe string something across the top.
 
 Anna watched him from the window—then noticed she wasn’t alone.
@@ -246,27 +190,15 @@ Anna stepped outside, one hand over her belly. “Can I help you?”
 
 Mira blinked once, then shifted her gaze to Miguel.
 
-“You come out here a lot,” she said. Her voice was quiet but sharp, like a needle pulled through fabric.
+“You come out here a lot,” she said, voice sharp as a needle through cloth.
 
-Miguel turned, startled. “I like the quiet.”
+Miguel turned, startled. She didn’t smile. Her eyes lingered on his grip at the gate.
 
-She tilted her head. “Most people here don’t.”
+“Strong hands,” she said softly. “Kind hands.” She held out a small clay cup. “Belen made this. For your nerves.”
 
-“Maybe I’m different,” he said.
+Neither Anna nor Miguel moved to take it.
 
-“You are,” she replied. “You look people in the eyes.”
-
-Anna’s skin prickled.
-
-Mira stepped forward, holding out the cup. “For your husband. To ease the nerves. Belen made it.”
-
-Anna didn’t move to take it.
-
-“I can leave it here,” Mira said, and set it gently on the post. She turned to go, then paused.
-
-Her eyes fixed on Miguel’s hands where they gripped the gate. “Strong hands. Kind hands.”
-
-A beat of silence.
+Mira set it gently on the post. Her gaze never left Miguel.
 
 “I hope you fight,” she added, almost like a blessing — or a dare.
 
@@ -335,36 +267,15 @@ Then, almost inaudibly, he added:
 ---
 
 It was a Sunday when they tried to leave.
+The last bag was packed. No one made a scene.
 
-The last bag was packed. Miguel had checked the tires. Lito had quietly offered them sandwiches wrapped in banana leaves. No one made a scene. There was no confrontation.
+But when they reached the bridge, the river had swallowed the road—
+brown water churning with branches and plastic, rushing in circles that never ended.
 
-Only clouds.
+They turned back in silence.
 
-Thick and unmoving.
-
-Miguel gripped the steering wheel as the van bumped along the gravel path toward the road that would take them back to the city. Anna sat with a pillow against her belly, eyes unfocused.
-
-Neither of them spoke.
-
-But when they reached the main road, they found the way blocked.
-
-The river had risen over the concrete bridge. A churning brown torrent flooded the only route back to town, dragging branches and plastic bags in slow, ugly circles.
-
-Miguel swore under his breath. “They didn’t say anything about flooding.”
-
-Anna stared at the water.
-
-“It wasn’t flooded this morning,” she said.
-
-They waited an hour. Then two. But the current didn’t recede.
-
-Finally, they turned back.
-
----
-
-Tatay Lito met them at the gate with no surprise.
-
-“I had a feeling,” he said simply. “The river always swells early this time of year.”
+Tatay Lito was waiting at the gate, unsurprised.
+“The river rises early,” he said simply. “You were never meant to get far.”
 
 Miguel was fuming as he unloaded the bags. “I checked the forecast.”
 
@@ -477,10 +388,6 @@ And the candle on the altar flared.
 When Anna looked back out the window…
 
 The figure was gone.
-
-But at the foot of the bed, laid carefully like a gift, was a single baby tooth.
-
-Still wet.
 
 ---
 
