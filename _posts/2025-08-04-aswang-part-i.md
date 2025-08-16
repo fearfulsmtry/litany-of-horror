@@ -16,18 +16,15 @@ _(Genesis 4:10)_
 
 The air was thick with dust and memory.
 
-When the van turned off the narrow concrete road and onto the gravel path toward the village, Anna pressed her forehead against the window. Acacia and coconut trees leaned in, their shadows sweeping over corrugated tin. A jeepney rattled past in the opposite direction, rooster cages strapped to its roof — the kind of sight you only saw on the backroads of the Philippines.
+The van left the concrete road for gravel, trees leaning in as if to watch them pass. A jeepney rattled by, rooster cages strapped to its roof — the kind of sight you only saw on Philippine backroads.
 
-The house had not changed much, but it had sunk. The paint faded, the steps uneven, the iron grill on the front window bent slightly at the corner.
+Then the house appeared. Sunken. Paint faded. Steps uneven.
 
-Biana’s house.
+Biana’s house. Her Lola’s house.
 
-Her Lola’s house.
+Anna’s chest tightened—not grief exactly, but something with its teeth in grief. Beneath her hand, her belly fluttered, the baby stirred, almost six months along.
 
-Anna’s chest tightened—not grief exactly, but something with its teeth in grief. Beneath her hand, her belly fluttered. The baby, almost six months along, stirred as if sensing the shift.
-
-Miguel said nothing, just parked and got out to start unloading their bags. He moved with quiet precision, efficient as ever. They hadn’t spoken much during the last stretch of the drive—part fatigue, part mutual caution. The land was older than either of them, and it seemed to be listening.
-
+Miguel parked in silence, moving with his usual precision. The land was older than both of them, and it seemed to be listening.
 At the door stood Tatay Lito, Anna’s uncle. He looked smaller than she remembered—leaner, greyer, but still upright. He wore a collared shirt tucked into his faded slacks, and a rosary was coiled loosely in his left hand, as natural as breath.
 
 “Anak,” he said, smiling gently. “You came.”
@@ -191,33 +188,17 @@ The second night, the novena was thinner.
 
 Only a handful came. Some lit candles. Some prayed distractedly. Most were gone before the final mystery. The air felt heavier—not in grief, but in the quiet way animals stop moving before an earthquake.
 
-Anna sat in the dim sala again, this time beside her younger cousin, Tinay, a girl of maybe nine or ten who fidgeted through the prayers and swung her legs. She had a plastic bracelet with little images of saints on it, worn smooth from use.
+Anna sat in the dim sala again, this time beside her younger cousin, Tinay, a girl of maybe nine or ten who fidgeted through the prayers and swung her legs.
 
-“You don’t live here, no?” the girl whispered while Lito led the Litany.
+The girl leaned closer and whispered, almost matter-of-fact:
 
-Anna smiled faintly. “We live in Australia now.”
+“The woman with no feet doesn’t go to Australia.”
 
-Tinay nodded seriously, as if that confirmed something for her. “It’s safer there.”
+Tinay’s voice dropped. “She walks here. You can hear her nails tapping on the bamboo floors. But you won’t see her legs.”
 
-“Why do you say that?”
+Anna swallowed. “For what?”
 
-The girl leaned closer. “Because the woman with no feet doesn’t go there.”
-
-Anna blinked. “What?”
-
-Tinay looked toward the window, then back. “She walks here. You can hear her nails tapping on the bamboo floors. But you won’t see her legs. Just the shadow of her hair.”
-
-Miguel, seated across the room, looked up.
-
-“She goes from house to house,” Tinay went on. “Sniffing.”
-
-“For what?”
-
-“For babies,” she whispered. “Or the ones not yet born.”
-
-Anna’s throat went dry.
-
-“She licks the belly button,” Tinay added, “and if the mother isn’t blessed, the baby forgets how to breathe.”
+“For babies,” Tinay whispered. “She licks the belly button, and if the mother isn’t blessed, the baby forgets how to breathe.”
 
 Anna said nothing. A candle flickered violently beside the altar.
 
@@ -249,25 +230,7 @@ Lito looked at him—long and level. “For the things that remember blood. And 
 
 ---
 
-Anna didn’t speak until they were alone again in the bedroom. She sat on the edge of the bed, slowly massaging oil into her stomach.
-
-“Did your parents ever talk about things like this?” she asked.
-
-Miguel shook his head. “My dad didn’t even want a crucifix in the house. Said we should put our faith in reason. Science.”
-
-“And your mum?”
-
-“She lit candles when he wasn’t looking,” he said quietly.
-
-Anna smiled a little. Then sighed.
-
-“I don’t think I believe it either,” she admitted. “But… I don’t know. This place makes me feel like I’ve forgotten something.”
-
-She glanced toward her bag, where she’d tucked away the reliquary. Just holding it made her chest ache. Not with fear. With homesickness. But not for Perth. Not even for her mother.
-
-It was something older. Something wordless. Like the way Lola Biana used to hum while cooking, or the smell of candles on Sunday morning even when they didn’t go to Mass.
-
-She lay back and turned toward Miguel, who was already half-asleep.
+That night, the house was restless.
 
 Outside, a dog howled once.
 
@@ -304,12 +267,6 @@ Silence.
 Then a faint _thud_—something small dropping from the roof. Or climbing.
 
 She stood carefully, went to the window, and peeked between the slats. The moon was hidden behind clouds. The trees across the road swayed as though something had passed through them, but there was no breeze.
-
-A cat stared back at her from the fence post. White, with one blue eye and one clouded grey. It didn’t blink. Just watched.
-
-Then it opened its mouth and hissed—a long, dry sound—without moving its body.
-
-Anna stepped back and shut the curtain.
 
 ---
 
@@ -405,8 +362,6 @@ She turned to leave, but before stepping off the porch, she paused.
 
 And then she walked back the way she came—except Anna never heard her footsteps once.
 
----
-
 Inside, Miguel found her sitting at the kitchen table, pale and quiet.
 
 “What happened?”
@@ -425,9 +380,7 @@ Miguel sat beside her. “Maybe she’s just old and nosy. You know how people g
 
 Anna didn’t respond.
 
-She didn’t mention how Belen’s skin didn’t seem to wrinkle when she moved. Or how the shadows behind her didn’t quite match the angle of the sun. Or how, just before she left, the rosary in her pocket had grown warm. Not hot. Not burning.
-
-Just warm. Like it was warning her.
+She didn’t mention how Belen’s skin didn’t seem to wrinkle when she moved. Or how the shadows behind her didn’t quite match the angle of the sun.
 
 ---
 
@@ -455,11 +408,7 @@ It was that Anna had never inherited it.
 
 ---
 
-After the burial, they returned to the house for a simple meal. Tinola. Rice. Brewed salabat in sweating pitchers.
-
-The mood was subdued. Some of the villagers chatted quietly; others kept glancing at the trees beyond the backyard, as if waiting for someone.
-
-Anna slipped away to the back of the house, where Tatay Lito stood alone, looking toward the old garden where his mother used to keep basil and guava.
+After the burial, Anna slipped away to the back of the house, where Tatay Lito stood alone, looking toward the old garden where his mother used to keep basil and guava.
 
 “She loved this spot,” he said, not turning. “She’d sit there when the sun was low and pray.”
 
@@ -493,21 +442,9 @@ Lito didn’t answer for a long time. When he did, it was a whisper.
 
 That night, Anna dreamed again.
 
-She was back in the field, only now the sky was darker. The moon pulsed red behind thick clouds. The face in her belly was gone, but the air smelled of copper and earth. Something crouched at the edge of the field, just out of sight.
+She was back in the field. Something crouched at the edge, humming in her mother’s voice—but slowed, warped, wrong.
 
-It was humming.
-
-Her mother’s voice.
-
-But slowed. Warped. Not quite human.
-
-When she woke, the room was cold.
-
-The windows were shut.
-
-But the candle at the altar was lit—though no one had touched it.
-
-And the relic beneath her pillow was warm again.
+She woke cold. The windows were shut. Yet the candle at the altar was lit, and the relic beneath her pillow was warm.
 
 **[End of Part I]**
 
