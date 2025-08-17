@@ -233,8 +233,6 @@ And the truth was: **Mira had chosen this**.
 
 She collapsed. Twitching.
 
-The **pasa** withered into ash.
-
 ---
 
 Silence.
