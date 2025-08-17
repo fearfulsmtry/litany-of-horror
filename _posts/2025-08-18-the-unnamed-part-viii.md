@@ -108,6 +108,8 @@ He repeated forcefully. “In the Name of Jesus Christ, I **command** you — gi
 
 The shadow bucked against the chair, a low roar swelling, then cracking into a shriek. The sound tore itself apart, breaking into a single word: **_“Bangkilan.”_**
 
+The voice lingered on it, low and guttural, as though tasting the syllables. ***“Thorn and wood. I pierce, I bind. Your dead sat in my embrace, their grief seeping into my grain. I am the wound made into a throne — and you knelt to me without knowing.”***
+
 The candles thinned to trembling pins of light. The air seemed to pull inward, heavy with the shape of the name.
 
 ---
