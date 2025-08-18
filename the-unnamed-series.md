@@ -27,6 +27,36 @@ The fog thickens as Gabriel returns to Baguio for his grandfather's wake. In the
 
 The vigil ends, but the house keeps its secrets. Gabriel discovers that some stories are buried for good reason, and the fog hides more than just the view.
 
+### [Part III: The First Cracks]({{ site.baseurl }}/2025/08/16/the-unnamed-part-iii/)
+*Published August 16, 2025*
+
+Gabriel searches his grandfather's room for answers, but some secrets have been watching him in return. The house reveals its first glimpse of what lies beneath the silence.
+
+### [Part IV: The Circle Tightens]({{ site.baseurl }}/2025/08/16/the-unnamed-part-iv/)
+*Published August 16, 2025*
+
+Father Kin reaches out to the diocese while tensions escalate between Gabriel and Carlos. The fog grows thicker, and the dead grow restless.
+
+### [Part V: When Silence Shatters]({{ site.baseurl }}/2025/08/17/the-unnamed-part-v/)
+*Published August 17, 2025*
+
+Elia falls into an unexplained coma after witnessing something in the vigil chair. As the family grapples with her condition, long-buried truths begin to surface.
+
+### [Part VI: The Mark]({{ site.baseurl }}/2025/08/17/the-unnamed-part-vi/)
+*Published August 17, 2025*
+
+Family secrets unfold as the presence in the house grows bolder. The dead reveal what they want, and the living must face the price of generations of silence.
+
+### [Part VII: The Unbinding]({{ site.baseurl }}/2025/08/18/the-unnamed-part-vii/)
+*Published August 18, 2025*
+
+The family attempts to give the unnamed dead their proper rest. But breaking decades of silence may not be enough to banish what has taken root in the house.
+
+### [Part VIII: The Naming]({{ site.baseurl }}/2025/08/18/the-unnamed-part-viii/)
+*Published August 18, 2025*
+
+The entity reveals its true nature as Father Kin prepares for a final confrontation. Some victories require sacrifice, and not everyone emerges unmarked.
+
 ---
 
 ## About The Unnamed
