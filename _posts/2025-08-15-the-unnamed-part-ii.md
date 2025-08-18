@@ -21,7 +21,7 @@ He expected solitude.
 
 But there she was.
 
-Len knelt beside the vigil chair, arranging blossoms in the wooden bowl at its foot—calachuchi, white santan, a few stems of gumamela. She worked slowly, her back straight, her movements quiet. Her long hair was tied loosely with a thin red ribbon, and her dress, though simple, carried the gentle grace of someone who had stopped trying to impress the world.
+Len knelt beside the vigil chair, arranging blossoms in the wooden bowl. She worked slowly, her back straight, her movements quiet. Her long hair was tied loosely with a thin red ribbon, and her dress, though simple, carried the gentle grace of someone who had stopped trying to impress the world.
 
 She hadn’t seen him yet.
 

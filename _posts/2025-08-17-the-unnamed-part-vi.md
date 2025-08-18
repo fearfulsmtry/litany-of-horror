@@ -159,7 +159,7 @@ Kin’s chest tightened as Gabi cupped her face and kissed her. It was slow, unh
 
 For a moment, Kin looked away, the ache sharp, undeniable. He had loved her once — perhaps still did, in some hidden corner of the heart he had given to God. But as he stood there, something in him stilled. A quiet clarity settled over him — not sudden, not loud, but steady, like a deep breath after holding it too long.
 
-_**He would not be Levi.**_
+**He would not be Levi.**
 
 This, too, was sacrifice — the daily surrender his vocation demanded. Not the grand gesture of one choice made long ago, but the living, breathing offering of the present moment. The ache remained, but it no longer pulled him apart.
 
@@ -178,7 +178,7 @@ They all turned toward the vigil chair.
 
 Lolo Ben’s corpse sat exactly where it had for days, but its head was lifted now, the milky eyes fixed straight ahead. The jaw worked stiffly, each movement accompanied by the faint crackle of dried sinew.
 
-“_**You..._**” it said — the voice not his, but something hollow and resonant, a sound that seemed to scrape the walls. “_**You ran when the mountain called. You crossed the sea and let the roots wither, leaving their shadows to watch for you.**_”
+“***You...***” it said — the voice not his, but something hollow and resonant, a sound that seemed to scrape the walls. “***You ran when the mountain called. You crossed the sea and let the roots wither, leaving their shadows to watch for you.***”
 
 Gabi’s blood turned to ice.
 
