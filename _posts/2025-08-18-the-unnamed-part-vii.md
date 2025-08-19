@@ -120,17 +120,17 @@ Anding halted, her hands tight on the folded burial cloth. Her voice was hushed 
 
 Kin set his small crucifix atop the coffin, his lips pressing together in a silent prayer. Gabi knelt, unpacking his chisel and hammer, the tools glinting in the low light.
 
-Anding stepped forward, lifting the cloth. It was handwoven in deep indigo, the pattern threaded with white and red — the Sagayo motif — and now stitched with a single new addition: **LEVI** in bold, careful letters.
+Anding stepped forward, lifting the cloth. It was handwoven in deep indigo, the pattern threaded with white and red — the Sagayo motif — and now stitched with a single new addition: **Levi Sagayo** in bold, careful letters.
 
-She drew in a slow breath before speaking. “Levi…” Her voice caught, just for a heartbeat — as though another name lingered there, unspoken, a memory she could not quite let surface. She steadied herself and went on, “…Sagayo.”  
+She drew in a slow breath before speaking. “Levi...” Her voice caught, just for a heartbeat — as though another name lingered there, unspoken, a memory she could not quite let surface. She steadied herself and went on, “…Sagayo.”  
 The sound of it seemed to shiver through the air, settling heavy in the chamber.
 
 Then began to speak in the old tongue, each word measured and reverent:
 
-> “**Sika’y kabsat mi. Adtoy ti nagan mo.**”  
-> (_You are our kin. Here is your name._)
+> “**Sika iy agi mi. Angken mi sika kas kabsat mi. Deya ti nagan mo.**”  
+> (_You are our kin. We claim you as our own. Here is your name.._)
 
-> “**Teden ka, men gawis ka.**”  
+> “**Mali‑liem ka, kasam‑em ka.**”  
 > (_Rest now, be at peace._)
 
 Kin followed in Latin, his voice a low counterpoint to hers.
@@ -155,7 +155,7 @@ The air turned colder. The shadows along the walls seemed to sway, though no win
 
 Kin’s voice tightened but did not falter. “_Et lux perpetua luceat ei…_”
 
-Anding’s jaw set. “**Saan mo kami mapigilan.**” (_You will not stop us._)
+Anding’s jaw set. “You will not stop us.”
 
 Gabi kept carving, each strike louder, defiant.
 
@@ -171,7 +171,7 @@ The whisper broke into a sound like stone grinding on stone, then faded. The air
 
 Anding stepped forward and pressed the cloth to the coffin, her hands trembling.
 
-“Men gawis ka, kabsat. Rest now.”
+“Kasam‑em ka, kabsat. Rest now.”
 
 Somewhere deep in the compound miles away, Elia’s fingers twitched. Her eyes opened.
 

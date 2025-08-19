@@ -57,6 +57,11 @@ The family attempts to give the unnamed dead their proper rest. But breaking dec
 
 The entity reveals its true nature as Father Kin prepares for a final confrontation. Some victories require sacrifice, and not everyone emerges unmarked.
 
+### [Epilogue]({{ site.baseurl }}/2025/08/19/the-unnamed-epilogue/)
+*Published August 19, 2025*
+
+With the demon banished and the family curse broken, Gabriel and Len find their way back to each other while Father Kin bears the scars of his sacrifice. The fog lifts, and the road home lies clear.
+
 ---
 
 ## About The Unnamed
