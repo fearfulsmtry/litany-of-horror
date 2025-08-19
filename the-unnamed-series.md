@@ -47,12 +47,12 @@ Elia falls into an unexplained coma after witnessing something in the vigil chai
 
 Family secrets unfold as the presence in the house grows bolder. The dead reveal what they want, and the living must face the price of generations of silence.
 
-### [Part VII: The Unbinding]({{ site.baseurl }}/2025/08/18/the-unnamed-part-vii/)
+### [Part VII: The Naming]({{ site.baseurl }}/2025/08/18/the-unnamed-part-vii/)
 *Published August 18, 2025*
 
 The family attempts to give the unnamed dead their proper rest. But breaking decades of silence may not be enough to banish what has taken root in the house.
 
-### [Part VIII: The Naming]({{ site.baseurl }}/2025/08/18/the-unnamed-part-viii/)
+### [Part VIII: The Broken Throne]({{ site.baseurl }}/2025/08/18/the-unnamed-part-viii/)
 *Published August 18, 2025*
 
 The entity reveals its true nature as Father Kin prepares for a final confrontation. Some victories require sacrifice, and not everyone emerges unmarked.

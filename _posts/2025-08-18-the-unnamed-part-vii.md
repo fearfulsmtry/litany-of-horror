@@ -7,7 +7,7 @@ tags: [folk-horror, the-unnamed]
 series: the-unnamed
 ---
 
-**Part VII - The Unbinding**
+**Part VII - The Naming**
 
 _“They gave the dead his name, and the living drew breath.”_
 

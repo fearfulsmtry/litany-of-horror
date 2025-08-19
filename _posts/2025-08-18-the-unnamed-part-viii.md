@@ -7,7 +7,7 @@ tags: [folk-horror, the-unnamed]
 series: the-unnamed
 ---
 
-**Part VIII - The Naming**
+**Part VIII - The Broken Throne**
 
 _“They broke the place of his dwelling, and the shadow departed.”_
 
