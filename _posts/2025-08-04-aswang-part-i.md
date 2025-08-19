@@ -447,11 +447,3 @@ She was back in the field. Something crouched at the edge, humming in her mother
 She woke cold. The windows were shut. Yet the candle at the altar was lit, and the relic beneath her pillow was warm.
 
 **[End of Part I]**
-
----
-
-<div class="series-nav">
-  <h4>📖 Continue the Aswang Series</h4>
-  <p><a href="{{ site.baseurl }}/aswang-series">View All Parts</a> | <a href="{{ site.baseurl }}/2025/08/05/aswang-part-ii/">Part II: Roots of the Rot →</a></p>
-</div>
-
