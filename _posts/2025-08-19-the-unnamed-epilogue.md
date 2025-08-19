@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Unnamed - Part VIII
+title: The Unnamed - Epilogue
 date: 2025-08-19
 categories: [horror, supernatural]
 tags: [folk-horror, the-unnamed]
