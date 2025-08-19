@@ -165,7 +165,7 @@ The whisper grew into a voice, inhuman and stretched thin, the words curling lik
 
 Kin’s gaze flicked briefly to Gabi at the demon’s words. A sharp image of Len’s face flashed in his mind, followed by the sting of guilt he thought he’d buried years ago. For a heartbeat, he feared Gabi might falter - and knew that if he did, Len would be the one to pay.
 
-One final blow — the marker split, revealing the carved name. Levi Sagayo.
+One final blow — the marker split, revealing the carved name. LEVI.
 
 The whisper broke into a sound like stone grinding on stone, then faded. The air warmed, as if a breath had passed through.
 
