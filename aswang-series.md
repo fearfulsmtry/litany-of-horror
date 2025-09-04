@@ -3,8 +3,6 @@ layout: page
 title: Aswang
 ---
 
-# 📖 Aswang
-
 A multi-part folk horror story exploring the ancient terrors that still whisper in the shadows. Set in rural Philippines.
 
 ---

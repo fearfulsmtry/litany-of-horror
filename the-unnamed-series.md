@@ -3,8 +3,6 @@ layout: page
 title: The Unnamed
 ---
 
-# 📖 The Unnamed
-
 A folk horror story set in the mountain city of Baguio, Philippines, where family secrets and ancient silences converge in the mist.
 
 ---
