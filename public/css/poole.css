@@ -43,7 +43,7 @@ body {
 }
 
 html {
-  font-family: "Libre Baskerville", "Times New Roman", serif;
+  font-family: "Inter", "Segoe UI", "Roboto", -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.6;
@@ -110,6 +110,16 @@ p {
 
 strong {
   color: #ffffff;
+}
+
+/* Tighter spacing for quote attributions */
+p em + p em {
+  margin-top: -0.5rem;
+}
+
+/* Alternative: reduce spacing when italic paragraph follows italic paragraph */
+p:has(em) + p:has(em) {
+  margin-top: -0.5rem;
 }
 
 /* Series Navigation */
@@ -279,7 +289,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 48rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;

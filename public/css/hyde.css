@@ -29,7 +29,7 @@
  */
 
 html {
-  font-family: "Libre Baskerville", "Times New Roman", serif;
+  font-family: "Inter", "Segoe UI", "Roboto", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -89,7 +89,7 @@ html {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 48rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
