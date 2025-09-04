@@ -33,12 +33,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 15px;
+    font-size: 17px;
   }
 }
 
@@ -72,8 +72,8 @@ html {
 /* Lead paragraph under title */
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
-  color: #afafaf;
+  font-weight: 500;
+  color: #bfbfbf;
 }
 
 /* Container
@@ -111,6 +111,7 @@ html {
   padding: .5rem 1rem;
   line-height: 1.75;
   color: #afafaf;
+  font-weight: 500;
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
@@ -146,6 +147,7 @@ a.sidebar-nav-item:focus {
   padding-left: 1.25rem;
   border-left: 2px solid rgba(255,255,255,.1);
   margin-left: 1rem;
+  font-weight: 500;
 }
 
 .sidebar-series-item:hover,
@@ -177,7 +179,7 @@ a.sidebar-nav-item:focus {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "Libre Baskerville", "Times New Roman", serif;
+  font-family: "Inter", "Segoe UI", "Roboto", -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: .875rem; /* 15px */
   color: #f3f3f3;
   background-color: #181818;
@@ -451,7 +453,7 @@ a.sidebar-nav-item:focus {
 }
 
 .hero-title {
-  font-family: 'UnifrakturCook', cursive;
+  font-family: "Inter", "Segoe UI", "Roboto", -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 3rem;
   margin-bottom: 1rem;
   color: #ffffff;
@@ -479,7 +481,7 @@ a.sidebar-nav-item:focus {
 }
 
 .series-showcase h3 {
-  font-family: 'UnifrakturCook', cursive;
+  font-family: "Inter", "Segoe UI", "Roboto", -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 2rem;
   margin-bottom: 0.5rem;
   color: #f3f3f3;
@@ -564,7 +566,7 @@ a.sidebar-nav-item:focus {
 .nav-item h4 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-family: 'UnifrakturCook', cursive;
+  font-family: "Inter", "Segoe UI", "Roboto", -apple-system, BlinkMacSystemFont, sans-serif;
   color: #f3f3f3;
 }
 

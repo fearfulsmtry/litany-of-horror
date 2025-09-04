@@ -60,7 +60,7 @@ A sound.
 
 Thin. Trembling.
 
-**A newborn’s cry**, drifting faintly through the townhouse.
+_A newborn’s cry_, drifting faintly through the townhouse.
 
 Chel froze. Her breath caught in her throat.
 
