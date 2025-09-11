@@ -25,7 +25,7 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
-          {% unless node.title == "Aswang" or node.title == "The Unnamed" %}
+          {% unless node.title == "Aswang" or node.title == "The Unnamed" or node.title == "Anak" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
           {% endunless %}
         {% endif %}
@@ -37,7 +37,7 @@
       <span class="sidebar-series-title">📖 Series</span>
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" and (node.title == "Aswang" or node.title == "The Unnamed") %}
+          {% if node.layout == "page" and (node.title == "Aswang" or node.title == "The Unnamed" or node.title == "Anak") %}
             <a class="sidebar-nav-item sidebar-series-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
