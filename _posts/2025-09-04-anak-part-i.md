@@ -21,9 +21,15 @@ Pale stone floors. Orchids lined the window, petals flawless, sterile. Each surf
 
 Jacob sat at the dining table, collared shirt half-unbuttoned, laptop open before him. The glow lit his face as he spoke into wireless buds, voice low and urgent. Numbers. Deadlines. Funding rounds. He rubbed his temple, jaw tight.
 
-Chel lingered in the lounge. Sketchbook on her knees, pencil scratching quiet arcs. She drew a cradle, thin bars, a soft canopy that curved like a prayer. Her hand stilled. She shut the book quickly, sliding it beneath a cushion as though it were a secret she should not have drawn.
+Chel lingered in the lounge. Sketchbook on her knees, pencil tracing soft lines. At first it was habit — the faint outline of a room, an arch curving gentle, space measured for light. A designer’s hand, shaping order.
 
-Jacob’s words sharpened. “Persistence pays. Nothing is impossible if you keep working for it.” His eyes flicked toward her, then back to the screen, as if she were another object in the room.
+But the lines bent inward. Bars emerged. A small canopy, bowed like prayer. The space had become a cradle.
+
+Her chest tightened. She stared at it, the page both familiar and foreign. She could draw rooms for others, fill their homes with beauty. But here, in her own, her pencil betrayed what she would not speak.
+
+She shut the book quickly, sliding it beneath the cushion as though it were a sin to leave in the open.
+
+Jacob’s words sharpened. “Persistence pays. Nothing is impossible if you keep working for it. We’re building the future—life itself, only the way we choose it to be.” His eyes flicked toward her, then back to the screen, as if she were another object in the room.
 
 Chel rose, crossed into the kitchen. Poured water. The sound of it filled the silence. Her hand rested on her stomach, flat beneath the blouse. Empty still. Years of trying, and now the first round of IVF — samples sealed away in glass, waiting for news.
 
@@ -64,7 +70,7 @@ _A newborn’s cry_, drifting faintly through the townhouse.
 
 Chel froze. Her breath caught in her throat.
 
-It threaded closer, rising, falling. Not from the street. Not from the neighbours. *From inside.*
+It threaded closer, rising, falling. Not from the street. Not from the neighbours. _From inside_.
 
 The cry paused. Silence rushed in again, louder than before. Chel’s skin prickled. She turned her head toward the doorway, the crack of shadow just visible.
 
@@ -72,7 +78,7 @@ The sound came again. Louder. Right outside their room now.
 
 Jacob stirred, rolled onto his side, snore catching before steadying again. Unmoved.
 
-Chel gripped the edge of the blanket. Her heart hammered so hard it filled her ears. She wanted to wake him. But her mouth stayed closed.
+Chel gripped the edge of the blanket. She wanted to wake him. But her mouth stayed closed.
 
 The crying cut off, sudden.
 
@@ -82,13 +88,11 @@ Only Jacob’s snore remained, steady, unbroken.
 
 Chel lay rigid, staring at the door. She didn’t breathe for a long time.
 
-Finally she turned on her side, facing away, pressing herself into the edge of the mattress as if the wall could shield her.
+Finally she turned on her side, facing away, pressing herself into the edge of the mattress.
 
-Her eyes burned with sleeplessness. Her arms ached with emptiness.
+She shut her eyes. She told herself it was nothing, only nerves. But still—she felt the house holding its breath, as though something waited in the dark beyond the door.
 
-The last cry echoed in her mind. It had wavered at the end, almost breaking into a giggle. *Almost*.
-
-Chel shut her eyes tight. She told herself it was nothing, only nerves. But still—she felt the house holding its breath, as though something waited in the dark beyond the door.
+The last cry echoed in her mind. It had wavered at the end, almost breaking into a giggle. _Almost_.
 
 ---
 
@@ -110,7 +114,7 @@ Then Isabel’s eyes softened further. “We pray for you both every night. For 
 
 Chel swallowed hard. Her throat burned. She glanced at the plate of toast, then away. “We’re… trying, Mama.” Her voice barely carried.
 
-Isabel nodded, still smiling. “Yes. In God’s time. Remember, anak—life is always a gift.”
+Isabel nodded, still smiling. “Yes. In God’s time. Remember, anak to pray - life comes from Him. It's always a gift.”
 
 Chel’s eyes blurred. She looked down quickly, forcing her breath steady.
 
@@ -142,23 +146,19 @@ Jacob didn’t look up. “They always ask.”
 
 The words dropped flat between them. Chel set her fork down. “She said life is a gift.”
 
-Jacob’s jaw tightened. He reached for his glass, staring into the dark red. “We’re doing what we can.”
+Jacob’s jaw tightened. He reached for his glass, staring into the dark red. His thumb ran along the rim, circling slow, as if stalling. “We’re doing what we can.”
+
+His hand lingered too long. The glass tipped slightly, wine trembling near the edge. He steadied it quick, wiped his thumb against his thigh.
 
 Chel waited for more, but nothing came. She looked at him, but he didn’t lift his eyes. The silence stretched.
 
 Finally she rose, collecting the plates before either was finished. She carried them to the sink, water rushing as she rinsed them clean.
 
-Behind her, Jacob swirled the wine in his glass, watching the liquid climb the sides. He didn’t drink.
+Behind her, Jacob swirled the wine in his glass, gaze fixed too intently on its depths. He didn’t drink. His jaw worked, unclenching, clenching again.
 
 Chel’s hands trembled under the tap. She shut the water off and stood still, staring at the empty plates stacked in the basin.
 
-Jacob leaned back in his chair, gaze fixed on the glass in his hand, as though something in its depths demanded his attention.
-
-The air between them felt heavy, unmoving.
-
-Chel turned, drying her hands. “Do you ever wonder—” She stopped. Shook her head. “Never mind.”
-
-Jacob finally looked up. For a moment it seemed he might speak. Instead he tipped the last of the wine into his glass, drained it in one swallow, and set it down with a muted thud.
+Jacob leaned back in his chair, knuckles pale around the stem. For a moment it seemed he might speak. Instead he drained the glass in one swallow and set it down with a muted thud.
 
 Chel lowered her eyes.
 
@@ -180,13 +180,13 @@ Creak. Slow. Steady.
 
 Chel turned her head toward the corner.
 
-There, faint in the streetlight glow, **a cradle rocked**. Pale wood. Thin bars. The same cradle she had sketched with trembling hands. But here it was wrong—too sharp, too thin, as though the page had bled into the dark and birthed it misshapen.
+There, faint in the streetlight glow, _a cradle rocked_. Pale wood. Thin bars. The same cradle she had sketched with trembling hands. But here it was wrong—too sharp, too thin, as though the page had bled into the dark and birthed it misshapen.
 
 Her throat tightened. A whisper escaped before she could stop it.
 
 “Anak…”
 
-**Then the cry came.**
+_Then the cry came._
 
 Thin at first. Then sharper. Jagged. A baby’s cry, but bent at the edges, as though the throat making it was twisted wrong.
 
@@ -198,7 +198,7 @@ Chel’s breath hitched. She watched, powerless, as the figure turned — slowly
 
 Her eyes clamped shut. She pressed the blanket to her chest, praying the vision would vanish.
 
-The crying cut off.
+The cry snapped off mid-wail.
 
 Silence rushed in.
 
