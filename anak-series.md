@@ -20,8 +20,8 @@ Chel and Jacob's dream of starting a family becomes a nightmare when their ferti
 
 A beautiful home holds only silence. As IVF treatment begins, Chel hears the cries of a child that isn't there—yet.
 
-### Part II: In The Dark, They Call 📅
-*Coming September 12, 2025*
+### [Part II: In The Dark, They Call]({{ site.baseurl }}/2025/09/12/anak-part-ii/) ✓
+*Published September 12, 2025*
 
 Family gatherings reveal what's missing, and the first treatment fails. In the space between hope and despair, something begins to whisper.
 
