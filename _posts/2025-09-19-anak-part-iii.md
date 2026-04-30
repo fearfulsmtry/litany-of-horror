@@ -5,6 +5,7 @@ date: 2025-09-19
 categories: [horror, supernatural]
 tags: [folk-horror, anak]
 series: anak
+part_title: "The Nothing That Speaks"
 ---
 
 

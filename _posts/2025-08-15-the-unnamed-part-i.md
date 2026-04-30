@@ -5,6 +5,7 @@ date: 2025-08-15
 categories: [horror, supernatural]
 tags: [folk-horror, the-unnamed]
 series: the-unnamed
+part_title: "What We Bury"
 ---
 
 **Part I - What We Bury**

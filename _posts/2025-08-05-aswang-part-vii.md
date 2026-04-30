@@ -5,6 +5,7 @@ date: 2025-08-05
 categories: [horror, supernatural]
 tags: [folk-horror, aswang]
 series: aswang
+part_title: "Flesh and Fire"
 ---
 
 **Aswang – Part VII: Flesh and Fire**  

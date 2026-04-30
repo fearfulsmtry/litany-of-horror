@@ -5,6 +5,7 @@ date: 2025-08-04
 categories: [horror, supernatural]
 tags: [folk-horror, aswang]
 series: aswang
+part_title: "Echoes in the Earth"
 ---
 
 **Aswang – Part I: Echoes in the Earth**

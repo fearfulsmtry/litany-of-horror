@@ -5,6 +5,7 @@ date: 2025-08-06
 categories: [horror, supernatural]
 tags: [folk-horror, aswang]
 series: aswang
+part_title: "The Flame That Remained"
 ---
 
 **Epilogue: The Flame That Remained**

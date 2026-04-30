@@ -5,6 +5,7 @@ date: 2025-08-05
 categories: [horror, supernatural]
 tags: [folk-horror, aswang]
 series: aswang
+part_title: "Where Reason Alone Fails"
 ---
 
 **Aswang – Part III: Where Reason Alone Fails**  

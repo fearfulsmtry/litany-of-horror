@@ -5,6 +5,7 @@ date: 2025-08-05
 categories: [horror, supernatural]
 tags: [folk-horror, aswang]
 series: aswang
+part_title: "Roots of the Rot"
 ---
 
 **Aswang – Part II: Roots of the Rot** 

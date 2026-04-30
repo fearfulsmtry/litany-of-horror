@@ -5,6 +5,7 @@ date: 2025-08-05
 categories: [horror, supernatural]
 tags: [folk-horror, aswang]
 series: aswang
+part_title: "The First Call"
 ---
 
 **Aswang – Part IV: The First Call**  

@@ -5,6 +5,7 @@ date: 2025-08-17
 categories: [horror, supernatural]
 tags: [folk-horror, the-unnamed]
 series: the-unnamed
+part_title: "When Silence Shatters"
 ---
 
 **Part V - When Silence Shatters**  

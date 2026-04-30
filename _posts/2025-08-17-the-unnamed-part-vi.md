@@ -5,6 +5,7 @@ date: 2025-08-17
 categories: [horror, supernatural]
 tags: [folk-horror, the-unnamed]
 series: the-unnamed
+part_title: "The Mark"
 ---
 
 **Part VI: The Mark**

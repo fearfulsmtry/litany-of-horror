@@ -49,7 +49,17 @@ layout: default
     {% assign post_url = entry_parts[1] %}
     {% assign post_title = entry_parts[2] %}
     {% assign post_date = entry_parts[3] %}
-    <h3><a href="{{ post_url | relative_url }}">{{ post_title }}</a></h3>
+    {% comment %} Look up the post object to get part_title {% endcomment %}
+    {% assign post_part_title = "" %}
+    {% for post in series_posts %}
+      {% if post.url == post_url %}
+        {% assign post_part_title = post.part_title %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% assign title_parts = post_title | split: " - " %}
+    {% assign part_label = title_parts[1] | default: title_parts[0] %}
+    <h3><a href="{{ post_url | relative_url }}">{{ part_label }}{% if post_part_title and post_part_title != "" %}: {{ post_part_title }}{% endif %}</a></h3>
     <p><em>Published {{ post_date | date: "%B %-d, %Y" }}</em></p>
   {% endfor %}
 
