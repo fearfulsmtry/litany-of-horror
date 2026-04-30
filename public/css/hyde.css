@@ -180,7 +180,7 @@ a.sidebar-nav-item:focus {
   visibility: hidden;
   overflow-y: auto;
   font-family: "Lora", Georgia, "Times New Roman", serif;
-  font-size: .875rem; /* 15px */
+  font-size: 15px;
   color: #f3f3f3;
   background-color: #181818;
   -webkit-transition: all .3s ease-in-out;
@@ -197,13 +197,13 @@ a.sidebar-nav-item:focus {
     width: 18rem;
     visibility: visible;
     text-align: left;
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
 @media (min-width: 30em) and (max-width: 47.9em) {
   .sidebar {
-    font-size: 0.75rem; /* 12px */
+    font-size: 14px;
   }
 }
 

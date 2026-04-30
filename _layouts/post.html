@@ -86,13 +86,14 @@ layout: default
     {% endfor %}
     
     {% if series_posts.size > 0 %}
-      <!-- Get proper series display name -->
+      <!-- Get proper series display name from _data/series.yml -->
       {% assign series_display_name = page.series | capitalize %}
-      {% if page.series == "the-unnamed" %}
-        {% assign series_display_name = "The Unnamed" %}
-      {% elsif page.series == "aswang" %}
-        {% assign series_display_name = "Aswang" %}
-      {% endif %}
+      {% for s in site.data.series %}
+        {% if s.slug == page.series %}
+          {% assign series_display_name = s.title %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
       
       <div class="series-nav">
         <h4>📖 {{ series_display_name }}</h4>

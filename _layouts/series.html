@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% assign series_info = site.data.series | where: "slug", page.series_slug | first %}
+
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+
+  <p>{{ series_info.description }}</p>
+
+  <hr>
+
+  <h2>Parts</h2>
+
+  {% assign series_posts = site.posts | where: "series", page.series_slug %}
+  {% assign posts_with_order = "" | split: "" %}
+  {% for post in series_posts %}
+    {% assign title_parts = post.title | split: " - " %}
+    {% assign part_info = title_parts[1] | default: title_parts[0] %}
+    {% assign order_value = 999 %}
+    {% if part_info contains "Part" %}
+      {% assign part_text = part_info | split: "Part " | last | strip %}
+      {% case part_text %}
+        {% when "I" %}{% assign order_value = 1 %}
+        {% when "II" %}{% assign order_value = 2 %}
+        {% when "III" %}{% assign order_value = 3 %}
+        {% when "IV" %}{% assign order_value = 4 %}
+        {% when "V" %}{% assign order_value = 5 %}
+        {% when "VI" %}{% assign order_value = 6 %}
+        {% when "VII" %}{% assign order_value = 7 %}
+        {% when "VIII" %}{% assign order_value = 8 %}
+        {% when "IX" %}{% assign order_value = 9 %}
+        {% when "X" %}{% assign order_value = 10 %}
+      {% endcase %}
+    {% elsif part_info contains "Epilogue" %}
+      {% assign order_value = 1000 %}
+    {% elsif part_info contains "Prologue" %}
+      {% assign order_value = 0 %}
+    {% endif %}
+    {% assign sort_key = order_value | prepend: "000" | slice: -4, 4 %}
+    {% assign post_entry = sort_key | append: "|" | append: post.url | append: "|" | append: post.title | append: "|" | append: post.date %}
+    {% assign posts_with_order = posts_with_order | push: post_entry %}
+  {% endfor %}
+  {% assign sorted_entries = posts_with_order | sort %}
+
+  {% for entry in sorted_entries %}
+    {% assign entry_parts = entry | split: "|" %}
+    {% assign post_url = entry_parts[1] %}
+    {% assign post_title = entry_parts[2] %}
+    {% assign post_date = entry_parts[3] %}
+    <h3><a href="{{ post_url | relative_url }}">{{ post_title }}</a></h3>
+    <p><em>Published {{ post_date | date: "%B %-d, %Y" }}</em></p>
+  {% endfor %}
+
+  <hr>
+
+  <h2>About {{ series_info.title }}</h2>
+
+  {{ series_info.about | markdownify }}
+
+  <hr>
+
+  <p><em>Return to <a href="{{ site.baseurl }}/archive/">All Stories</a></em></p>
+</div>

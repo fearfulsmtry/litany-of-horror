@@ -1,5 +1,5 @@
 @echo off
-echo 🎭 Starting Litany of Horror Blog...
+echo Starting Litany of Horror Blog...
 echo.
 
 REM Add Ruby to PATH
@@ -11,8 +11,8 @@ if exist Gemfile (
 )
 
 REM Build the Jekyll site
-echo 🔨 Building Jekyll site...
-jekyll build
+echo Building Jekyll site...
+call jekyll build
 
 REM Restore Gemfile
 if exist _Gemfile.tmp (
