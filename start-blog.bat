@@ -20,9 +20,15 @@ if exist _Gemfile.tmp (
 )
 
 REM Start Python server
-echo 🌐 Starting web server at http://localhost:8000
-echo 📖 Your horror blog is ready!
+echo Starting web server...
 echo.
-echo ⚠️  Press Ctrl+C to stop the server
+echo Browse to: http://localhost:8000/litany-of-horror/
+echo Press Ctrl+C to stop the server
 cd _site
+
+REM Create junction so baseurl paths resolve locally
+if not exist litany-of-horror (
+    mklink /J litany-of-horror . >nul 2>&1
+)
+
 python -m http.server 8000
