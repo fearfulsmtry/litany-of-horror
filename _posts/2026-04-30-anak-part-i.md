@@ -165,7 +165,7 @@ She was aware of several things at once: the faint hum of the refrigerator, Jaco
 
 "We're working on it, Mama," she said. Her voice came out steady. She had become practiced at steady.
 
-Her mother's face softened further. "In God's time, anak. Life is His gift. You can't rush a gift."
+Her mother's face softened further. "In God's time, anak. Life is a gift. You can't rush a gift."
 
 *In God's time.* Chel looked at her mother's face on the screen and thought about the doctor's office, the monitor she hadn't looked at directly, the words *there were no embryos* still cycling somewhere underneath everything else.
 
@@ -191,7 +191,7 @@ Jacob had moved to the table while she was talking. He set a glass of water besi
 
 Chel looked at the water. Then at the orchids on the windowsill, their petals perfect and closed.
 
-*Life is His gift*, her mother had said.
+*Life is a gift*, her mother had said.
 
 She sat with that for a while in the quiet of the townhouse, turning it over, feeling its edges. Then she closed the laptop and went upstairs.
 
