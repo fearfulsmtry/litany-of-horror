@@ -17,7 +17,7 @@ _(John 1:5)_
 
 The trail was thinner than it should’ve been.
 
-No footprints—just the subtle parting of leaves, a branch freshly snapped, a thread of cloth caught on bark. But Lito saw it all.
+No footprints -- just the subtle parting of leaves, a branch freshly snapped, a thread of cloth caught on bark. But Lito saw it all.
 
 Miguel followed close behind, machete strapped to his back, the relic pressed against his chest like armor.
 
@@ -33,7 +33,7 @@ Even the wind held its breath.
 
 “Far enough,” Lito said, not looking back.
 
-His voice was grim. Steady. The voice of a man who had walked this path before—_too late_.
+His voice was grim. Steady. The voice of a man who had walked this path before -- _too late_.
 
 He paused at a fork in the trail, bent low, and brushed away a fallen leaf.
 
@@ -112,11 +112,11 @@ Toward the womb waiting to be claimed.
 
 The door to the hut shattered beneath Lito’s boot.
 
-The air was **thick**, not with heat—but pressure. Like the inside of a wound.
+The air was **thick**, not with heat -- but pressure. Like the inside of a wound.
 
 Anna lay bound in the center of the room, surrounded by symbols that mocked the sacraments: rosaries made of hair, baptismal gowns stained and torn, crucifixes inverted and weeping oil.
 
-Hovering above her was the **pasa**—a blackened, pulsing organ that looked like it had been grown in grief and blood. It beat softly, not with life, but with _hunger_.
+Hovering above her was the **pasa** -- a blackened, pulsing organ that looked like it had been grown in grief and blood. It beat softly, not with life, but with _hunger_.
 
 Belen stood behind it.
 
@@ -147,7 +147,7 @@ She lashed out, knocking the bottle from Lito’s hands. It shattered on the flo
 
 Miguel pushed himself up, hand going to the pouch at his chest. The **relic**.
 
-The brass disk pulsed with warmth in his palm—faint light blooming as he raised it toward her.
+The brass disk pulsed with warmth in his palm -- faint light blooming as he raised it toward her.
 
 Belen Recoiled again, this time with fear.
 
@@ -167,11 +167,11 @@ And **pressed the relic to her chest**.
 
 The effect was immediate.
 
-Belen **screamed**—not in rage, but **pure torment**.
+Belen **screamed** -- not in rage, but **pure torment**.
 
 The skin beneath the relic _cracked_, split, and a **light poured out**, not warm but searing.
 
-Her true form began to emerge: a twisted fusion of _maternal imagery and monstrous hunger_. Multiple wombs, hollow and sagging, opened along her belly. Her face melted into two—one smiling, one sobbing.
+Her true form began to emerge: a twisted fusion of _maternal imagery and monstrous hunger_. Multiple wombs, hollow and sagging, opened along her belly. Her face melted into two -- one smiling, one sobbing.
 
 She fell to her knees.
 
@@ -179,7 +179,7 @@ Lito, stepped behind her and raised his **bolo**.
 
 > “For you, Mama. And the ones we failed.”
 
-He drove the blade into her back, _deep_—straight through the ribcage.
+He drove the blade into her back, _deep_ -- straight through the ribcage.
 
 Her body spasmed.
 
@@ -194,7 +194,7 @@ He struck once.
 
 Then again.
 
-On the third blow—**her head fell**.
+On the third blow -- **her head fell**.
 
 It hit the stone floor with a wet crack.
 
@@ -220,7 +220,7 @@ Still bound. Still bleeding.
 
 But she reached the **broken altar shard** and drove it into Mira’s side.
 
-The girl gasped—stared.
+The girl gasped -- stared.
 
 For a moment—
 
@@ -248,7 +248,7 @@ Miguel ran to her side, slicing the cords. He held her. Pressed his head to her 
 
 Anna didn’t answer.
 
-She reached out instead—toward the **relic**, still glowing faintly.
+She reached out instead -- toward the **relic**, still glowing faintly.
 
 She pressed it to her own chest.
 

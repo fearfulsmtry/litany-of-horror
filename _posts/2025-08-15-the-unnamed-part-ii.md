@@ -114,11 +114,11 @@ Kin approached gently.
 
 She held it up without looking at him.
 
-It was crude, childlike—but clear. The chair, the man, the blanket, the flowers. But one thing stood out.
+It was crude, childlike -- but clear. The chair, the man, the blanket, the flowers. But one thing stood out.
 
 The eyes were open.
 
-Two dark pencil ovals where Lolo Ben’s closed lids should have been. Not wild, not monstrous—just… looking.
+Two dark pencil ovals where Lolo Ben’s closed lids should have been. Not wild, not monstrous -- just… looking.
 
 “He opened them this morning,” Elia said matter-of-factly. “Only for a second.”
 
@@ -130,7 +130,7 @@ She nodded, still not looking away. “He was facing that way before.” She poi
 
 Kin turned.
 
-Lolo Ben’s corpse sat exactly as it had—but Kin had seen enough wakes to recognize **what shouldn’t change**. The angle of the neck. The tilt of the head.
+Lolo Ben’s corpse sat exactly as it had -- but Kin had seen enough wakes to recognize **what shouldn’t change**. The angle of the neck. The tilt of the head.
 
 Yesterday, he had been facing the chapel doors.
 
@@ -188,7 +188,7 @@ He needed the air.
 
 The house had felt too full of memory, of unanswered questions. Of Len’s voice still echoing in his chest.
 
-He took the old path behind the property wall. As a boy, he and Kin had walked it dozens of times. It led nowhere in particular—just curved along a shallow ravine and disappeared into brush. The trees here were thinner, bent inward by years of wind. The air was colder.
+He took the old path behind the property wall. As a boy, he and Kin had walked it dozens of times. It led nowhere in particular -- just curved along a shallow ravine and disappeared into brush. The trees here were thinner, bent inward by years of wind. The air was colder.
 
 That’s when he saw them again.
 
@@ -196,7 +196,7 @@ He stopped without thinking, heart snagging in his throat.
 
 Three figures, distant and half-obscured by mist, drifting slowly across the trail ahead.
 
-Same as before: barefoot, thin, their gait too smooth. Almost gliding. Their heads were bowed—or missing. It was hard to tell. The fog blurred the top halves of their forms, like unfinished sketches. But the shoulders, the backs, the bare feet, those were too detailed to dismiss.
+Same as before: barefoot, thin, their gait too smooth. Almost gliding. Their heads were bowed -- or missing. It was hard to tell. The fog blurred the top halves of their forms, like unfinished sketches. But the shoulders, the backs, the bare feet, those were too detailed to dismiss.
 
 They moved silently.
 
@@ -229,7 +229,7 @@ He retraced his steps toward the house.
 
 ---
 
-As he rounded the east side, past the faded prayer grotto and the old rain barrels, he passed a window—half open, obscured by lace curtains yellowed with time.
+As he rounded the east side, past the faded prayer grotto and the old rain barrels, he passed a window -- half open, obscured by lace curtains yellowed with time.
 
 He wasn’t trying to eavesdrop.
 
@@ -243,7 +243,7 @@ Carlos, slurring but sharp:
 
 > “I didn’t have a choice”
 
-A pause. Something slammed—maybe a cabinet.
+A pause. Something slammed -- maybe a cabinet.
 
 Then Carlos again, quieter:
 
@@ -261,7 +261,7 @@ When he returned to the sala, the candles were still burning beside Lolo Ben.
 
 The chair hadn’t moved.
 
-But something else had shifted—and Gabi couldn’t name it yet.
+But something else had shifted -- and Gabi couldn’t name it yet.
 
 ---
 
@@ -277,14 +277,14 @@ He entered alone.
 
 He did not bring incense. He did not announce himself with liturgy.
 
-He simply sat—between the second and third step of the staircase, the same spot where he used to say night prayers as a teenager. Lolo Ben had caught him there once, murmuring the Memorare under his breath, and said nothing—only rested a hand on his shoulder before walking away.
+He simply sat -- between the second and third step of the staircase, the same spot where he used to say night prayers as a teenager. Lolo Ben had caught him there once, murmuring the Memorare under his breath, and said nothing -- only rested a hand on his shoulder before walking away.
 
 That memory felt far now. Like something folded in tissue.
 
 He pressed thumb to bead.  
 His mind should’ve been on the Mysteries.
 
-But for a moment—just a moment—his thoughts drifted elsewhere.
+But for a moment -- just a moment -- his thoughts drifted elsewhere.
 
 To the way Len had looked that morning, kneeling beside the flowers.  
 How grace had settled on her.  
@@ -304,7 +304,7 @@ He glanced at the crucifix on the far wall.
 
 It was tilted.
 
-Not much—five, maybe ten degrees off its true axis. But Kin knew how carefully it had been centered. He’d adjusted it himself just yesterday.
+Not much -- five, maybe ten degrees off its true axis. But Kin knew how carefully it had been centered. He’d adjusted it himself just yesterday.
 
 He stood, quietly. Approached it.
 
@@ -320,7 +320,7 @@ Something moved behind him.
 
 He turned sharply. No one there.
 
-The candles beside the vigil chair flickered—not out, not high—just wrong. Like the flame itself had flinched.
+The candles beside the vigil chair flickered -- not out, not high -- just wrong. Like the flame itself had flinched.
 
 He stepped closer.
 
@@ -332,13 +332,13 @@ It had tilted further. No one had touched him. Kin was sure of it. He had taken 
 
 Now the chin was lower. As if… listening.
 
-A sound behind him—a soft shuffle.
+A sound behind him -- a soft shuffle.
 
 He turned again. Still nothing.
 
 His breath had grown short. He unfastened his stole and pressed it to his chest, saying the rest of the St. Michael prayer more quickly now, under his breath, eyes scanning the corners of the room.
 
-Then—_snap_.
+Then -- _snap_.
 
 One of the candles cracked in its holder, a thin thread of smoke spiraling up.
 
@@ -450,7 +450,7 @@ Evening settled slowly.
 
 The sun slipped behind the mountains, turning the sky the color of rust and old blood. A breeze moved through the compound, light and dry, tugging gently at the edges of old tarpaulins and drying laundry.
 
-Gabi found her near the side altar in the chapel yard, kneeling beside a flat tin basin of cut flowers. She was fixing the new arrangements for the next round of prayers—removing wilted petals, snipping stems clean with a small pair of shears.
+Gabi found her near the side altar in the chapel yard, kneeling beside a flat tin basin of cut flowers. She was fixing the new arrangements for the next round of prayers -- removing wilted petals, snipping stems clean with a small pair of shears.
 
 She didn’t look up when he approached, but she didn’t leave either.
 
@@ -463,7 +463,7 @@ She handed him a stalk of sampaguita without looking.
 
 He nodded and got to work.
 
-They stayed that way for a while—silent, side by side, surrounded by the scent of cut flowers and the distant sound of children playing.
+They stayed that way for a while -- silent, side by side, surrounded by the scent of cut flowers and the distant sound of children playing.
 
 Then Gabi said, quietly, “I’m sorry.”
 

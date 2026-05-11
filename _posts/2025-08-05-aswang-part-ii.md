@@ -19,7 +19,7 @@ The rain came suddenly the next day.
 
 Sheets of it, like God had overturned a basin across the mountains. The road turned to mud. Chickens huddled beneath upturned basins. The village radios fell silent, as if the static knew better than to speak.
 
-Anna sat curled on the rattan bench by the window, cradling a cup of lukewarm salabat. The baby shifted beneath her ribs—restless. Miguel had gone with Lito to fetch some canned goods before the footbridge flooded. She was alone in the house.
+Anna sat curled on the rattan bench by the window, cradling a cup of lukewarm salabat. The baby shifted beneath her ribs -- restless. Miguel had gone with Lito to fetch some canned goods before the footbridge flooded. She was alone in the house.
 
 Not quite alone.
 
@@ -27,7 +27,7 @@ She stood up after the third knock.
 
 Not at the door. Inside. In the old bedroom.
 
-Three knocks—soft, like fingers on wood. Then silence.
+Three knocks -- soft, like fingers on wood. Then silence.
 
 She opened the door slowly. Nothing there.
 
@@ -37,7 +37,7 @@ It had turned.
 
 ---
 
-That night, Miguel returned soaked, the umbrella useless against the sheets of rain. As he changed into dry clothes, Anna stood in front of the bookshelf in Lola Biana’s room. She had opened it looking for old letters—and instead found something else.
+That night, Miguel returned soaked, the umbrella useless against the sheets of rain. As he changed into dry clothes, Anna stood in front of the bookshelf in Lola Biana’s room. She had opened it looking for old letters -- and instead found something else.
 
 At the back, beneath a stack of Novenas to Our Lady of Perpetual Help, was a small wooden box.
 
@@ -45,11 +45,11 @@ Inside: a folded linen cloth, stained dark at the edges, and a yellowing photogr
 
 The cloth wrapped around what looked like… dried blood. Hardened into flakes. Preserved.
 
-The photo showed a much younger Biana, standing beside a small chapel with another woman—shorter, thinner, unsmiling.
+The photo showed a much younger Biana, standing beside a small chapel with another woman -- shorter, thinner, unsmiling.
 
 Anna turned it over.
 
-In faded pencil: _Belen, first delivery — 1963._
+In faded pencil: _Belen, first delivery -- 1963._
 
 ---
 
@@ -69,7 +69,7 @@ Anna watched him carefully. “What do you remember about the night Lola died?�
 
 Lito looked away.
 
-“I remember a scream,” he said. “Just one. I wasn’t far—I was pruning the kalamansi trees.”
+“I remember a scream,” he said. “Just one. I wasn’t far -- I was pruning the kalamansi trees.”
 
 “You didn’t see her fall?”
 
@@ -89,7 +89,7 @@ He looked up at her then. His eyes were dry, but darker than before.
 
 The rain broke the next day. Clouds still hung low, but the sun pierced through in slivers, burning steam off the road.
 
-Word reached the house by midmorning: **Aling Riza**—a mother of three, eight months along with her fourth—had gone into labor unexpectedly.
+Word reached the house by midmorning: **Aling Riza** -- a mother of three, eight months along with her fourth -- had gone into labor unexpectedly.
 
 Anna heard it from Tita Nena, who dropped by with dried fish and news. “It was too soon,” she said, shaking her head. “She wasn’t due till next month. The baby was moving yesterday. They say it just… stopped.”
 
@@ -105,7 +105,7 @@ They walked past the chapel and followed the narrow trail behind the balete grov
 
 From the open window, Anna heard soft moaning. A woman in pain.
 
-And then—another voice.
+And then -- another voice.
 
 Not Belen’s.
 
@@ -113,7 +113,7 @@ Young. Controlled. Mimicking comfort without knowing what it meant.
 
 Anna stepped closer, peering into the hut through the slats.
 
-Inside, Aling Riza lay on a woven mat, her knees drawn, sweat soaking her brow. Belen knelt beside her, murmuring softly, rhythmically. And behind her stood a girl—barefoot, braid neat, eyes too old for her face. She never blinked.
+Inside, Aling Riza lay on a woven mat, her knees drawn, sweat soaking her brow. Belen knelt beside her, murmuring softly, rhythmically. And behind her stood a girl -- barefoot, braid neat, eyes too old for her face. She never blinked.
 
 Anna felt her stomach knot.
 
@@ -123,7 +123,7 @@ Lito was beside her. “No,” he said. “She’s not.”
 
 ---
 
-Mira Santos had lived in the village for as long as anyone could remember—an orphan raised by Belen, quiet and apart. The other children avoided her. She never cried, never played.
+Mira Santos had lived in the village for as long as anyone could remember -- an orphan raised by Belen, quiet and apart. The other children avoided her. She never cried, never played.
 
 As Anna watched, what struck her was not cruelty, but imitation. Mira moved with studied care, like someone who had learned how to comfort without ever feeling it.
 
@@ -141,13 +141,13 @@ And Aling Riza had not woken.
 
 Anna stood among them, arms wrapped over her belly.
 
-The wails of Riza’s husband and children carried across the fields—raw, jagged, unbearable.
+The wails of Riza’s husband and children carried across the fields -- raw, jagged, unbearable.
 
 Mira emerged from the house with the bundle wrapped in white cloth. She didn’t look at anyone. She walked toward the chapel gates, placed the bundle by the altar, and whispered something no one could hear.
 
 Tatay Lito stepped forward, jaw tight.
 
-Mira looked at him for a long moment. Something passed in her expression—something like disdain, but laced with sadness. Or hunger.
+Mira looked at him for a long moment. Something passed in her expression -- something like disdain, but laced with sadness. Or hunger.
 
 Then she turned and walked back toward the hut, bare feet silent on the path.
 
@@ -179,7 +179,7 @@ but the curtain swayed, though the window was shut.
 
 That evening, Miguel stayed outside after dinner, fiddling with the bamboo gate. It squeaked too easily; he wanted to reinforce it, maybe string something across the top.
 
-Anna watched him from the window—then noticed she wasn’t alone.
+Anna watched him from the window -- then noticed she wasn’t alone.
 
 Across the narrow road, in the shadow of the trees, stood Mira.
 
@@ -201,7 +201,7 @@ Neither Anna nor Miguel moved to take it.
 
 Mira set it gently on the post. Her gaze never left Miguel.
 
-“I hope you fight,” she added, almost like a blessing — or a dare.
+“I hope you fight,” she added, almost like a blessing -- or a dare.
 
 Then she walked off, feet making no sound on the stone.
 
@@ -223,7 +223,7 @@ Even the crickets had stopped.
 
 She sat up and turned toward the window. The moonlight filtered through the slats in pale blue strips. She should have seen trees. Maybe the road. Maybe nothing.
 
-Instead—she saw her.
+Instead -- she saw her.
 
 Riza.
 
@@ -245,7 +245,7 @@ The flame burned low and steady.
 
 When she checked again ten minutes later, the figure was gone.
 
-But the clothespin she'd left on the line that morning was sitting on the window ledge—**inside** the room.
+But the clothespin she'd left on the line that morning was sitting on the window ledge -- **inside** the room.
 
 ---
 
@@ -348,7 +348,7 @@ Another pause.
 
 ---
 
-Sometime after midnight, Anna awoke with a strange sensation in her legs—cold, like water soaking into her bones.
+Sometime after midnight, Anna awoke with a strange sensation in her legs -- cold, like water soaking into her bones.
 
 She sat up.
 
@@ -376,13 +376,13 @@ But it _watched_.
 
 Anna reached back blindly and felt the edge of the bed.
 
-She whispered a prayer—fragmented, unfinished:
+She whispered a prayer -- fragmented, unfinished:
 
 “Lord… if You see me… if You see _her_…”
 
 The figure didn’t move.
 
-But the baby kicked—hard, sudden, as if startled.
+But the baby kicked -- hard, sudden, as if startled.
 
 And the candle on the altar flared.
 
@@ -392,23 +392,23 @@ The figure was gone.
 
 ---
 
-#### **I. Biana — Silang, 1972**
+#### **I. Biana -- Silang, 1972**
 
 The girl had stopped breathing in the second hour of labor.
 
-Too narrow, Biana knew. The child had turned wrong, shoulder caught against bone. The mother—a girl herself—was barely sixteen, a niece of the bishop.
+Too narrow, Biana knew. The child had turned wrong, shoulder caught against bone. The mother -- a girl herself -- was barely sixteen, a niece of the bishop.
 
 They had sent a jeep to fetch the priest, not expecting Biana to succeed.
 
 But she did.
 
-She worked in silence, praying with every breath, coaxing life out of blood and bone. Her hands were steady, though her vision blurred from sweat. At one point she whispered the Hail Mary into the girl’s ear—not for pain, but for courage.
+She worked in silence, praying with every breath, coaxing life out of blood and bone. Her hands were steady, though her vision blurred from sweat. At one point she whispered the Hail Mary into the girl’s ear -- not for pain, but for courage.
 
 The child came out blue.
 
 Biana struck her feet. Rubbed her chest.
 
-And when the cry came—thin and gasping—it sounded like a bird learning to sing.
+And when the cry came -- thin and gasping -- it sounded like a bird learning to sing.
 
 ---
 
@@ -422,7 +422,7 @@ He returned three days later, this time with a small parcel in his hand.
 
 “I should’ve been here,” he said. “But you were.”
 
-He gave her a **first-class relic**—a sliver of bone from **San Lorenzo Ruiz**, the first Filipino saint. It came in a brass reliquary disk, hand-carried from Manila.
+He gave her a **first-class relic** -- a sliver of bone from **San Lorenzo Ruiz**, the first Filipino saint. It came in a brass reliquary disk, hand-carried from Manila.
 
 “Keep this,” he said. “There may be darker births to come.”
 
@@ -431,11 +431,11 @@ Inside the relic’s wrapping was a handwritten psalm:
 > _“He will cover you with His pinions, and under His wings you will find refuge…”_
 
 Biana never displayed it. She didn’t talk about it.  
-But she began praying differently after that day—lower, slower, like someone speaking through a locked door and waiting for the knock from the other side.
+But she began praying differently after that day -- lower, slower, like someone speaking through a locked door and waiting for the knock from the other side.
 
 ---
 
-#### **II. Teresa — Perth, 2006**
+#### **II. Teresa -- Perth, 2006**
 
 Anna sat on the edge of the bed, arms crossed, eyes blank.
 
@@ -469,7 +469,7 @@ But later, when she opened her bag at school and touched the beads, something ac
 
 ---
 
-#### **III. Present — The Village, Night**
+#### **III. Present -- The Village, Night**
 
 Anna woke before dawn.
 

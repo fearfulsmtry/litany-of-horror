@@ -17,7 +17,7 @@ _(Mark 9:24)_
 
 The afternoon light filtered soft and amber through the woven curtains.
 
-Anna moved slowly around the bedroom, putting things back where they belonged—half from habit, half from the ache of needing to keep busy. The relic had been placed carefully on the bedside altar, wrapped once more in Biana’s cloth. Four candles ringed it in saucers of salt, their wicks trimmed, unlit for now.
+Anna moved slowly around the bedroom, putting things back where they belonged -- half from habit, half from the ache of needing to keep busy. The relic had been placed carefully on the bedside altar, wrapped once more in Biana’s cloth. Four candles ringed it in saucers of salt, their wicks trimmed, unlit for now.
 
 She found it behind the altar, tucked behind an old _Libro de Santa Misa_, its leather cover brittle with age.
 
@@ -66,13 +66,13 @@ It wasn’t supernatural. It was just rural. At least, that’s what he told him
 
 He sat outside on the bamboo bench beside the hibiscus, laptop closed, sweating through his shirt. The smell of charcoal and wet soil carried on the air. Lito was somewhere in the chapel again. Anna was resting. She hadn’t spoken much that morning.
 
-He ran his thumb absently along a splinter in the bench, thinking of the night before—Mira’s quiet shape in the road, the clay cup she’d left on the gatepost, her voice like a thread pulled tight: I hope you fight.
+He ran his thumb absently along a splinter in the bench, thinking of the night before -- Mira’s quiet shape in the road, the clay cup she’d left on the gatepost, her voice like a thread pulled tight: I hope you fight.
 
 He hadn’t told Anna, but he kept replaying the way she said it. Not mocking. Not kind. Just… certain.
 
 He watched a lizard creep along the fence.
 
-And felt it again—that unmistakable sensation.
+And felt it again -- that unmistakable sensation.
 
 Someone was watching him.
 
@@ -132,7 +132,7 @@ He hesitated.
 
 ---
 
-That evening, Miguel walked alone to the edge of the property, needing air. The sky had turned strange—yellow at the horizon, cloudless but low. He knelt by the gate, checking the hinge again, and felt that prickle again.
+That evening, Miguel walked alone to the edge of the property, needing air. The sky had turned strange -- yellow at the horizon, cloudless but low. He knelt by the gate, checking the hinge again, and felt that prickle again.
 
 But it wasn’t Mira.
 
@@ -168,7 +168,7 @@ She smiled, but her eyes were flat.
 
 She reached out gently and touched his arm.
 
-The skin beneath her fingers burned—_cold_, but burning.
+The skin beneath her fingers burned -- _cold_, but burning.
 
 “You’ll see soon,” she said. “You’re strong. But you must learn when to kneel.”
 
@@ -180,7 +180,7 @@ No footsteps. No sound.
 
 That night, he didn’t tell Anna what Belen had said. She was pale, holding her belly like it hurt.
 
-Instead, he sat beside her, hand on her back, and whispered—awkward, fumbling:
+Instead, he sat beside her, hand on her back, and whispered -- awkward, fumbling:
 
 “Our Father… who art in heaven…”
 
@@ -196,7 +196,7 @@ He didn’t stop praying.
 
 It began just after midnight.
 
-Anna woke first—heart pounding, sweat clinging to her skin. The dream had been strange: she was back in the field, only now the stalks of rice were shaped like limbs. Belen stood in the distance, wearing white, mouth full of ash.
+Anna woke first -- heart pounding, sweat clinging to her skin. The dream had been strange: she was back in the field, only now the stalks of rice were shaped like limbs. Belen stood in the distance, wearing white, mouth full of ash.
 
 Miguel froze halfway across the sala.
 
@@ -208,7 +208,7 @@ Smoke curled inward, drawn into the brass reliquary like it was breathing.
 
 Anna stepped into the doorway, eyes wide. “Don’t touch it.”
 
-The wicks sputtered once, then went out — leaving only the smell of rotting flowers.
+The wicks sputtered once, then went out -- leaving only the smell of rotting flowers.
 
 Then silence.
 
@@ -272,7 +272,7 @@ He handed Anna a candle, and Miguel the pouch of salt.
 
 ---
 
-That evening, as the sun bled over the horizon, they worked together—three bodies moving like one.
+That evening, as the sun bled over the horizon, they worked together -- three bodies moving like one.
 
 Miguel drew a careful line of salt around the perimeter of the house, reinforcing the doors, the windows, even the base of the crib. Lito sprinkled holy water at each corner and whispered prayers under his breath.
 
@@ -284,9 +284,9 @@ Like they had _declared something_.
 
 That night, after Anna fell asleep, Miguel stood by the window, staring into the trees.
 
-He opened his mouth to speak, and the words came — not polished, not certain. Just **real**.
+He opened his mouth to speak, and the words came -- not polished, not certain. Just **real**.
 
-“God… I don’t know what I’m doing. But if You’re there — watch her. Watch the baby. Give me the strength to protect them.”
+“God… I don’t know what I’m doing. But if You’re there -- watch her. Watch the baby. Give me the strength to protect them.”
 
 He paused.
 

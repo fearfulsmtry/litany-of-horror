@@ -42,7 +42,7 @@ It sat nestled in a cypress-wood base, beneath a small plaque that read:
 
 > _“For those who did not flee the night.”_
 
-And beside it—always lit—a candle that **never went out**.
+And beside it -- always lit -- a candle that **never went out**.
 
 ---
 
@@ -52,7 +52,7 @@ It was a hard labor.
 
 But clean.
 
-And when he cried—loud, immediate, defiant—Anna wept harder than she had in months.
+And when he cried -- loud, immediate, defiant -- Anna wept harder than she had in months.
 
 She named him **Lorenzo Miguel**.
 
@@ -82,7 +82,7 @@ And Lito, eyes glistening, stepped forward and placed his hand gently on the boy
 > “I will pray for you every day,” he whispered.  
 > “And I will teach you how to watch.”
 
-He was now **ninong**—godfather.
+He was now **ninong** -- godfather.
 
 But more than that: **a man redeemed by the fight he chose not to run from.**
 
@@ -110,7 +110,7 @@ She does not pray.
 
 But she listens.
 
-In the dark, a child cries—not with pain, but with hunger that isn’t his.
+In the dark, a child cries -- not with pain, but with hunger that isn’t his.
 
 Mira hums a lullaby that Belen once sang. Her hands move over herbs. Over skin. Over silence.
 

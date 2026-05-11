@@ -17,16 +17,16 @@ _(Genesis 4:10)_
 
 The air was thick with dust and memory.
 
-The van left the concrete road for gravel, trees leaning in as if to watch them pass. A jeepney rattled by, rooster cages strapped to its roof — the kind of sight you only saw on Philippine backroads.
+The van left the concrete road for gravel, trees leaning in as if to watch them pass. A jeepney rattled by, rooster cages strapped to its roof -- the kind of sight you only saw on Philippine backroads.
 
 Then the house appeared. Sunken. Paint faded. Steps uneven.
 
 Biana’s house. Her Lola’s house.
 
-Anna’s chest tightened—not grief exactly, but something with its teeth in grief. Beneath her hand, her belly fluttered, the baby stirred, almost six months along.
+Anna’s chest tightened -- not grief exactly, but something with its teeth in grief. Beneath her hand, her belly fluttered, the baby stirred, almost six months along.
 
 Miguel parked in silence, moving with his usual precision. The land was older than both of them, and it seemed to be listening.
-At the door stood Tatay Lito, Anna’s uncle. He looked smaller than she remembered—leaner, greyer, but still upright. He wore a collared shirt tucked into his faded slacks, and a rosary was coiled loosely in his left hand, as natural as breath.
+At the door stood Tatay Lito, Anna’s uncle. He looked smaller than she remembered -- leaner, greyer, but still upright. He wore a collared shirt tucked into his faded slacks, and a rosary was coiled loosely in his left hand, as natural as breath.
 
 “Anak,” he said, smiling gently. “You came.”
 
@@ -34,7 +34,7 @@ Anna stepped forward, trying to find something between guilt and comfort. “Hi,
 
 He looked at her belly, then into her eyes. “Your lola would be so happy to see you home.”
 
-She didn’t know what to say. They embraced—awkwardly, briefly.
+She didn’t know what to say. They embraced -- awkwardly, briefly.
 
 Inside, the house smelled of wood polish, dried herbs, and something sweet and aged, like old missals left too long in sunlight. The altar near the window was draped in white cloth, with framed images of the Sacred Heart and Our Lady of Sorrows flanking a flickering candle. Fresh sampaguita garlands hung limply from the crucifix above.
 
@@ -42,11 +42,11 @@ That night, the novena prayers began.
 
 They gathered in the sala, chairs pulled into a semicircle, some kneeling, others murmuring in singsong cadence. The voices were soft but certain. Miguel stood near the back, hands clasped behind him, respectful but detached. Anna sat beside her uncle, her eyes downcast.
 
-She remembered these prayers vaguely—her mother’s voice, hands folded beside her at bedtime. It had been years. Teresa would light candles every Saturday and whisper a Hail Mary at red lights. It was all background then. Now, it felt like an inheritance she’d misplaced.
+She remembered these prayers vaguely -- her mother’s voice, hands folded beside her at bedtime. It had been years. Teresa would light candles every Saturday and whisper a Hail Mary at red lights. It was all background then. Now, it felt like an inheritance she’d misplaced.
 
-When the mysteries were done, an older woman—Tita Nena—began passing out rice cakes and tsokolate in little enamel cups. Conversation resumed in the flicker of candles and murmurs of fans creaking overhead. Someone brought up the heat, someone else the state of the roads. Then came the stories.
+When the mysteries were done, an older woman -- Tita Nena -- began passing out rice cakes and tsokolate in little enamel cups. Conversation resumed in the flicker of candles and murmurs of fans creaking overhead. Someone brought up the heat, someone else the state of the roads. Then came the stories.
 
-It began innocuously—talk of strange dreams, a neighbor’s cat mewling at night, chickens missing from their pens.
+It began innocuously -- talk of strange dreams, a neighbor’s cat mewling at night, chickens missing from their pens.
 
 Then the old rhyme:
 
@@ -59,13 +59,13 @@ The room shifted. Not with fear, exactly. With recognition.
 
 “You know,” said Manong Pedro, lowering his voice, “when I was young, we shot a cat in the foot. The next day, Aling Purita had a limp. Swore it was rheumatism. But she never came to the chapel again.”
 
-Laughter broke out—half-nervous, half-playful. But some eyes glanced toward the window. The moon was low. The balete tree across the street cast long, twisted shadows — the kind the old people said could hold spirits.
+Laughter broke out -- half-nervous, half-playful. But some eyes glanced toward the window. The moon was low. The balete tree across the street cast long, twisted shadows -- the kind the old people said could hold spirits.
 
 “It’s just stories,” Miguel said, voice low but audible. “Folklore. Every culture has its boogeyman.”
 
 Tatay Lito looked at him, then at Anna. “Your lola knew. She didn’t speak of these things lightly.”
 
-Anna folded her hands over her belly. She didn’t believe in monsters. But her mother used to say that some stories weren’t meant to scare—they were meant to remember.
+Anna folded her hands over her belly. She didn’t believe in monsters. But her mother used to say that some stories weren’t meant to scare -- they were meant to remember.
 
 She thought of how Teresa would pause outside every old church to whisper a prayer. Of how she’d press a small medal into Anna’s pocket before exams, saying, “You don’t need to believe. Just keep it close.”
 
@@ -95,13 +95,13 @@ She didn’t know why, but tears came.
 
 The next morning came hot and slow.
 
-Roosters called before the sun had fully risen, and the village stirred to life as if it had always been awake. Miguel took a walk to stretch his back and check on the hire van—he returned dusty, annoyed at the potholes, muttering something about the suspension. Tatay Lito swept the yard with the quiet rhythm of someone who had done so for decades. Anna stayed inside, her limbs heavy, her dreams from the night before still clinging like mist.
+Roosters called before the sun had fully risen, and the village stirred to life as if it had always been awake. Miguel took a walk to stretch his back and check on the hire van -- he returned dusty, annoyed at the potholes, muttering something about the suspension. Tatay Lito swept the yard with the quiet rhythm of someone who had done so for decades. Anna stayed inside, her limbs heavy, her dreams from the night before still clinging like mist.
 
 There had been… something. A sound. Breathing that wasn’t hers. A woman whispering, just outside the door. Or maybe it was the trees.
 
 She didn’t tell Miguel.
 
-Around midmorning, while Anna was folding some of her grandmother’s old linens in the sala, there came a knock at the door—three soft taps, spaced evenly. Not the hurried knock of a neighbor or family member. Measured. Gentle.
+Around midmorning, while Anna was folding some of her grandmother’s old linens in the sala, there came a knock at the door -- three soft taps, spaced evenly. Not the hurried knock of a neighbor or family member. Measured. Gentle.
 
 Tatay Lito looked up from his reading. His hand paused over the rosary. He stood.
 
@@ -111,11 +111,11 @@ But the woman at the door was all smiles.
 
 “Lito,” she said warmly, in the lilting Ilonggo of the older generation. “I heard the children had returned.”
 
-Her voice was like warm broth—soft, fragrant, and thick. She wore a faded pink blouse with embroidery at the collar, her hair tied neatly at the nape. She could have been in her sixties, maybe older, but her skin was smooth in the way polished stone is smooth—ageless, without detail.
+Her voice was like warm broth -- soft, fragrant, and thick. She wore a faded pink blouse with embroidery at the collar, her hair tied neatly at the nape. She could have been in her sixties, maybe older, but her skin was smooth in the way polished stone is smooth -- ageless, without detail.
 
 Aling Belen.
 
-Anna had heard her name already from one of the neighbors—“still helping the village,” they said, “the only midwife left now.” Her presence came with respect, as if she belonged to the land.
+Anna had heard her name already from one of the neighbors -- “still helping the village,” they said, “the only midwife left now.” Her presence came with respect, as if she belonged to the land.
 
 “I brought some things,” Belen continued, lifting a small basket. “Just a few herbs. Something to ease pregnancy pains. And tea to help with sleep.”
 
@@ -135,7 +135,7 @@ They sat her down for a short while. She refused water but accepted a seat. Migu
 
 “Nearly,” Anna replied.
 
-Belen reached out—too suddenly—and laid a hand lightly over Anna’s stomach. The touch was cool. Firm. Not unkind, but lingering a moment longer than necessary.
+Belen reached out -- too suddenly -- and laid a hand lightly over Anna’s stomach. The touch was cool. Firm. Not unkind, but lingering a moment longer than necessary.
 
 “Strong child,” she murmured. “Very strong. Your womb is full of light.”
 
@@ -187,7 +187,7 @@ In the dark, something rustled on the roof.
 
 The second night, the novena was thinner.
 
-Only a handful came. Some lit candles. Some prayed distractedly. Most were gone before the final mystery. The air felt heavier—not in grief, but in the quiet way animals stop moving before an earthquake.
+Only a handful came. Some lit candles. Some prayed distractedly. Most were gone before the final mystery. The air felt heavier -- not in grief, but in the quiet way animals stop moving before an earthquake.
 
 Anna sat in the dim sala again, this time beside her younger cousin, Tinay, a girl of maybe nine or ten who fidgeted through the prayers and swung her legs.
 
@@ -223,11 +223,11 @@ There was a pause.
 
 Anna had.
 
-“No one buries kin near the balete trees,” he added. “No one eats guava at dusk. And everyone keeps garlic on the windowsill—if not for belief, then out of respect.”
+“No one buries kin near the balete trees,” he added. “No one eats guava at dusk. And everyone keeps garlic on the windowsill -- if not for belief, then out of respect.”
 
 “Respect for what?” Miguel challenged.
 
-Lito looked at him—long and level. “For the things that remember blood. And want it back.”
+Lito looked at him -- long and level. “For the things that remember blood. And want it back.”
 
 ---
 
@@ -235,7 +235,7 @@ That night, the house was restless.
 
 Outside, a dog howled once.
 
-In the distance, another answered—but with a sound that ended too abruptly.
+In the distance, another answered -- but with a sound that ended too abruptly.
 
 Like it had been cut off.
 
@@ -243,7 +243,7 @@ Like it had been cut off.
 
 The dream was strange, but not unfamiliar.
 
-Anna stood in the middle of a rice field under a deep indigo sky, windless and wrong. The stalks around her were dry, brittle, clicking like teeth in the absence of breeze. Her hands were pressed against her stomach, heavy with the child, but something inside her moved—not the usual flutter. A turning. A deliberate shifting.
+Anna stood in the middle of a rice field under a deep indigo sky, windless and wrong. The stalks around her were dry, brittle, clicking like teeth in the absence of breeze. Her hands were pressed against her stomach, heavy with the child, but something inside her moved -- not the usual flutter. A turning. A deliberate shifting.
 
 She looked down.
 
@@ -257,7 +257,7 @@ Beside her, Miguel stirred but didn’t wake. The fan spun lazily on the ceiling
 
 Except for the scratching.
 
-Faint, at first—like nails dragging along wood. It came from beneath the floorboards, beneath the house.
+Faint, at first -- like nails dragging along wood. It came from beneath the floorboards, beneath the house.
 
 Anna sat up. The scratching stopped.
 
@@ -265,7 +265,7 @@ She held her breath. Waited.
 
 Silence.
 
-Then a faint _thud_—something small dropping from the roof. Or climbing.
+Then a faint _thud_ -- something small dropping from the roof. Or climbing.
 
 She stood carefully, went to the window, and peeked between the slats. The moon was hidden behind clouds. The trees across the road swayed as though something had passed through them, but there was no breeze.
 
@@ -307,7 +307,7 @@ Now he looked at her.
 
 It was two days before the funeral.
 
-The sun hung low in the west, casting gold across the dusty road when Aling Belen returned—this time without warning, without basket, and without smile.
+The sun hung low in the west, casting gold across the dusty road when Aling Belen returned -- this time without warning, without basket, and without smile.
 
 Anna had been sitting on the porch, her feet resting in a basin of cool water, absently thumbing her mother’s old rosary. The beads were worn smooth, the crucifix darkened with time and touch. She wasn’t praying. Not really. Just… holding it. Like muscle memory.
 
@@ -339,7 +339,7 @@ Anna didn’t reply.
 
 “You know,” Belen continued, “not all life comes the same way. Some are breathed into, some are spoken. And some are… _given._ Like inheritance.”
 
-She turned suddenly, eyes sharp now—too sharp.
+She turned suddenly, eyes sharp now -- too sharp.
 
 “You ever wonder what your lola passed on?”
 
@@ -349,7 +349,7 @@ Belen tilted her head. “She left us many things.”
 
 Another silence stretched, then frayed.
 
-Belen reached out again, hand hovering near Anna’s stomach—but this time, Anna stepped back.
+Belen reached out again, hand hovering near Anna’s stomach -- but this time, Anna stepped back.
 
 “I think I need to rest now.”
 
@@ -361,7 +361,7 @@ She turned to leave, but before stepping off the porch, she paused.
 
 “If you ever feel a breeze pass through the house, even when the windows are shut,” she said lightly, “don’t chase it. It’s not leaving.”
 
-And then she walked back the way she came—except Anna never heard her footsteps once.
+And then she walked back the way she came -- except Anna never heard her footsteps once.
 
 Inside, Miguel found her sitting at the kitchen table, pale and quiet.
 
@@ -385,7 +385,7 @@ She didn’t mention how Belen’s skin didn’t seem to wrinkle when she moved.
 
 ---
 
-The Mass was held in the village chapel, small and open-air, with cracked floor tiles and crooked ceiling fans that stirred more dust than breeze. The old priest from the next barangay presided—Fr. Ramil, stooped with age, voice thin but steady.
+The Mass was held in the village chapel, small and open-air, with cracked floor tiles and crooked ceiling fans that stirred more dust than breeze. The old priest from the next barangay presided -- Fr. Ramil, stooped with age, voice thin but steady.
 
 The coffin was modest, pale wood with a plain white veil draped over it. A rosary wound around Lola Biana’s folded hands, and a small statue of Our Lady of Sorrows rested at her feet. Someone had laid sampaguita garlands over the lid, their sweetness wilting in the heat.
 
@@ -395,7 +395,7 @@ Her hand moved to her belly without thinking.
 
 Hope.
 
-She used to think that word meant something sentimental. Her mother had said it often—when the cancer returned, when the chemo failed. “We hope,” she’d whispered in the hospice room, holding Anna’s hand. “Even when we don’t understand.”
+She used to think that word meant something sentimental. Her mother had said it often -- when the cancer returned, when the chemo failed. “We hope,” she’d whispered in the hospice room, holding Anna’s hand. “Even when we don’t understand.”
 
 Anna had nodded, then. But in her heart, she hadn’t believed.
 
@@ -443,7 +443,7 @@ Lito didn’t answer for a long time. When he did, it was a whisper.
 
 That night, Anna dreamed again.
 
-She was back in the field. Something crouched at the edge, humming in her mother’s voice—but slowed, warped, wrong.
+She was back in the field. Something crouched at the edge, humming in her mother’s voice -- but slowed, warped, wrong.
 
 She woke cold. The windows were shut. Yet the candle at the altar was lit, and the relic beneath her pillow was warm.
 

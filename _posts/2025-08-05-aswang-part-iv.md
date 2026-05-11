@@ -19,7 +19,7 @@ Dawn came muted, the light thin as if the sun had been kept at bay.
 
 Anna moved through the sala, checking each candle, each line of salt Miguel had laid the night before. All were unbroken.
 
-She’d barely finished when Miguel called to her from the back window — his voice low, alarmed.
+She’d barely finished when Miguel called to her from the back window -- his voice low, alarmed.
 
 She followed him outside.
 
@@ -61,7 +61,7 @@ Miguel laid the last of the salt line. Anna lit the candles. Lito locked the doo
 
 The candlelight trembled slightly.
 
-“I didn’t believe my mother at first,” he began. “I thought it was grief talking. Belen had returned, yes—but people return. Strange doesn’t mean cursed.”
+“I didn’t believe my mother at first,” he began. “I thought it was grief talking. Belen had returned, yes -- but people return. Strange doesn’t mean cursed.”
 
 He paused. Rubbed the corner of his eye.
 
@@ -157,7 +157,7 @@ Lito stepped forward and flung the holy water down.
 
 The smoke hissed. Retreated.
 
-And in the darkness, they heard her voice again—calm, maternal, starving:
+And in the darkness, they heard her voice again -- calm, maternal, starving:
 
 > “You can’t keep what was never blessed.”
 
@@ -184,13 +184,13 @@ It began after the blood wouldn’t stop.
 
 Belen was seventeen when the village turned from her.
 
-The mother had died on the mat. A young wife—her first child. It came breech, and Belen didn’t know what to do. She called for Biana too late. By the time the old midwife arrived, there was already silence in the womb.
+The mother had died on the mat. A young wife -- her first child. It came breech, and Belen didn’t know what to do. She called for Biana too late. By the time the old midwife arrived, there was already silence in the womb.
 
 They buried the girl that afternoon.
 
 The family never spoke to Belen again.
 
-Even Biana, who had once held her hands in prayer, said nothing—only pressed her lips into a thin line and began locking the herb cabinet at night.
+Even Biana, who had once held her hands in prayer, said nothing -- only pressed her lips into a thin line and began locking the herb cabinet at night.
 
 So Belen left.
 
@@ -200,7 +200,7 @@ She packed a satchel, stole three boiled eggs from the kitchen, and walked into 
 
 It was there, halfway between hunger and grief, that she met the woman.
 
-She had no name—at least, not one Belen remembered.
+She had no name -- at least, not one Belen remembered.
 
 She lived in a hut between two balete trees, where no birds sang and no frogs called at night. Her skin was like dried bark, her hair long and slick like wet thread. Her eyes were nearly all black.
 
@@ -236,11 +236,11 @@ And then, on the seventh evening, she called Belen to her mat.
 
 No words.
 
-Only a heaving sound—deep, guttural, like something crawling up her throat.
+Only a heaving sound -- deep, guttural, like something crawling up her throat.
 
 And then she vomited it out.
 
-A **black mass**—round, pulsing faintly, like a heart that had forgotten how to beat. It steamed on the mat. Smelled of copper and sugar and rot.
+A **black mass** -- round, pulsing faintly, like a heart that had forgotten how to beat. It steamed on the mat. Smelled of copper and sugar and rot.
 
 She wrapped it in banana leaves.
 

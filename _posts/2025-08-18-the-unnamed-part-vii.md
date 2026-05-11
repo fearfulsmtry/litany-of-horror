@@ -19,13 +19,13 @@ The air in the compound felt heavier than the lingering fog. Elia lay in the bac
 Anding’s voice broke the hush.  
 “Come,” she said, motioning to Gabi, Kin, and Len. She led them to the sala, the vigil chair still looming like a shadow in the corner. Her hands trembled as she smoothed her skirt, but her eyes were steady.
 
-“I’ve been thinking on it since the night she screamed,” Anding began, voice low. “I knew about Levi—that he was buried in the family cave without his name. I thought it was shame that kept the elders from speaking it. But now…” She hesitated, glancing at the chair. “Now I think something far older took hold of him. An old spirit, bound to the restless dead. It feeds on grief, on what we leave unfinished. I can’t say for certain… but if it is, this is how we set it right.”
+“I’ve been thinking on it since the night she screamed,” Anding began, voice low. “I knew about Levi -- that he was buried in the family cave without his name. I thought it was shame that kept the elders from speaking it. But now…” She hesitated, glancing at the chair. “Now I think something far older took hold of him. An old spirit, bound to the restless dead. It feeds on grief, on what we leave unfinished. I can’t say for certain… but if it is, this is how we set it right.”
 
 Gabi frowned. “Set it right how?”
 
 “A naming ritual,” Anding said. “In the cave. Before God and our ancestors. To give Levi back what he lost.” She drew a breath. “If the demon’s bound to him, it will have to let go when he’s named.”
 
-Kin’s brow furrowed. He thought of his unanswered emails to the bishop, the official channels that had failed to even acknowledge him. This—what Anding was proposing—was not sanctioned. It was the opposite of what he’d been trained to do. And yet, looking at Elia’s pale face in his memory, and the seared mark still faint on Len’s skin, he knew the choice had already been made.  
+Kin’s brow furrowed. He thought of his unanswered emails to the bishop, the official channels that had failed to even acknowledge him. This -- what Anding was proposing -- was not sanctioned. It was the opposite of what he’d been trained to do. And yet, looking at Elia’s pale face in his memory, and the seared mark still faint on Len’s skin, he knew the choice had already been made.  
 “We’ll do it,” he said quietly.
 
 Anding nodded. “We’ll need to go before nightfall. Once it’s done, it may free my apong, and you too hija,” turning to Len.
@@ -69,7 +69,7 @@ Then Anding folded the burial cloth, Kin slipped the stole over his shoulder, an
 
 The fog clung low to the pines, thick enough that each step seemed to part a curtain. The path narrowed quickly beyond the last scattering of houses, giving way to rock and earth still damp from the night’s mist.
 
-Anding led, the burial cloth folded carefully in her arms, its freshly stitched letters hidden but heavy with meaning. Kin followed, keeping one hand on the crucifix at his chest. Gabi brought up the rear, his pack shifting with the weight of tools — hammer, chisel, the cold steel clinking against each step.
+Anding led, the burial cloth folded carefully in her arms, its freshly stitched letters hidden but heavy with meaning. Kin followed, keeping one hand on the crucifix at his chest. Gabi brought up the rear, his pack shifting with the weight of tools -- hammer, chisel, the cold steel clinking against each step.
 
 Half an hour into the climb, the air changed. Colder. Quieter. Even the cicadas had stilled.
 
@@ -81,7 +81,7 @@ He slowed, breath catching.
 
 Anding noticed and glanced back. Her eyes followed his, and for a heartbeat something like recognition crossed her face.
 
-“They keep to their road,” she said quietly, though she didn’t stop walking. “Best we keep to ours.” Her voice had that careful tone old people used when speaking of things they believed were real. “Don’t follow, don’t speak their names — they walk until someone calls them home.”
+“They keep to their road,” she said quietly, though she didn’t stop walking. “Best we keep to ours.” Her voice had that careful tone old people used when speaking of things they believed were real. “Don’t follow, don’t speak their names -- they walk until someone calls them home.”
 
 No one spoke after that. The shapes drifted along their own invisible path, until the slope thickened with rock and the fog swallowed everything.
 
@@ -89,19 +89,19 @@ No one spoke after that. The shapes drifted along their own invisible path, unti
 
 The climb grew steeper, the soil giving way to exposed stone streaked with moss. Pines thinned, replaced by the skeletal reach of mountain shrubs.
 
-At last, the path leveled into a narrow shelf of rock — a ledge carved by time and weather. Here, set into the cliffside, was the mouth of the family cave.
+At last, the path leveled into a narrow shelf of rock -- a ledge carved by time and weather. Here, set into the cliffside, was the mouth of the family cave.
 
 It yawned dark and low, its edges blackened as if by centuries of smoke. Wooden coffins clung to the cliff above it, lashed with fraying rope to iron pegs driven into the rock. The older ones were grey and splintered, some cracked open just enough to suggest what lay within.
 
-Gabi felt the air shift again — colder, but heavy too, like the weight of a held breath.
+Gabi felt the air shift again -- colder, but heavy too, like the weight of a held breath.
 
-Anding stopped before the entrance. Her hands tightened on the folded burial cloth. “He’s here,” she said, but her voice carried no certainty — only the uneasy reverence of someone about to step into a place she half wished she could turn from.
+Anding stopped before the entrance. Her hands tightened on the folded burial cloth. “He’s here,” she said, but her voice carried no certainty -- only the uneasy reverence of someone about to step into a place she half wished she could turn from.
 
 Kin stepped forward, slipping the stole over his shoulders, the crucifix glinting faintly in the dim light. “We go together,” he said, not looking at either of them but fixing his eyes on the dark ahead.
 
-From within, there was the faintest sound — not wind, not water. A rustle, deliberate, as if something deeper inside had been waiting for them.
+From within, there was the faintest sound -- not wind, not water. A rustle, deliberate, as if something deeper inside had been waiting for them.
 
-Gabi adjusted the straps of his pack, forcing his hands to still. He thought briefly of Len back at the house, the way she had looked at him before they left — not pleading, but willing him forward.
+Gabi adjusted the straps of his pack, forcing his hands to still. He thought briefly of Len back at the house, the way she had looked at him before they left -- not pleading, but willing him forward.
 
 “Let’s finish this,” he said.
 
@@ -113,7 +113,7 @@ As they entered, cool, damp air pressed close, smelling of earth and old wood. T
 
 No one spoke. The only sounds were their breath and the faint _drip… drip_ of water from the limestone above.
 
-At the end of the passage, apart from the rest, stood a single coffin. Its wood was blackened with age, the front panel bare — no name, no carving.
+At the end of the passage, apart from the rest, stood a single coffin. Its wood was blackened with age, the front panel bare -- no name, no carving.
 
 Anding halted, her hands tight on the folded burial cloth. Her voice was hushed but steady.
 
@@ -121,9 +121,9 @@ Anding halted, her hands tight on the folded burial cloth. Her voice was hushed 
 
 Kin set his small crucifix atop the coffin, his lips pressing together in a silent prayer. Gabi knelt, unpacking his chisel and hammer, the tools glinting in the low light.
 
-Anding stepped forward, lifting the cloth. It was handwoven in deep indigo, the pattern threaded with white and red — the Sagayo motif — and now stitched with a single new addition: **Levi Sagayo** in bold, careful letters.
+Anding stepped forward, lifting the cloth. It was handwoven in deep indigo, the pattern threaded with white and red -- the Sagayo motif -- and now stitched with a single new addition: **Levi Sagayo** in bold, careful letters.
 
-She drew in a slow breath before speaking. “Levi...” Her voice caught, just for a heartbeat — as though another name lingered there, unspoken, a memory she could not quite let surface. She steadied herself and went on, “…Sagayo.”  
+She drew in a slow breath before speaking. “Levi...” Her voice caught, just for a heartbeat -- as though another name lingered there, unspoken, a memory she could not quite let surface. She steadied herself and went on, “…Sagayo.”  
 The sound of it seemed to shiver through the air, settling heavy in the chamber.
 
 Then began to speak in the old tongue, each word measured and reverent:
@@ -139,13 +139,13 @@ Kin followed in Latin, his voice a low counterpoint to hers.
 > “_In nomine Patris, et Filii, et Spiritus Sancti…_”  
 > “_Requiem aeternam dona ei, Domine…_”
 
-The languages folded into each other — the hum of old Cordillera and the cadence of Rome — neither cancelling the other, but binding together.
+The languages folded into each other -- the hum of old Cordillera and the cadence of Rome -- neither cancelling the other, but binding together.
 
 Gabi struck the chisel. The first blow rang loud against the stone marker, echoing through the cave. The second sounded sharper, like something waking.
 
 That’s when the whisper began.
 
-It came from nowhere and everywhere — low, rasping, too close to the ear. It seemed to coil around the chamber, a voice without a body. 
+It came from nowhere and everywhere -- low, rasping, too close to the ear. It seemed to coil around the chamber, a voice without a body. 
 
 Kin’s skin prickled. For a split second, the torchlight caught the edge of something darker than the surrounding stone - the same formless shape he had seen peel itself from the vigil chair on that first night.  
 Now he knew: whatever had sat in that chair had followed them here. And it was bound to Levi
@@ -166,7 +166,7 @@ The whisper grew into a voice, inhuman and stretched thin, the words curling lik
 
 Kin’s gaze flicked briefly to Gabi at the demon’s words. A sharp image of Len’s face flashed in his mind, followed by the sting of guilt he thought he’d buried years ago. For a heartbeat, he feared Gabi might falter - and knew that if he did, Len would be the one to pay.
 
-One final blow — the marker split, revealing the carved name. LEVI.
+One final blow -- the marker split, revealing the carved name. LEVI.
 
 The whisper broke into a sound like stone grinding on stone, then faded. The air warmed, as if a breath had passed through.
 
@@ -180,7 +180,7 @@ Somewhere deep in the compound miles away, Elia’s fingers twitched. Her eyes o
 
 The fog outside the compound hung still as glass.
 
-Len sat beside Elia’s bed, wiping her forehead with a cool cloth. She’d been humming under her breath without realising it — a tune her own mother used to sing on quiet afternoons.
+Len sat beside Elia’s bed, wiping her forehead with a cool cloth. She’d been humming under her breath without realising it -- a tune her own mother used to sing on quiet afternoons.
 
 The cloth slipped from her hand.
 
@@ -193,13 +193,13 @@ Elia’s eyes fluttered open, pupils adjusting to the dim light. She blinked up 
 
 “Len…” Her voice was barely a thread.
 
-Len gathered her close, relief flooding through her — until she felt Elia’s small hand brush against her face.
+Len gathered her close, relief flooding through her -- until she felt Elia’s small hand brush against her face.
 
 “Ate…” Elia’s voice wavered. “It’s still here.”
 
-Len stilled. She lifted her fingers to her forehead and felt the heat there before she even saw it. The skin burned faintly under her touch. In the dark glass of the window, a shadowed reflection showed the mark again — stark and unbroken, as if it had never faded.
+Len stilled. She lifted her fingers to her forehead and felt the heat there before she even saw it. The skin burned faintly under her touch. In the dark glass of the window, a shadowed reflection showed the mark again -- stark and unbroken, as if it had never faded.
 
-From the direction of the sala came a slow, deliberate creak — the sound of weight settling into the vigil chair.
+From the direction of the sala came a slow, deliberate creak -- the sound of weight settling into the vigil chair.
 
 Len’s arms tightened around Elia. Her eyes stayed fixed on the doorway, on that strip of darkness where the sound had come from.
 

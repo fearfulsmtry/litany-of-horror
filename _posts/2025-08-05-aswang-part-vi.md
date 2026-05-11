@@ -17,7 +17,7 @@ _(From the rite of Pasa)_
 
 The light had turned.
 
-It wasn’t night yet, but the color had gone wrong—too orange, too still. Like something was holding the sun in place, unwilling to let it fall until the curtain closed.
+It wasn’t night yet, but the color had gone wrong -- too orange, too still. Like something was holding the sun in place, unwilling to let it fall until the curtain closed.
 
 Miguel stepped down from the ladder, wiping sweat from his brow. “That should hold,” he muttered.
 
@@ -37,7 +37,7 @@ Bedroom.
 
 Empty.
 
-The back door hung slightly ajar—just wide enough to invite something in.
+The back door hung slightly ajar -- just wide enough to invite something in.
 
 He stepped forward slowly.
 
@@ -67,9 +67,9 @@ He followed Miguel back inside, scanning the doorframe, the floorboards, the sal
 
 Disturbed.
 
-Barely—but enough.
+Barely -- but enough.
 
-Outside, beneath the window, a branch had snapped cleanly. Footprints—light, but visible—led into the tree line.
+Outside, beneath the window, a branch had snapped cleanly. Footprints -- light, but visible -- led into the tree line.
 
 Lito knelt beside them.
 
@@ -89,7 +89,7 @@ A small, flask-sized vial of oil.
 
 A folded cloth containing the **old orasyon**, handwritten in faded ink.
 
-And then—**his bolo knife**.
+And then -- **his bolo knife**.
 
 He unsheathed it slowly.
 
@@ -101,7 +101,7 @@ He looked at Miguel.
 
 Miguel nodded.
 
-Lito held up the **relic**—the brass disk that had burned Belen’s flesh when it touched her veil weeks ago.
+Lito held up the **relic** -- the brass disk that had burned Belen’s flesh when it touched her veil weeks ago.
 
 > “Take this. It’s not a weapon. But it will do what no blade can.”  
 > “Press it to her skin. Her eyes. Her altar. The holy doesn’t burn the living.”
@@ -123,7 +123,7 @@ The two men stepped out into the orange haze.
 
 The forest waited.
 
-Behind them, the candles inside the house burned low—but steady.
+Behind them, the candles inside the house burned low -- but steady.
 
 Ahead, the path curved toward the mountain, where the air grew thinner, and the **bamboo never sang**.
 
@@ -135,7 +135,7 @@ Ahead, the path curved toward the mountain, where the air grew thinner, and the 
 
 The path narrowed as they reached the grove.
 
-Anna hesitated once—just as the shadows began to close around the trail. But Mira kept walking, barefoot, sure-footed.
+Anna hesitated once -- just as the shadows began to close around the trail. But Mira kept walking, barefoot, sure-footed.
 
 The trees here were older. Taller. Their trunks gnarled like knotted hands in prayer.
 
@@ -169,7 +169,7 @@ Hands grabbed Anna from the side.
 
 Too fast. Too strong.
 
-She screamed, kicked—but her body felt slow, uncooperative. Something cloying rose in her throat—was it something she drank? Something she smelled?
+She screamed, kicked -- but her body felt slow, uncooperative. Something cloying rose in her throat -- was it something she drank? Something she smelled?
 
 **Belen** stepped from the shadows.
 
@@ -189,7 +189,7 @@ And Anna’s knees gave out.
 
 She was bound quickly.
 
-Not with rope—but with **strips of old baptismal gowns**, stained and fraying. The knots were wet. The cloth had been soaked in something—oil? Wine?
+Not with rope -- but with **strips of old baptismal gowns**, stained and fraying. The knots were wet. The cloth had been soaked in something -- oil? Wine?
 
 She lay on her side now, trembling.
 
@@ -199,7 +199,7 @@ Around her: the altar.
     
 - Rosaries made of **umbilical cords**, braided with black hair.
     
-- A basin filled with water that steamed—not from heat, but **cold**.
+- A basin filled with water that steamed -- not from heat, but **cold**.
     
 - A page torn from a missal, inverted and nailed to the wall upside down.
     
@@ -245,13 +245,13 @@ And began to sing.
 
 The candlelight in the hut shifted.
 
-It flickered not with wind, but with **presence**—as if something unseen had entered. Something called.
+It flickered not with wind, but with **presence** -- as if something unseen had entered. Something called.
 
 Belen raised both hands.
 
 She stood in front of the cracked altar, humming low. Her back to Anna. Her veil trembled, though there was no breeze.
 
-She spoke—not to Anna. Not to Mira.
+She spoke -- not to Anna. Not to Mira.
 
 But to _something else_.
 
@@ -265,7 +265,7 @@ No longer soft brown.
 
 **Pupil-less. Flat. As if scraped clean.**
 
-Her smile spread wider than her face should allow, revealing too many teeth—not fanged, not monstrous.
+Her smile spread wider than her face should allow, revealing too many teeth -- not fanged, not monstrous.
 
 **Just too human.**
 
@@ -287,7 +287,7 @@ Then **flicked water** onto Anna’s forehead.
 
 It stung.
 
-Burned—not with heat, but with **wrongness**.
+Burned -- not with heat, but with **wrongness**.
 
 A reverse sacrament. A desecration.
 
@@ -301,7 +301,7 @@ Anna’s breath caught.
 
 The **pasa.**
 
-It looked like a dark, slick stone—but it beat. Just once.
+It looked like a dark, slick stone -- but it beat. Just once.
 
 Like a heart that had forgotten how to die.
 
@@ -317,7 +317,7 @@ She saw Mira flinch.
 
 Heard her whisper: “Not yet. It’s not ready.”
 
-Belen turned toward her—slowly.
+Belen turned toward her -- slowly.
 
 > “Then we feed it.”
 
@@ -335,9 +335,9 @@ It began at her hands.
 
 The skin _peeled back_, not bloodily, but like bark curling from a dead tree.
 
-Her fingers lengthened, then _split_—tendons exposed like delicate rootwork.
+Her fingers lengthened, then _split_ -- tendons exposed like delicate rootwork.
 
-Her neck twisted once, then twice—vertebrae cracking in slow, rhythmic snaps.
+Her neck twisted once, then twice -- vertebrae cracking in slow, rhythmic snaps.
 
 Her veil slipped.
 

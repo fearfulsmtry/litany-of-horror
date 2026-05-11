@@ -16,7 +16,7 @@ _“He came again to his own, and the silence received him.”_
 
 The fog thickened as the road climbed into Baguio City, high in the Cordillera mountains of the Philippines.
 
-Gabriel Sagayo leaned forward slightly in the driver’s seat, eyes narrowed behind his glasses. The rental van’s headlights cast long cones of pale light through the mist, but it was like driving through breath—every beam swallowed before it could land.
+Gabriel Sagayo leaned forward slightly in the driver’s seat, eyes narrowed behind his glasses. The rental van’s headlights cast long cones of pale light through the mist, but it was like driving through breath -- every beam swallowed before it could land.
 
 Baguio hadn't changed. Not really. The roads still wound like veins across the mountainside, the air still carried the scent of pine and diesel, and the fog still came without warning. But it pressed on him differently now, like the city knew he had stayed away too long.
 
@@ -26,7 +26,7 @@ Jetlag. Not enough sleep. A week of restless nights in transit from Perth, rehea
 
 And yet.
 
-Up ahead—something moved.
+Up ahead -- something moved.
 
 A figure on the side of the road. Human, maybe. Too slender for a man, too still to be safe. At first, he thought it was a local walking the shoulder, wrapped in a blanket against the cold.
 
@@ -38,7 +38,7 @@ The shape hovered just above the asphalt, gliding rather than stepping, head bow
 
 Gabi hit the brakes. The van juddered. The figure didn’t turn.
 
-And then—just as quickly—it was gone.
+And then -- just as quickly -- it was gone.
 
 He sat there, knuckles white on the wheel, the engine idling.
 
@@ -76,7 +76,7 @@ The house smelled like vinegar, wood polish, and old prayers.
 
 And something else.
 
-He stepped inside and felt the floor dip beneath his feet—just slightly, just enough to notice. The walls were dark with smoke-stained icons. A statue of San Lorenzo Ruiz watched him from a shelf.
+He stepped inside and felt the floor dip beneath his feet -- just slightly, just enough to notice. The walls were dark with smoke-stained icons. A statue of San Lorenzo Ruiz watched him from a shelf.
 
 And in the center of the sala, facing the door—
 
@@ -84,7 +84,7 @@ And in the center of the sala, facing the door—
 
 Still in the chair.
 
-He wore a barong, hands folded across his stomach, rosary threaded between his fingers. A handwoven burial blanket—faint reds and earth tones, the kind passed down through generations—was folded across his lap. His face had been freshly shaved, his silver hair combed neatly back, the final acts of devotion from hands that loved him. The vigil chair had been propped with cushions, but something in the stillness pressed too close, like the air hadn’t settled right.
+He wore a barong, hands folded across his stomach, rosary threaded between his fingers. A handwoven burial blanket -- faint reds and earth tones, the kind passed down through generations -- was folded across his lap. His face had been freshly shaved, his silver hair combed neatly back, the final acts of devotion from hands that loved him. The vigil chair had been propped with cushions, but something in the stillness pressed too close, like the air hadn’t settled right.
 
 The old man’s body sat upright, as though waiting to be spoken to.
 
@@ -104,7 +104,7 @@ The corpse’s skin was dry. Pale. But the mouth…
 
 The corners of the lips had lifted. Barely. Like something halfway between a smile and a smirk. Gabi leaned in slightly.
 
-There, at the base of the neck—a bruise?
+There, at the base of the neck -- a bruise?
 
 No. Not quite.
 
@@ -126,7 +126,7 @@ But he didn’t.
 
 Not to Gabi.
 
-The eyes were closed, yes. The limbs still. But there was tension in the jaw, a tightness to the hands beneath the rosary beads. And that chair—it felt like it held more than just the weight of a body.
+The eyes were closed, yes. The limbs still. But there was tension in the jaw, a tightness to the hands beneath the rosary beads. And that chair -- it felt like it held more than just the weight of a body.
 
 As though it, too, remembered something it wished it could forget.
 
@@ -142,7 +142,7 @@ Then: “There’s someone else who’s been waiting to see you.”
 
 From the hallway, a small shape emerged.
 
-A girl—maybe eight years old. Hair to her shoulders, a small ribbon in one braid. She stared at Gabi without blinking, her arms around a ragged stuffed monkey.
+A girl -- maybe eight years old. Hair to her shoulders, a small ribbon in one braid. She stared at Gabi without blinking, her arms around a ragged stuffed monkey.
 
 “Elia,” Anding said. “Say hello to your kuya.”
 
@@ -160,7 +160,7 @@ Anding’s smile didn’t reach her eyes. “She says strange things. Ikaw talag
 
 Gabi crouched a little to meet her gaze, the corner of his mouth lifting despite the chill her words left. “You’ve got sharp eyes, balong,” he said, giving her shoulder a light squeeze before straightening.
 
-But Elia was already looking past him — at the chair.
+But Elia was already looking past him -- at the chair.
 
 ---
 
@@ -170,13 +170,13 @@ He was standing alone under the pine trees, collar loosened, cigarette in one ha
 
 He just held it.
 
-When he heard footsteps on gravel, he turned—and for a moment, his whole face softened.
+When he heard footsteps on gravel, he turned -- and for a moment, his whole face softened.
 
 “Gabi.”
 
 “Kin.”
 
-They crossed the distance in three strides and embraced—brief, firm, but real.
+They crossed the distance in three strides and embraced -- brief, firm, but real.
 
 The last time the cousins had stood face to face was ten years ago. Kin had just entered seminary. Gabi had just booked a one-way flight to Perth.
 
@@ -204,7 +204,7 @@ A long silence.
 
 Kin finally exhaled through his nose.
 
-“You always had that mind—connecting things.”
+“You always had that mind -- connecting things.”
 
 “It’s not imagination.”
 
@@ -226,7 +226,7 @@ Then Kin stood and clapped him on the shoulder. “Come on. The clan’s gatheri
 
 The house had filled up in the short time he’d been away.
 
-Cousins he barely remembered—Junjun, Lisa, Edwin—were seated on low stools, sipping rice coffee and murmuring into their phones. A few distant relatives stood at the edges of the room, offering novena prayers under their breath while subtly eyeing Gabi and Kin.
+Cousins he barely remembered -- Junjun, Lisa, Edwin -- were seated on low stools, sipping rice coffee and murmuring into their phones. A few distant relatives stood at the edges of the room, offering novena prayers under their breath while subtly eyeing Gabi and Kin.
 
 It was a typical Sagayo affair. Reserved, tightly managed, held up by a scaffolding of ritual and unsaid things.
 
@@ -288,11 +288,11 @@ Tita Anding turned, already smiling.
 
 The name stuck in his throat - Elena.
 
-She stepped into the doorway with her hands clasped politely, a bundle of white santan and camia cradled like an offering. Her blouse was modest, ironed smooth, and she wore a long black skirt that brushed her ankles. A black ribbon held her hair back, the same way she used to wear it when they were young—except now, she was no longer a girl.
+She stepped into the doorway with her hands clasped politely, a bundle of white santan and camia cradled like an offering. Her blouse was modest, ironed smooth, and she wore a long black skirt that brushed her ankles. A black ribbon held her hair back, the same way she used to wear it when they were young -- except now, she was no longer a girl.
 
 She was beautiful.
 
-Not in the way that startled—but in the way that stayed. The kind of beauty that memory never could quite wash out, no matter how long you tried.
+Not in the way that startled -- but in the way that stayed. The kind of beauty that memory never could quite wash out, no matter how long you tried.
 
 She bowed slightly. “I came to pay my respects, po.”
 
@@ -300,7 +300,7 @@ Then her eyes found Gabi.
 
 And time collapsed.
 
-A decade of silence, of distance, of long-buried letters in the back of drawers—all of it surged up at once. He felt it before he understood it: that hollow ache in his chest, the way his mouth opened but nothing came out.
+A decade of silence, of distance, of long-buried letters in the back of drawers -- all of it surged up at once. He felt it before he understood it: that hollow ache in his chest, the way his mouth opened but nothing came out.
 
 She stepped forward.
 
@@ -324,7 +324,7 @@ Before he could say more, another voice came from behind him.
 
 “Len?”
 
-She turned, and smiled again—gentler this time.
+She turned, and smiled again -- gentler this time.
 
 “Hello, Father.”
 
@@ -346,13 +346,13 @@ She stepped past them, knelt before the corpse, and laid the flowers at his feet
 
 Gabi watched her, chest heavy.
 
-And somewhere deep in the fog of memory, he felt the shape of all he’d lost—and all that might still be left to reclaim.
+And somewhere deep in the fog of memory, he felt the shape of all he’d lost -- and all that might still be left to reclaim.
 
 ---
 
 The prayers began at dusk.
 
-Fr. Kin led the novena, his voice hoarse but steady. A few dozen relatives gathered—some kneeling, some sitting cross-legged on the wooden floor, others leaning against the walls with eyes half-shut in exhaustion. The glow of candles flickered against the wooden beams, throwing long shadows that danced like old memories.
+Fr. Kin led the novena, his voice hoarse but steady. A few dozen relatives gathered -- some kneeling, some sitting cross-legged on the wooden floor, others leaning against the walls with eyes half-shut in exhaustion. The glow of candles flickered against the wooden beams, throwing long shadows that danced like old memories.
 
 Gabi sat near the back, flanked by cousins he barely knew. He couldn’t focus. The words blurred. He kept glancing toward the chair in the sala, where Lolo Ben still sat, then at Len, then at Carlos.
 
@@ -360,7 +360,7 @@ Elia sat on the floor nearby, cradling her stuffed monkey, lips moving along wit
 
 Len hadn’t stayed long after placing the flowers. She’d offered quiet condolences to the elders, bowed her head once more, and slipped out into the fog. Her eyes met Gabi’s as she left. He didn't follow. He wasn’t ready. Not yet.
 
-By the time the final “Amen” was spoken, a heaviness had settled on the house—not just grief, but something older. Thicker. The kind of silence that settles on things left unsaid.
+By the time the final “Amen” was spoken, a heaviness had settled on the house -- not just grief, but something older. Thicker. The kind of silence that settles on things left unsaid.
 
 That night, Gabi lay awake longer than he wanted to admit.
 
@@ -370,7 +370,7 @@ And when sleep finally came, it came wrapped in fog.
 
 That night, Gabi dreamed of fog.
 
-Not the thick, white mist of the mountain road—but a black fog, low to the ground, clinging to his ankles like fingers. He stood in the middle of the sala, and everything was wrong. The windows were boarded shut. The crucifix above the door was hanging upside down.
+Not the thick, white mist of the mountain road -- but a black fog, low to the ground, clinging to his ankles like fingers. He stood in the middle of the sala, and everything was wrong. The windows were boarded shut. The crucifix above the door was hanging upside down.
 
 And in the chair—
 
@@ -386,7 +386,7 @@ Trying to speak.
 
 Gabi stepped closer. “Lolo?”
 
-The old man’s mouth moved—just barely—but no sound came out. His lips trembled. Forming shapes.
+The old man’s mouth moved -- just barely -- but no sound came out. His lips trembled. Forming shapes.
 
 A word. Maybe two.
 
@@ -396,7 +396,7 @@ He couldn’t make them out.
 
 “Say it,” he whispered. “Please.”
 
-Then the corpse’s hand jerked up and grabbed his wrist—ice-cold, but strong.
+Then the corpse’s hand jerked up and grabbed his wrist -- ice-cold, but strong.
 
 Gabi shouted.
 
@@ -436,7 +436,7 @@ But he didn’t go back to sleep.
 
 ---
 
-By morning, the fog had receded—lighter now, a ghost of its night self
+By morning, the fog had receded -- lighter now, a ghost of its night self
 
 Gabi was in the kitchen, cradling a mug of lukewarm coffee when Elia walked in, barefoot and silent.
 

@@ -57,7 +57,7 @@ A heavy pause settled between them.
 
 Anna looked down at her stomach.
 
-The child stirred. A slow, deliberate shift—like turning toward something.
+The child stirred. A slow, deliberate shift -- like turning toward something.
 
 “I don’t want him to grow up in fear,” she whispered.
 
@@ -127,7 +127,7 @@ Belen looked around the room. Her gaze lingered on the crucifix. Then the relic.
 
 Her voice didn’t rise. But it deepened. Rooted in prayer.
 
-“You walk the village like nothing has changed,” she continued. “But the dogs whimper at night. The trees don’t rustle anymore. And the children—if they’re born at all—no longer dream.”
+“You walk the village like nothing has changed,” she continued. “But the dogs whimper at night. The trees don’t rustle anymore. And the children -- if they’re born at all -- no longer dream.”
 
 ---
 
@@ -139,7 +139,7 @@ Belen’s expression cooled.
 
 She reached for the brass relic wrapped in linen. Uncovered it.
 
-Held it out between them—not with hatred, but with sorrow.
+Held it out between them -- not with hatred, but with sorrow.
 
 > “The woman in the mountains gave you something. But it didn’t come from God.”
 
@@ -147,7 +147,7 @@ Held it out between them—not with hatred, but with sorrow.
 
 Belen took one step closer.
 
-The relic **burned**—faint wisps of smoke rising from Fabiana’s palm.
+The relic **burned** -- faint wisps of smoke rising from Fabiana’s palm.
 
 She didn’t let go.
 
@@ -157,7 +157,7 @@ She didn’t let go.
 
 ---
 
-Belen’s smile broke. Not into rage—but grief twisted backward into cruelty.
+Belen’s smile broke. Not into rage -- but grief twisted backward into cruelty.
 
 “You cast me out.”
 
@@ -181,7 +181,7 @@ Fabiana did not struggle.
 
 She did not scream.
 
-She looked Belen in the eyes—those eyes she once blessed at baptism—and whispered her last words:
+She looked Belen in the eyes -- those eyes she once blessed at baptism -- and whispered her last words:
 
 > “I forgive you.  
 > In the name of the One who sees you still.”
@@ -221,7 +221,7 @@ Miguel lay sleeping beside her, one arm across his chest.
 
 The relic was warm beneath her pillow.
 
-And at the altar, a single candle—unlit when she’d gone to bed—now burned steady.
+And at the altar, a single candle -- unlit when she’d gone to bed -- now burned steady.
 
 No smoke. No match.
 
@@ -315,7 +315,7 @@ The door was open. A step. Two.
 
 She looked at Mira.
 
-And what she saw—just for a moment—was **not evil**.
+And what she saw -- just for a moment -- was **not evil**.
 
 It was _what Anna could have become_, had her mother’s faith not lived long enough to whisper in the dark.
 
