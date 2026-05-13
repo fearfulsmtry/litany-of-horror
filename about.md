@@ -3,51 +3,32 @@ layout: page
 title: About
 ---
 
-*Stories from the edge of faith*
+*Stories from the edge of faith.*
 
 ---
 
-Welcome to **Litany of Horror**—a collection of original, slow-burning tales where **evil is real**, seductive, and ancient—but never omnipotent.
+**Litany of Horror** is a collection of original, slow-burning horror fiction rooted in faith, folklore, and the spiritual inheritance of generations past.
 
-These are stories shaped by horror and grace, drawn from folklore, theology, and the spiritual inheritance of generations past. They explore the world **as it is**: haunted, broken, but holy and worth redeeming.
+These stories explore a world where evil is real, seductive, and ancient — but never omnipotent. Where darkness doesn't flee from noise, and grace is always in reach.
 
-Here, you’ll find:
-- Prayers whispered in crumbling chapels.
-- Relics hidden beneath floorboards.
-- And darkness that flees—not from noise, but from *grace*.
+The horror here is drawn from folklore, theology, and the quiet dread of things left unspoken. Each story is told in parts, like oral tradition or novena vigils — meant to be lived with, not rushed through.
 
 ---
 
-### 👁 Start with our first serialized story:  
-🩸 **[Aswang – Part I: Echoes in the Earth](/aswang/part-i-echoes-in-the-earth/)**
+### What to Expect
 
-> *“You don’t need to believe everything,” her mother once said.  
-> “Just remember where you came from, anak.”*
-
----
-
-### ☩ What to Expect
-
-- Stories told in **parts**, like oral tradition or novena vigils
-- Horror that flows from **spiritual realism**, not shock
-- The Church—flawed but enduring—watching from the margins
+- Horror that flows from **spiritual realism**
+- Stories shaped by **folklore, faith and philosophy** 
 - Evil that must be confronted **bodily**, not just banished
+- Prayers whispered in crumbling chapels, relics hidden beneath floorboards, and silence that has teeth
 
 ---
 
-### 🌒 Upcoming
-New stories are unfolding—of the restless dead, ancient folklore, and the horror that waits in the dark. Stay close.
+For those who stare into the abyss -- and find the light shining in the darkness.
+
+> *"I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life."*
+> — John 8:12
 
 ---
-
-### 🙏  
-This blog is dedicated to those who keep praying, even in the dark.
-
-> _“He will cover you with His pinions, and under His wings you will find refuge...”_  
-> —Psalm 91:4
-
----
-
-### © Copyright Notice
 
 All stories and content on this site are original works by **Kris Canasa** and are protected by copyright. These works may not be reproduced, distributed, or transmitted without permission. For inquiries about republication or adaptation rights, please contact the author.
