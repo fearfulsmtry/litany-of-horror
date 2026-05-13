@@ -8,10 +8,10 @@ series: aswang
 part_title: "Where Reason Alone Fails"
 ---
 
-**Aswang – Part III: Where Reason Alone Fails**  
+## Aswang – Part III: Where Reason Alone Fails
 
-_"Lord, I believe. Help my unbelief."_ 
-_(Mark 9:24)_
+> "Lord, I believe. Help my unbelief."
+> _(Mark 9:24)_
 
 ---
 

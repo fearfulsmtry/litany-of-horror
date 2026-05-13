@@ -8,10 +8,10 @@ series: aswang
 part_title: "Flesh and Fire"
 ---
 
-**Aswang – Part VII: Flesh and Fire**  
+## Aswang – Part VII: Flesh and Fire
 
-_“The light shines in the darkness, and the darkness did not overcome it.”_
-_(John 1:5)_
+> "The light shines in the darkness, and the darkness did not overcome it."
+> _(John 1:5)_
 
 ---
 

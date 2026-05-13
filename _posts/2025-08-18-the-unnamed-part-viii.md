@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: "The Broken Throne"
 ---
 
-**Part VIII - The Broken Throne**
+## Part VIII - The Broken Throne
 
-_“They broke the place of his dwelling, and the shadow departed.”_
+> "They broke the place of his dwelling, and the shadow departed."
 
 ---
 

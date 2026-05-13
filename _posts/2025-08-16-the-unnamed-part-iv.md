@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: "The Circle Tightens"
 ---
 
-**Part IV - The Circle Tightens** 
+## Part IV - The Circle Tightens
 
-_“The door was shut, but the enemy was among them.”_
+> "The door was shut, but the enemy was among them."
 
 ---
 

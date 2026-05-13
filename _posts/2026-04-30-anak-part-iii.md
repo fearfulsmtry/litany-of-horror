@@ -8,10 +8,10 @@ series: anak
 part_title: "A Meaningful Change in Variables"
 ---
 
-**Part III - A Meaningful Change in Variables**
+## Part III - A Meaningful Change in Variables
 
-*"O my God, I cry by day, but you do not answer; and by night, but find no rest."*
-*Psalm 22:2*
+> "O my God, I cry by day, but you do not answer; and by night, but find no rest."
+> *Psalm 22:2*
 
 ---
 

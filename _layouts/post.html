@@ -4,7 +4,8 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {% assign day = page.date | date: "%-d" %}{% assign day_suffix = "th" %}{% if day == "1" or day == "21" or day == "31" %}{% assign day_suffix = "st" %}{% elsif day == "2" or day == "22" %}{% assign day_suffix = "nd" %}{% elsif day == "3" or day == "23" %}{% assign day_suffix = "rd" %}{% endif %}
+  <span class="post-date">{{ day }}{{ day_suffix }} {{ page.date | date: "%B %Y" }}</span>
   
   <!-- Series Navigation (Auto-generated) -->
   {% if page.series %}

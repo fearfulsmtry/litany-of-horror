@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: "The Mark"
 ---
 
-**Part VI: The Mark**
+## Part VI - The Mark
 
-_“They withheld the truth, and the enemy claimed his prize.”_
+> "They withheld the truth, and the enemy claimed his prize."
 
 ---
 

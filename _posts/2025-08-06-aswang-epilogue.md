@@ -8,10 +8,10 @@ series: aswang
 part_title: "The Flame That Remained"
 ---
 
-**Epilogue: The Flame That Remained**
+## Epilogue: The Flame That Remained
 
-_“I have called you by name. You are mine.”_
-_(Isaiah 43:1)_
+> "I have called you by name. You are mine."
+> _(Isaiah 43:1)_
 
 ---
 

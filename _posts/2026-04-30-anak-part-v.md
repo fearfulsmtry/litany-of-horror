@@ -8,10 +8,10 @@ series: anak
 part_title: "You Were Sure"
 ---
 
-**Part V - You Were Sure**
+## Part V - You Were Sure
 
-*"For there is nothing hidden that will not be disclosed, and nothing concealed that will not be known or brought out into the open."*
-*Luke 8:17*
+> "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be known or brought out into the open."
+> *Luke 8:17*
 
 ---
 

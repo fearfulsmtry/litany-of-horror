@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: "When Silence Shatters"
 ---
 
-**Part V - When Silence Shatters**  
+## Part V - When Silence Shatters
 
-_“The truth was spoken, and the blood answered.”_
+> "The truth was spoken, and the blood answered."
 
 ---
 

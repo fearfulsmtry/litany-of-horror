@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: "The First Cracks"
 ---
 
-**Part III - The First Cracks**
+## Part III - The First Cracks
 
-_“The prowler watched, seeking a soul to claim.”_
+> "The prowler watched, seeking a soul to claim."
 
 ---
 

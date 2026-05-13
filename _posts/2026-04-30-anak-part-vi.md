@@ -8,10 +8,10 @@ series: anak
 part_title: "The Return"
 ---
 
-**Part VI - The Return**
+## Part VI - The Return
 
-*"Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me."*
-*Psalm 23:4*
+> "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me."
+> *Psalm 23:4*
 
 ---
 

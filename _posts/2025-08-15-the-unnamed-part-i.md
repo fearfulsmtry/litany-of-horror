@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: "What We Bury"
 ---
 
-**Part I - What We Bury**
+## Part I - What We Bury
 
-_“He came again to his own, and the silence received him.”_
+> "He came again to his own, and the silence received him."
 
 ---
 

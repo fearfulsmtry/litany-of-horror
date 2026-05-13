@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: "The Naming"
 ---
 
-**Part VII - The Naming**
+## Part VII - The Naming
 
-_“They gave the dead his name, and the living drew breath.”_
+> "They gave the dead his name, and the living drew breath."
 
 ---
 

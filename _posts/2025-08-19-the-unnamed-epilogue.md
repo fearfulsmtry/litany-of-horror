@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: ""
 ---
 
-**Epilogue**
+## Epilogue
 
-_“The names were given, and the road lay clear.”_
+> "The names were given, and the road lay clear."
 
 ---
 

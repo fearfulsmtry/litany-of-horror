@@ -8,10 +8,10 @@ series: aswang
 part_title: "The Pasa"
 ---
 
-**Aswang – Part VI: The Pasa**  
+## Aswang – Part VI: The Pasa
 
-_"Claim the womb. Twist the breath. Inherit the hunger."_
-_(From the rite of Pasa)_
+> "Claim the womb. Twist the breath. Inherit the hunger."
+> _(From the rite of Pasa)_
 
 ---
 

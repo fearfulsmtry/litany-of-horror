@@ -8,10 +8,10 @@ series: aswang
 part_title: "Roots of the Rot"
 ---
 
-**Aswang – Part II: Roots of the Rot** 
+## Aswang – Part II: Roots of the Rot
 
-_"Their root will be as rottenness, and their blossom will go up like dust."_
-_(Isaiah 5:24)_
+> "Their root will be as rottenness, and their blossom will go up like dust."
+> _(Isaiah 5:24)_
 
 ---
 

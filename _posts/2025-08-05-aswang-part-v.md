@@ -8,10 +8,10 @@ series: aswang
 part_title: "Faith Draws the Blade"
 ---
 
-**Aswang – Part V: Faith Draws the Blade**  
+## Aswang – Part V: Faith Draws the Blade
 
-_"There is a time to kill, and a time to heal"_
-_(Ecclesiasties 3:3)_
+> "There is a time to kill, and a time to heal"
+> _(Ecclesiastes 3:3)_
 
 ---
 

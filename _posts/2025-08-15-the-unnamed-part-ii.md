@@ -8,9 +8,9 @@ series: the-unnamed
 part_title: "The Weight of Silence"
 ---
 
-**Part II - The Weight of Silence**
+## Part II - The Weight of Silence
 
-_“They turned their faces away, and the house kept its vigil.”_
+> "They turned their faces away, and the house kept its vigil."
 
 ---
 

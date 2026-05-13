@@ -60,7 +60,8 @@ layout: default
     {% assign title_parts = post_title | split: " - " %}
     {% assign part_label = title_parts[1] | default: title_parts[0] %}
     <h3><a href="{{ post_url | relative_url }}">{{ part_label }}{% if post_part_title and post_part_title != "" %}: {{ post_part_title }}{% endif %}</a></h3>
-    <p><em>Published {{ post_date | date: "%B %-d, %Y" }}</em></p>
+    {% assign sday = post_date | date: "%-d" %}{% assign sday_suffix = "th" %}{% if sday == "1" or sday == "21" or sday == "31" %}{% assign sday_suffix = "st" %}{% elsif sday == "2" or sday == "22" %}{% assign sday_suffix = "nd" %}{% elsif sday == "3" or sday == "23" %}{% assign sday_suffix = "rd" %}{% endif %}
+    <p><em>Published {{ sday }}{{ sday_suffix }} {{ post_date | date: "%B %Y" }}</em></p>
   {% endfor %}
 
   <hr>

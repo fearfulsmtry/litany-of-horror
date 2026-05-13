@@ -4,13 +4,18 @@ layout: default
 
 <!-- Hero Section -->
 <div class="hero-section">
-  <h1 class="hero-title">Welcome to Litany of Horror</h1>
+  <p class="hero-eyebrow">Original Horror Fiction</p>
+  <h1 class="hero-title">Litany of Horror</h1>
   <p class="hero-tagline">Stories from the edge of faith.</p>
+  <div class="divider-line"></div>
 </div>
 
 <!-- Featured Series -->
 <div class="featured-series">
-  <h2>📖 Featured Series</h2>
+  <div class="section-header">
+    <p class="section-label">Featured Series</p>
+    <h2>Begin Your Descent</h2>
+  </div>
   
   <div class="series-showcase">
     <h3><a href="{{ '/aswang-series' | relative_url }}">Aswang</a></h3>
@@ -31,7 +36,10 @@ layout: default
 
 <!-- Quick Navigation -->
 <div class="quick-nav">
-  <h2>🗂️ Browse Stories</h2>
+  <div class="section-header">
+    <p class="section-label">Navigate</p>
+    <h2>Browse Stories</h2>
+  </div>
   <div class="nav-grid">
     <div class="nav-item">
       <h4><a href="{{ '/series' | relative_url }}">Complete Series</a></h4>
@@ -50,7 +58,7 @@ layout: default
 
 <!-- Content Warning -->
 <div class="content-warning">
-  <h3>⚠️ Reader Advisory</h3>
+  <h3>These stories contain mature themes</h3>
   <p>These stories contain mature themes including supernatural horror, violence, and religious imagery. Reader discretion advised.</p>
 </div>
 
@@ -58,7 +66,10 @@ layout: default
 {% assign recent_posts = site.posts | limit: 3 %}
 {% if recent_posts.size > 0 %}
 <div class="recent-updates">
-  <h2>📝 Recent Additions</h2>
+  <div class="section-header">
+    <p class="section-label">Latest</p>
+    <h2>Recent Additions</h2>
+  </div>
   {% for post in recent_posts %}
     <div class="update-item">
       <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>

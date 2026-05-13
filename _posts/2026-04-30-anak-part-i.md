@@ -8,10 +8,10 @@ series: anak
 part_title: "The Beautiful Empty"
 ---
 
-**Part I - The Beautiful Empty**
+## Part I - The Beautiful Empty
 
-*"Hope deferred makes the heart sick."*
-*Proverbs 13:12*
+> "Hope deferred makes the heart sick."
+> *Proverbs 13:12*
 
 ---
 

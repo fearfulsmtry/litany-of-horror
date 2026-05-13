@@ -8,10 +8,10 @@ series: anak
 part_title: "The Feast"
 ---
 
-**Part IV - The Feast**
+## Part IV - The Feast
 
-*"He gives the barren woman a home, making her the joyous mother of children."*
-*Psalm 113:9*
+> "He gives the barren woman a home, making her the joyous mother of children."
+> *Psalm 113:9*
 
 ---
 
