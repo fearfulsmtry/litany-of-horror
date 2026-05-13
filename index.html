@@ -10,26 +10,33 @@ layout: default
   <div class="divider-line"></div>
 </div>
 
-<!-- Featured Series -->
+<!-- Featured Story (driven by first entry in _data/series.yml) -->
+{% assign featured = site.data.series.first %}
+{% assign featured_posts = site.posts | where: "series", featured.slug %}
+{% for post in featured_posts %}
+  {% assign part_label = post.title | split: " - " | last | strip %}
+  {% if part_label == "Part I" %}
+    {% assign first_post = post %}
+    {% break %}
+  {% endif %}
+{% endfor %}
 <div class="featured-series">
   <div class="section-header">
-    <p class="section-label">Featured Series</p>
+    <p class="section-label">Featured Story</p>
     <h2>Begin Your Descent</h2>
   </div>
   
   <div class="series-showcase">
-    <h3><a href="{{ '/aswang-series' | relative_url }}">Aswang</a></h3>
-    <p class="series-meta">Complete 7-Part Horror Series + Epilogue</p>
+    <h3><a href="{{ '/' | append: featured.slug | append: '-series' | relative_url }}">{{ featured.title }}</a></h3>
+    <p class="series-meta">{{ featured.tagline }}</p>
     
     <div class="series-description">
-      <p>When Anna returns to her ancestral village in the Philippines, she carries more than just memories of her grandmother, she must confront the truth about her family's legacy and reclaim her birthright.</p>
-
-      <p><em>A tale of folk horror that weaves together Filipino folklore, mysticism and ancient evil stirring in the shadows.</em></p>
+      {{ featured.description | markdownify }}
     </div>
     
     <div class="series-cta">
-      <a href="{{ '/2025/08/04/aswang-part-i' | relative_url }}" class="btn-primary">Begin with Part I: Echoes in the Earth</a>
-      <a href="{{ '/aswang-series' | relative_url }}" class="btn-secondary">View All Parts</a>
+      <a href="{{ first_post.url | relative_url }}" class="btn-primary">Begin with Part I: {{ first_post.part_title }}</a>
+      <a href="{{ '/' | append: featured.slug | append: '-series' | relative_url }}" class="btn-secondary">View All Parts</a>
     </div>
   </div>
 </div>
@@ -42,7 +49,7 @@ layout: default
   </div>
   <div class="nav-grid">
     <div class="nav-item">
-      <h4><a href="{{ '/series' | relative_url }}">Complete Series</a></h4>
+      <h4><a href="{{ '/series' | relative_url }}">Complete Stories</a></h4>
       <p>Read multi-part horror narratives from beginning to end.</p>
     </div>
     <div class="nav-item">

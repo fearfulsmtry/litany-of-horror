@@ -368,24 +368,7 @@ a.sidebar-nav-item:focus {
   }
   
   .sidebar-series {
-    text-align: center;
-    margin-top: 0.5rem;
-    padding-top: 0.5rem;
-    border-top: 1px solid rgba(255,255,255,.15);
-  }
-  
-  .sidebar-series-title {
-    display: block;
-    margin-bottom: 0.5rem;
-    padding: 0;
-  }
-  
-  .sidebar-series-item {
-    display: inline-block;
-    margin: 0 0.5rem;
-    padding-left: 0.75rem;
-    border-left: none;
-    margin-left: 0;
+    display: none;
   }
   
   .sidebar-item {

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Series
+title: Stories
 ---
 
-# Complete Series
+# Complete Stories
 
-Welcome to the complete collection of horror series from the Litany of Horror. Each series tells a complete story across multiple parts, exploring different aspects of folk horror, supernatural dread, and the darkness that lurks in familiar places.
+Welcome to the complete collection of horror stories from the Litany of Horror. Each story is told across multiple parts, exploring different aspects of folk horror, supernatural dread, and the darkness that lurks in familiar places.
 
 {% for s in site.data.series %}
 
@@ -16,7 +16,7 @@ Welcome to the complete collection of horror series from the Litany of Horror. E
 
 {{ s.description }}
 
-**[Read the {{ s.title }} Series &rarr;]({{ site.baseurl }}/{{ s.slug }}-series)**
+**[Read {{ s.title }} &rarr;]({{ site.baseurl }}/{{ s.slug }}-series)**
 
 {% endfor %}
 

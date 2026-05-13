@@ -29,9 +29,9 @@
       {% endif %}
     {% endfor %}
 
-    <!-- Series Section (driven by _data/series.yml, newest first) -->
+    <!-- Stories Section (driven by _data/series.yml, newest first) -->
     <div class="sidebar-series">
-      <span class="sidebar-series-title">📖 Series</span>
+      <span class="sidebar-series-title">📖 Stories</span>
       {% for s in site.data.series %}
         <a class="sidebar-nav-item sidebar-series-item{% if page.url == '/' | append: s.slug | append: '-series/' %} active{% endif %}" href="{{ '/' | append: s.slug | append: '-series' | relative_url }}">{{ s.title }}</a>
       {% endfor %}
